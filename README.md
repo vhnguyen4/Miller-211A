@@ -2,7 +2,7 @@
 
 Propts: How have popular topics in presidental speeches changed over time?
 
-Team: Noah, Vg, Justin, Ashley
+Team: Noah, Vy, Justin, Ashley
 
 Data: https://data.millercenter.org/
 
