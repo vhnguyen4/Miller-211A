@@ -1,0 +1,1 @@
+What areas of policial issues do we think have been common in speeches since Lincoln?
