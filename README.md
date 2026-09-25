@@ -6,3 +6,10 @@ Team: Noah, Vg, Justin, Ashley
 
 Data: https://data.millercenter.org/
 
+##Next Steps:
+Goal:
+Tasks:
+Noah:
+Justin:
+Vy:
+Ashley:
