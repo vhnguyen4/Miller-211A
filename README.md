@@ -8,8 +8,13 @@ Data: https://data.millercenter.org/
 
 ##Next Steps:
 Goal:
-View dataset in python.
+Focus on presentation.
 ###Tasks:
-Noah: Grab webpage transcripts of solely the speeches
-Justin: Process JSON into a python usable script
-Vy & Ashley: Select general topic for us to process (stretch goal, create a function that can scrape number of times a word appears)
+Noah: 
+Justin: 
+Vy:
+Ashley:
+
+
+Ideas for project:
+Immigration over time, highlight peaks with number events in the nation at the given time, mentions over speech type. Filter by types of immigrant over time. 
