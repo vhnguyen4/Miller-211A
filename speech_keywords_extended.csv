@@ -1,0 +1,1060 @@
+president,year,title,speech_type,word_count,war,peace,freedom,slavery,economy,taxes,immigration,econom*,tax*,immigra*
+Abraham Lincoln,1852,"July 6, 1852: Eulogy on Henry Clay",Other,10814,14,12,6,30,0,0,0,0,0,0
+Abraham Lincoln,1854,"October 16, 1854: At Peoria, Illinois",Other,33240,12,18,10,240,0,0,0,0,0,0
+Abraham Lincoln,1858,"June 16, 1858: ""A House Divided"" Speech",Address / Speech,3224,0,0,3,22,0,0,0,0,0,0
+Abraham Lincoln,1860,"February 27, 1860: Cooper Union Address",Address / Speech,13719,0,3,3,100,0,0,0,0,0,0
+Abraham Lincoln,1861,"February 11, 1861: Farewell Address",Farewell Address,152,0,0,0,0,0,0,0,0,0,0
+Abraham Lincoln,1861,"March 4, 1861: First Inaugural Address",Inaugural Address,3632,2,2,0,4,0,0,0,0,0,0
+Abraham Lincoln,1861,"July 4, 1861: July 4th Message to Congress",Message,6274,6,2,0,0,0,0,0,0,0,0
+Abraham Lincoln,1861,"December 3, 1861: First Annual Message",State of the Union,6956,8,5,0,0,1,1,1,1,1,1
+Abraham Lincoln,1862,"December 1, 1862: Second Annual Message",State of the Union,8294,20,4,3,13,1,0,0,6,1,0
+Abraham Lincoln,1863,"January 1, 1863: Emancipation Proclamation",Proclamation,711,1,0,3,0,0,0,0,0,0,0
+Abraham Lincoln,1863,"August 26, 1863: Public Letter to James Conkling",Other,1696,4,4,1,0,0,0,0,0,3,0
+Abraham Lincoln,1863,"November 19, 1863: Gettysburg Address",Address / Speech,272,2,0,1,0,0,0,0,0,0,0
+Abraham Lincoln,1863,"December 8, 1863: Third Annual Message",State of the Union,6080,15,2,2,4,0,0,1,1,4,1
+Abraham Lincoln,1864,"December 6, 1864: Fourth Annual Message",State of the Union,5804,22,4,0,4,0,1,1,0,4,4
+Abraham Lincoln,1865,"March 4, 1865: Second Inaugural Address",Inaugural Address,705,12,1,0,1,0,0,0,0,0,0
+Andrew Jackson,1829,"March 4, 1829: First Inaugural Address",Inaugural Address,1128,1,2,1,0,1,0,0,1,0,0
+Andrew Jackson,1829,"May 11, 1829: Proclamation Regarding Duties on Austrian Vessels",Proclamation,400,0,0,0,0,0,0,0,0,0,0
+Andrew Jackson,1829,"December 8, 1829: First Annual Message to Congress",State of the Union,10496,12,11,1,0,2,0,0,2,0,0
+Andrew Jackson,1830,"May 6, 1830: Message Regarding Treaties with the Choctaw Nation of Indians",Message,885,0,0,0,0,0,0,0,0,0,0
+Andrew Jackson,1830,"May 27, 1830: Veto Message Regarding Funding of Infrastructure Development",Veto Message,5479,1,1,2,0,0,3,0,0,5,0
+Andrew Jackson,1830,"October 5, 1830: Proclamation Regarding the Opening of United States Ports to British Vessels",Proclamation,837,0,0,0,0,0,0,0,0,0,0
+Andrew Jackson,1830,"December 6, 1830: Second Annual Message to Congress",State of the Union,15000,3,3,1,0,0,1,0,2,3,0
+Andrew Jackson,1831,"February 22, 1831: Message Regarding Indian Relations",Message,2604,8,3,0,0,0,0,0,0,0,0
+Andrew Jackson,1831,"December 6, 1831: Third Annual Message to Congress",State of the Union,7163,4,7,0,0,0,0,0,0,1,0
+Andrew Jackson,1832,"February 15, 1832: Message Regarding Indian Removal",Message,409,1,0,0,0,0,0,0,0,0,0
+Andrew Jackson,1832,"July 10, 1832: Bank Veto",Veto Message,8064,3,4,0,0,2,1,0,2,33,0
+Andrew Jackson,1832,"December 4, 1832: Fourth Annual Message to Congress",State of the Union,7846,10,7,1,0,2,1,0,5,2,0
+Andrew Jackson,1832,"December 6, 1832: Veto Message of Internal Improvement Legislation",Veto Message,589,0,0,0,0,0,0,0,0,0,0
+Andrew Jackson,1832,"December 10, 1832: Nullification Proclamation",Proclamation,8904,2,6,1,0,0,3,0,0,7,0
+Andrew Jackson,1833,"January 16, 1833: Message Regarding South Carolina Nullification of Federal Legislation",Message,11431,2,0,0,0,0,1,0,0,5,0
+Andrew Jackson,1833,"March 4, 1833: Second Inaugural Address",Inaugural Address,1175,0,3,0,0,1,1,0,1,1,0
+Andrew Jackson,1833,"September 18, 1833: Message Regarding the Bank of the United States",Message,7359,0,1,1,0,0,0,0,0,0,0
+Andrew Jackson,1833,"December 3, 1833: Fifth Annual Message to Congress",State of the Union,7848,6,5,0,0,2,1,0,2,1,0
+Andrew Jackson,1833,"December 12, 1833: Message on the Constitutional Rights and Responsibilities of the President",Message,313,0,0,0,0,0,0,0,0,0,0
+Andrew Jackson,1834,"April 15, 1834: Protest of Senate Censure",Other,12611,5,1,1,0,0,0,0,0,1,0
+Andrew Jackson,1834,"April 21, 1834: Addendum to the Protest of Senate Censure",Other,456,0,0,0,0,0,0,0,0,0,0
+Andrew Jackson,1834,"December 1, 1834: Sixth Annual Message to Congress",State of the Union,13346,9,4,2,0,3,0,0,3,3,0
+Andrew Jackson,1835,"December 7, 1835: Seventh Annual Address to Congress",State of the Union,10800,3,2,3,0,3,0,0,4,3,0
+Andrew Jackson,1836,"December 5, 1836: Eighth Annual Message to Congress",State of the Union,12348,11,3,0,0,2,9,0,3,22,0
+Andrew Jackson,1836,"December 21, 1836: Statement on the Independence of Texas",Remarks / Statement,1802,4,1,0,0,0,0,0,0,0,0
+Andrew Jackson,1837,"March 4, 1837: Farewell Address",Farewell Address,8254,9,10,6,0,2,5,0,3,12,0
+Andrew Johnson,1865,"April 17, 1865: Message Following the Death of Abraham Lincoln",Message,358,0,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1865,"April 29, 1865: Order Ending Commercial Restrictions on Confederate States",Other,233,1,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1865,"May 2, 1865: Establishing Rewards for the Arrest of Certain Confederate Officers",Other,903,1,1,0,0,0,1,0,0,1,0
+Andrew Johnson,1865,"May 29, 1865: Proclamation Pardoning Persons who Participated in the Rebellion",Proclamation,948,2,2,1,0,0,0,0,0,1,0
+Andrew Johnson,1865,"May 29, 1865: Message Reestablishing Governments in Former Confederate States",Message,1031,0,0,0,0,0,1,0,0,1,0
+Andrew Johnson,1865,"June 2, 1865: Message Regarding Control of Abandoned Lands and Property",Message,268,1,0,0,0,0,0,0,0,1,0
+Andrew Johnson,1865,"June 6, 1865: Executive Order Regarding Discharged Prisoners of War",Other,303,3,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1865,"December 4, 1865: First Annual Message",State of the Union,9222,17,12,7,6,3,1,0,5,5,0
+Andrew Johnson,1865,"December 18, 1865: Announcement of the Successful Suppression of the Rebellion",Other,645,2,0,0,1,0,0,0,0,1,0
+Andrew Johnson,1866,"February 19, 1866: Veto Message on Freedmen and Refugee Relief Bureau Legislation",Veto Message,3886,12,6,5,3,1,0,0,1,2,0
+Andrew Johnson,1866,"March 27, 1866: Veto Message on Civil Rights Legislation",Veto Message,4428,0,3,4,6,2,0,0,2,2,0
+Andrew Johnson,1866,"April 2, 1866: Proclamation on the End of the Confederate Insurrection",Proclamation,1367,6,1,1,1,0,0,0,0,0,0
+Andrew Johnson,1866,"July 24, 1866: Message Restoring Tennessee to Former Status",Message,1290,1,0,0,5,0,0,0,0,0,0
+Andrew Johnson,1866,"August 20, 1866: Message Proclaiming End to Insurrection in the United States",Message,1922,6,2,1,2,0,0,0,0,0,0
+Andrew Johnson,1866,"December 3, 1866: Second Annual Message",State of the Union,7068,16,6,0,2,1,1,0,1,4,0
+Andrew Johnson,1867,"January 28, 1867: Veto Message on Admitting Colorado into the Union",Veto Message,2871,0,0,1,0,0,0,0,0,1,0
+Andrew Johnson,1867,"January 29, 1867: Veto Message on Admitting Nebraska into the Union",Veto Message,1442,0,0,0,0,0,0,0,0,4,0
+Andrew Johnson,1867,"March 2, 1867: Veto Message Regarding Rebel State Governments",Veto Message,6739,21,21,0,4,0,0,0,0,0,0
+Andrew Johnson,1867,"March 23, 1867: Veto Message Regarding Rebel State Governments",Veto Message,2120,4,1,1,0,0,0,0,0,0,0
+Andrew Johnson,1867,"June 20, 1867: Message Clarifying the Reconstruction Acts",Message,1810,2,1,0,0,0,1,0,0,1,0
+Andrew Johnson,1867,"July 19, 1867: Message Regarding Reconstruction Legislation",Message,4628,2,4,0,5,0,1,0,0,3,0
+Andrew Johnson,1867,"September 7, 1867: Proclamation Restoring All Rights to Rebellion Participants",Proclamation,1266,3,2,1,1,0,0,0,0,0,0
+Andrew Johnson,1867,"December 3, 1867: Third Annual Message to Congress",State of the Union,11929,29,11,2,4,4,1,0,6,11,0
+Andrew Johnson,1867,"December 12, 1867: Message Regarding the Suspension of Secretary Stanton",Message,5850,30,1,0,0,0,0,0,0,0,0
+Andrew Johnson,1868,"February 11, 1868: Messages Regarding Correspondence with General U.S. Grant",Message,6276,55,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1868,"February 22, 1868: Message Regarding the Removal of Secretary Stanton",Message,3214,20,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1868,"March 25, 1868: Veto Message on Legislation Amending the Judiciary",Veto Message,790,0,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1868,"June 20, 1868: Veto Message Regarding Regulations on Confederate States",Veto Message,1328,0,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1868,"July 18, 1868: Message Proposing Constitutional Amendments",Message,3395,1,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1868,"July 20, 1868: Veto Message Regarding Electoral College Participation",Veto Message,1624,4,0,0,0,0,0,0,0,0,0
+Andrew Johnson,1868,"December 8, 1868: Fourth Annual Message to Congress",State of the Union,9678,34,11,1,1,5,1,0,7,9,0
+Barack Obama,2008,"August 28, 2008: Acceptance Speech at the Democratic National Convention",Convention Speech,4782,4,1,2,0,10,5,1,12,11,2
+Barack Obama,2008,"November 4, 2008: Remarks on Election Night",Remarks / Statement,1983,0,2,0,1,0,0,0,0,0,0
+Barack Obama,2009,"January 20, 2009: Inaugural Address",Inaugural Address,2412,2,4,3,0,3,0,0,3,0,0
+Barack Obama,2009,"January 29, 2009: Remarks on the Lilly Ledbetter Fair Pay Restoration Act Bill Signing",Remarks / Statement,899,0,0,1,0,2,0,0,3,0,0
+Barack Obama,2009,"February 7, 2009: Remarks on the American Recovery and Reinvestment Act",Remarks / Statement,2559,0,0,0,0,7,0,0,13,8,0
+Barack Obama,2009,"February 24, 2009: Address Before a Joint Session of Congress",Address / Speech,6162,5,1,1,0,22,1,0,30,16,0
+Barack Obama,2009,"May 26, 2009: Remarks on Nominating Judge Sonia Sotomayor to the U.S. Supreme Court",Remarks / Statement,1543,1,0,0,0,1,0,0,1,0,0
+Barack Obama,2009,"June 4, 2009: Address at Cairo University",Address / Speech,6054,5,19,5,0,2,0,0,6,0,0
+Barack Obama,2009,"September 9, 2009: Address to Congress on Health Care",Address / Speech,5669,1,1,2,0,3,1,0,4,8,1
+Barack Obama,2009,"December 1, 2009: Speech on Strategy in Afghanistan and Pakistan",Address / Speech,4644,21,3,3,0,5,0,0,9,0,0
+Barack Obama,2009,"December 10, 2009: Acceptance of Nobel Peace Prize",Other,4278,35,29,3,0,0,0,0,2,0,0
+Barack Obama,2010,"January 27, 2010: 2010 State of the Union Address",State of the Union,7415,4,2,1,0,15,8,1,18,23,2
+Barack Obama,2010,"February 9, 2010: News Conference on Congressional Gridlock",Press Conference,5366,0,0,0,0,7,0,0,9,3,0
+Barack Obama,2010,"March 15, 2010: Speech on Health Care Reform",Address / Speech,4368,0,0,0,0,0,0,0,1,5,0
+Barack Obama,2010,"April 15, 2010: Remarks on Space Exploration in the 21st Century",Remarks / Statement,3595,0,0,0,0,2,0,0,4,1,0
+Barack Obama,2010,"April 28, 2010: Remarks on Wall Street Reform",Remarks / Statement,3571,0,0,0,0,20,0,0,21,14,0
+Barack Obama,2010,"June 15, 2010: Speech on the BP Oil Spill",Address / Speech,2739,1,0,0,0,2,0,0,3,0,1
+Barack Obama,2010,"August 31, 2010: Address on the End of the Combat Mission in Iraq",Address / Speech,2610,18,4,2,0,3,0,0,4,0,0
+Barack Obama,2010,"September 23, 2010: Address to the United Nations",Address / Speech,4103,7,19,8,0,4,0,0,13,0,0
+Barack Obama,2010,"November 3, 2010: Press Conference After 2010 Midterm Elections",Press Conference,8775,1,0,0,0,23,3,0,31,15,0
+Barack Obama,2011,"January 12, 2011: Remarks at Memorial for Victims of the Tucson, AZ Shooting",Remarks / Statement,2816,0,1,0,0,0,0,0,0,0,0
+Barack Obama,2011,"January 25, 2011: 2011 State of the Union Address",State of the Union,7164,4,1,1,0,7,2,1,9,14,2
+Barack Obama,2011,"May 1, 2011: Remarks on the Death of Osama Bin Laden",Remarks / Statement,1386,8,1,0,0,0,0,0,0,0,0
+Barack Obama,2011,"May 19, 2011: Speech on American Diplomacy in the Middle East and North Africa",Address / Speech,5701,5,9,4,0,5,1,0,15,1,0
+Barack Obama,2011,"May 25, 2011: Address to the British Parliament",Address / Speech,4266,11,6,7,0,4,1,1,8,1,2
+Barack Obama,2011,"June 22, 2011: Remarks on the Afghanistan Pullout",Remarks / Statement,2040,13,3,3,0,1,0,0,2,0,0
+Barack Obama,2011,"September 8, 2011: Address to Congress on the American Jobs Act",Address / Speech,4257,1,0,0,0,14,5,0,18,28,0
+Barack Obama,2011,"October 21, 2011: Remarks on the End of the War in Iraq",Remarks / Statement,971,8,1,0,0,0,0,0,1,0,0
+Barack Obama,2012,"January 24, 2012: 2012 State of the Union Address",State of the Union,7307,6,0,1,0,12,8,2,14,34,2
+Barack Obama,2012,"September 6, 2012: Nominee Acceptance Speech at 2012 Democratic National Convention",Convention Speech,4747,8,2,3,0,6,3,0,7,13,2
+Barack Obama,2012,"November 6, 2012: 2012 Election Night Victory Speech",Address / Speech,2263,3,1,2,0,1,0,1,1,1,2
+Barack Obama,2012,"December 16, 2012: Remarks on Sandy Hook Elementary Shootings",Remarks / Statement,1737,0,0,1,0,0,0,0,0,0,0
+Barack Obama,2013,"January 21, 2013: Second Inaugural Address",Inaugural Address,2140,3,3,6,0,1,0,0,3,1,2
+Barack Obama,2013,"January 29, 2013: Remarks on Immigration Reform",Remarks / Statement,3144,0,0,0,0,8,1,13,10,1,26
+Barack Obama,2013,"February 13, 2013: 2013 State of the Union Address",State of the Union,7026,3,1,3,0,13,1,3,20,17,4
+Barack Obama,2013,"March 1, 2013: Statement on the Government Sequester",Remarks / Statement,5518,0,0,0,0,11,0,2,18,14,2
+Barack Obama,2013,"March 21, 2013: Address to the People of Israel",Address / Speech,5559,8,28,6,2,5,0,0,7,0,1
+Barack Obama,2013,"April 8, 2013: Speech on Gun Violence",Address / Speech,3363,0,0,0,0,0,0,0,0,0,0
+Barack Obama,2013,"July 19, 2013: Remarks on Trayvon Martin",Remarks / Statement,2203,0,1,0,0,0,0,1,1,0,1
+Barack Obama,2013,"July 24, 2013: Remarks on Education and the Economy",Remarks / Statement,4588,1,0,0,0,15,0,1,19,4,1
+Barack Obama,2013,"September 10, 2013: Address to the Nation on Syria",Address / Speech,2240,9,1,2,0,0,0,0,0,0,0
+Barack Obama,2013,"December 4, 2013: Speech on Economic Mobility",Address / Speech,6729,4,0,1,0,25,1,1,35,4,1
+Barack Obama,2014,"January 28, 2014: 2014 State of the Union Address",State of the Union,6998,7,3,1,0,11,1,3,16,9,3
+Barack Obama,2014,"November 20, 2014: Address to the Nation on Immigration",Address / Speech,2271,0,0,0,0,3,3,9,3,3,23
+Barack Obama,2015,"January 20, 2015: 2015 State of the Union Address",State of the Union,7013,4,1,1,0,18,3,2,29,7,4
+Barack Obama,2015,"March 7, 2015: Remarks at the 50th Anniversary of the Selma Marches",Remarks / Statement,3746,3,1,3,1,1,0,0,2,0,2
+Barack Obama,2015,"June 26, 2015: Remarks in Eulogy for the Honorable Reverend Clementa Pickney",Remarks / Statement,3070,1,0,0,2,0,0,0,0,0,0
+Barack Obama,2016,"January 12, 2016: 2016 State of the Union Address",State of the Union,6284,7,1,2,0,16,2,1,22,5,5
+Barack Obama,2016,"March 22, 2016: Remarks to the People of Cuba",Remarks / Statement,4163,4,3,2,1,1,0,0,5,0,1
+Barack Obama,2016,"May 15, 2016: Commencement Address at Rutgers University",Address / Speech,5040,5,0,2,0,8,1,0,10,3,1
+Barack Obama,2017,"January 10, 2017: Farewell Address to the Nation",Farewell Address,4920,2,1,5,1,4,2,0,12,3,5
+Benjamin Harrison,1889,"March 4, 1889: Inaugural Address",Inaugural Address,4108,3,3,2,4,1,0,1,2,0,1
+Benjamin Harrison,1889,"April 4, 1889: Commemoration of the Centennial of Washington’s Inauguration",Other,357,0,1,0,0,0,0,0,0,0,0
+Benjamin Harrison,1889,"June 4, 1889: Statement on the Johnstown Flood",Remarks / Statement,764,0,0,0,0,0,0,0,0,0,0
+Benjamin Harrison,1889,"December 3, 1889: First Annual Message",State of the Union,12923,12,8,0,0,1,1,1,2,6,1
+Benjamin Harrison,1890,"April 19, 1890: Statement at the International American Conference",Remarks / Statement,208,0,1,0,0,0,0,0,0,0,0
+Benjamin Harrison,1890,"May 30, 1890: Address Honoring President Garfield",Address / Speech,290,0,0,0,0,0,0,0,0,0,0
+Benjamin Harrison,1890,"June 19, 1890: Message Regarding the International American Conference",Message,376,0,0,0,0,0,0,0,0,0,0
+Benjamin Harrison,1890,"October 23, 1890: Proclamation Regarding Indian Title to Land",Proclamation,908,0,0,0,0,0,0,0,0,0,0
+Benjamin Harrison,1890,"December 1, 1890: Second Annual Message",State of the Union,11429,2,5,1,0,3,0,0,3,2,0
+Benjamin Harrison,1891,"January 31, 1891: Message Regarding Death of Treasury Secretary",Message,490,0,0,0,0,0,0,0,0,0,0
+Benjamin Harrison,1891,"December 9, 1891: Third Annual Message",State of the Union,16133,13,5,0,0,1,1,2,2,6,2
+Benjamin Harrison,1892,"January 25, 1892: Message Regarding Valparaiso Incident",Message,5996,5,5,1,0,0,0,0,0,0,0
+Benjamin Harrison,1892,"January 28, 1892: Message Regarding US-Chilean Affairs",Message,299,0,0,0,0,0,0,0,0,0,0
+Benjamin Harrison,1892,"September 3, 1892: Speech Accepting the Republican Nomination",Convention Speech,7837,4,1,0,0,0,2,0,0,7,1
+Benjamin Harrison,1892,"December 6, 1892: Fourth Annual Message",State of the Union,13298,12,7,1,0,0,0,2,1,0,3
+Benjamin Harrison,1893,"February 15, 1893: Message Regarding Hawaiian Annexation",Message,656,0,3,0,0,0,0,0,0,0,0
+Bill Clinton,1993,"January 20, 1993: First Inaugural",Inaugural Address,1610,2,0,3,0,3,0,0,3,0,0
+Bill Clinton,1993,"January 29, 1993: Press Conference on ""Gays in the Military""",Press Conference,2349,0,0,0,0,1,0,0,3,1,0
+Bill Clinton,1993,"February 5, 1993: Remarks at the Signing of the Family Medical Leave Act",Remarks / Statement,1053,0,1,0,0,4,0,0,4,1,0
+Bill Clinton,1993,"February 17, 1993: Address Before a Joint Session of Congress",Address / Speech,7046,1,3,1,0,12,6,0,25,32,0
+Bill Clinton,1993,"April 30, 1993: National Service Address",Address / Speech,5148,0,1,0,0,5,1,0,7,3,0
+Bill Clinton,1993,"May 5, 1993: Remarks on Operation Restore Hope",Remarks / Statement,997,1,2,0,0,0,0,0,0,0,0
+Bill Clinton,1993,"June 6, 1993: Speech at the 25th Anniversary Memorial Mass for Robert F. Kennedy",Address / Speech,1086,0,0,0,0,0,0,0,0,0,1
+Bill Clinton,1993,"September 13, 1993: Remarks at the Signing of the Israeli-Palestinian Agreement",Remarks / Statement,1132,1,15,0,0,0,0,0,0,0,0
+Bill Clinton,1993,"September 22, 1993: Address on Health Care Reform",Address / Speech,7270,1,0,4,0,5,3,0,6,3,0
+Bill Clinton,1993,"October 7, 1993: Address on Somalia",Address / Speech,1876,1,4,1,0,0,0,0,0,0,0
+Bill Clinton,1993,"November 13, 1993: Remarks to the Convocation of the Church of God in Christ in Memphis",Remarks / Statement,4326,5,1,12,0,3,1,0,3,4,0
+Bill Clinton,1993,"December 8, 1993: Remarks on the Signing of NAFTA",Remarks / Statement,2593,4,1,0,0,1,0,0,13,0,0
+Bill Clinton,1994,"January 25, 1994: State of the Union Address",State of the Union,7493,2,5,3,0,4,5,0,13,13,0
+Bill Clinton,1994,"June 6, 1994: Remarks at the U.S. National Cemetery",Remarks / Statement,1321,6,1,9,0,0,0,0,0,0,0
+Bill Clinton,1994,"July 12, 1994: Remarks at the Brandenburg Gate",Remarks / Statement,753,0,4,5,0,0,0,0,2,0,0
+Bill Clinton,1995,"January 24, 1995: State of the Union Address",State of the Union,9339,8,9,7,1,13,4,1,18,19,4
+Bill Clinton,1995,"April 23, 1995: Time for Healing Ceremony",Other,912,0,1,1,0,0,0,0,0,0,0
+Bill Clinton,1995,"July 19, 1995: Address on Affirmative Action",Address / Speech,6509,1,0,1,3,3,1,0,21,2,1
+Bill Clinton,1995,"October 16, 1995: Address on Race Relations",Address / Speech,4673,1,0,0,1,1,3,1,3,3,1
+Bill Clinton,1995,"November 27, 1995: Address on Bosnia",Address / Speech,2940,33,37,8,0,0,0,0,1,0,0
+Bill Clinton,1995,"November 30, 1995: Address to the Employees of the Mackie Metal Plant",Address / Speech,3059,7,40,1,1,0,0,0,2,0,1
+Bill Clinton,1996,"January 23, 1996: State of the Union Address",State of the Union,6378,6,10,2,0,5,3,1,8,11,5
+Bill Clinton,1996,"June 25, 1996: Victims Rights Announcement",Other,1924,0,0,0,0,0,0,0,0,0,0
+Bill Clinton,1996,"August 29, 1996: Remarks at the Democratic National Convention",Convention Speech,7111,2,8,7,0,5,3,0,9,16,1
+Bill Clinton,1996,"October 6, 1996: Presidential Debate with Senator Bob Dole",Debate,17550,14,11,4,0,11,15,0,25,70,0
+Bill Clinton,1996,"November 3, 1996: Remarks to the Congregation of St. Paul's AME Church",Remarks / Statement,3208,1,2,1,0,2,0,0,2,0,0
+Bill Clinton,1997,"January 20, 1997: Second Inaugural",Inaugural Address,2171,1,1,2,1,2,0,0,2,0,1
+Bill Clinton,1997,"February 4, 1997: State of the Union Address",State of the Union,6780,8,9,3,0,11,4,0,16,10,4
+Bill Clinton,1997,"April 22, 1997: Address to the People and Relief Workers of Grand Forks, ND",Address / Speech,1236,0,0,0,0,0,0,0,0,0,0
+Bill Clinton,1998,"January 26, 1998: Response to the Lewinsky Allegations",Other,958,0,0,0,0,0,0,0,0,1,0
+Bill Clinton,1998,"January 27, 1998: State of the Union Address",State of the Union,7395,3,7,5,0,11,0,0,17,16,2
+Bill Clinton,1998,"March 23, 1998: Remarks to the People of Ghana",Remarks / Statement,1671,2,8,2,0,0,0,0,3,0,0
+Bill Clinton,1998,"March 25, 1998: Remarks to the People of Rwanda",Remarks / Statement,2242,2,1,0,0,1,0,0,1,0,0
+Bill Clinton,1998,"August 17, 1998: Statement on His Testimony Before the Grand Jury",Remarks / Statement,541,0,0,0,0,0,0,0,0,0,0
+Bill Clinton,1999,"January 19, 1999: State of the Union Address",State of the Union,7559,5,8,3,0,10,1,0,15,11,2
+Bill Clinton,1999,"March 24, 1999: Statement on Kosovo",Remarks / Statement,1911,15,14,1,0,0,0,0,2,0,0
+Bill Clinton,1999,"June 10, 1999: Address on the Kosovo Agreement",Address / Speech,1680,6,5,3,0,0,0,0,0,0,0
+Bill Clinton,2000,"January 27, 2000: State of the Union Address",State of the Union,9159,3,8,6,0,10,0,0,24,19,1
+Bill Clinton,2001,"January 18, 2001: Farewell Address",Farewell Address,1113,0,3,4,0,5,0,0,5,1,0
+Calvin Coolidge,1923,"December 6, 1923: First Annual Message",State of the Union,6694,9,6,2,0,2,7,3,8,12,3
+Calvin Coolidge,1924,"December 3, 1924: Second Annual Message",State of the Union,6945,10,11,3,0,9,6,1,23,20,1
+Calvin Coolidge,1925,"March 4, 1925: Inaugural Address",Inaugural Address,4053,3,13,6,0,6,3,1,9,13,1
+Calvin Coolidge,1925,"July 3, 1925: Centennial of Washington’s Command of the Continental Army",Other,6314,16,13,2,0,0,0,0,1,0,0
+Calvin Coolidge,1925,"October 20, 1925: Message Regarding Relationship of Church and State",Message,2408,1,0,2,1,0,0,0,1,0,0
+Calvin Coolidge,1925,"December 8, 1925: Third Annual Message",State of the Union,10801,21,8,3,1,10,4,4,26,25,4
+Calvin Coolidge,1926,"July 5, 1926: Declaration of Independence Anniversary Commemoration",Other,4412,1,0,3,0,0,1,0,1,1,0
+Calvin Coolidge,1926,"December 7, 1926: Fourth Annual Message",State of the Union,10254,16,9,3,0,7,8,2,18,29,2
+Calvin Coolidge,1927,"February 22, 1927: Address Regarding Washington’s Birthday",Address / Speech,4742,7,1,1,0,0,0,0,0,0,0
+Calvin Coolidge,1927,"August 10, 1927: Address at the Opening of Work on Mount Rushmore in Black Hills, SD",Address / Speech,1044,1,0,4,0,0,0,0,3,0,0
+Calvin Coolidge,1927,"December 6, 1927: Fifth Annual Message",State of the Union,8725,13,11,1,1,5,3,1,11,18,2
+Calvin Coolidge,1928,"December 4, 1928: Sixth Annual Message",State of the Union,8004,11,10,1,0,8,3,3,19,14,3
+Chester A. Arthur,1881,"September 22, 1881: Address Upon Assuming the Office of the President",Address / Speech,433,0,1,0,0,1,0,0,1,0,0
+Chester A. Arthur,1881,"December 6, 1881: First Annual Message",State of the Union,13084,13,6,0,1,5,3,2,5,17,6
+Chester A. Arthur,1882,"April 4, 1882: Veto of the Chinese Exclusion Act",Veto Message,3002,0,0,0,0,0,0,12,0,0,13
+Chester A. Arthur,1882,"April 18, 1882: Message Regarding Congress of American Countries",Message,1680,5,2,0,0,0,0,0,0,1,0
+Chester A. Arthur,1882,"July 1, 1882: Veto of Safety Regulations Bill",Veto Message,1194,0,0,0,0,0,0,0,0,1,0
+Chester A. Arthur,1882,"August 1, 1882: Veto of River and Harbors Act",Veto Message,821,1,0,0,0,0,0,0,1,2,0
+Chester A. Arthur,1882,"December 4, 1882: Second Annual Message",State of the Union,10099,7,6,0,0,2,8,2,3,19,3
+Chester A. Arthur,1883,"December 4, 1883: Third Annual Message",State of the Union,8237,5,2,2,0,1,2,1,1,11,2
+Chester A. Arthur,1884,"July 1, 1884: Message Regarding Settlement on Indian Territory",Message,331,0,0,0,0,0,0,0,0,0,0
+Chester A. Arthur,1884,"December 1, 1884: Fourth Annual Message",State of the Union,8816,8,5,1,0,2,2,1,2,5,2
+Chester A. Arthur,1884,"December 10, 1884: Message Regarding Central American Canal",Message,1842,0,0,0,0,1,0,0,4,0,0
+Donald Trump,2017,"January 20, 2017: Inaugural Address",Inaugural Address,1444,0,0,0,0,0,1,1,0,1,1
+Donald Trump,2017,"February 28, 2017: Address to Joint Session of Congress",Address / Speech,4696,4,3,3,0,1,1,7,2,12,10
+Donald Trump,2017,"June 29, 2017: Speech at the Unleashing American Energy Event",Address / Speech,2552,1,0,0,0,0,0,0,1,0,1
+Donald Trump,2017,"July 24, 2017: Speech at the Boy Scout Jamboree ",Address / Speech,4433,0,0,0,0,1,0,0,1,0,0
+Donald Trump,2017,"September 19, 2017: Address to the United Nations General Assembly ",Address / Speech,4608,5,10,8,1,0,0,0,3,0,0
+Donald Trump,2017,"December 18, 2017: Remarks on National Security Strategy",Remarks / Statement,3070,2,4,1,0,2,2,1,7,7,2
+Donald Trump,2018,"January 26, 2018: Address at the World Economic Forum",Address / Speech,3803,0,1,0,0,5,2,2,12,13,2
+Donald Trump,2018,"January 30, 2018: State of the Union Address",State of the Union,5151,2,0,6,0,3,0,8,4,16,11
+Donald Trump,2018,"February 1, 2018: Remarks at the House and Senate Republican Member Conference",Remarks / Statement,5734,0,0,2,0,2,0,13,2,18,13
+Donald Trump,2018,"February 15, 2018: Statement on the School Shooting in Parkland, Florida",Remarks / Statement,702,0,1,0,0,0,0,0,0,0,0
+Donald Trump,2018,"February 23, 2018: Remarks at the Conservative Political Action Conference",Remarks / Statement,10339,3,0,1,0,2,0,4,3,27,4
+Donald Trump,2018,"March 19, 2018: Remarks on Combating the Opioid Crisis",Remarks / Statement,5178,0,0,0,0,2,0,0,2,1,1
+Donald Trump,2018,"July 24, 2018: Speech at the Veterans of Foreign Wars National Convention",Convention Speech,6286,8,5,3,0,0,1,0,2,5,0
+Donald Trump,2018,"September 25, 2018: Address at the 73rd Session of the United Nations General Assembly",Address / Speech,3665,3,10,3,0,3,0,3,4,1,3
+Donald Trump,2019,"January 19, 2019: Remarks about the US Southern Border",Remarks / Statement,1522,0,0,0,0,0,0,16,0,0,18
+Donald Trump,2019,"February 5, 2019: State of the Union Address",State of the Union,5206,6,3,5,2,5,1,5,10,4,9
+Donald Trump,2019,"February 15, 2019: Speech Declaring a National Emergency",Address / Speech,9093,4,1,0,0,4,0,5,9,1,8
+Donald Trump,2019,"September 24, 2019: Remarks at the United Nations General Assembly",Remarks / Statement,3885,2,9,7,0,2,0,2,10,2,2
+Donald Trump,2019,"September 25, 2019: Press Conference",Press Conference,7329,0,1,1,0,6,0,0,10,0,0
+Donald Trump,2019,"October 27, 2019: Statement on the the Death of Abu Bakr al-Baghdadi",Remarks / Statement,749,0,0,0,0,0,0,0,0,0,0
+Donald Trump,2020,"January 3, 2020: Remarks on the Killing of Qasem Soleimani",Remarks / Statement,527,2,1,0,0,0,0,0,0,0,0
+Donald Trump,2020,"January 8, 2020: Statement on Iran",Remarks / Statement,1052,1,2,0,0,1,0,0,3,0,0
+Donald Trump,2020,"January 24, 2020: Speech at March for Life",Address / Speech,1521,0,0,0,0,0,0,0,0,3,0
+Donald Trump,2020,"February 4, 2020: State of the Union Address",State of the Union,6441,3,3,7,0,5,0,2,8,7,3
+Donald Trump,2020,"February 6, 2020: Remarks after His Acquittal ",Remarks / Statement,9995,2,0,0,0,0,5,0,0,5,0
+Donald Trump,2020,"March 11, 2020: Statement on the Coronavirus",Remarks / Statement,1277,0,0,0,0,3,0,0,7,2,0
+Donald Trump,2020,"March 13, 2020: Press Conference about the Coronavirus",Press Conference,13081,0,0,0,0,0,0,0,1,1,0
+Donald Trump,2020,"April 13, 2020: Coronavirus Task Force Briefing",Press Conference,27637,5,0,0,0,19,0,0,31,1,0
+Donald Trump,2020,"April 15, 2020: Press Briefing with the Coronavirus Task Force",Press Conference,10270,1,0,0,0,7,0,0,9,0,0
+Donald Trump,2020,"April 23, 2020: Task Force Briefing on the Coronavirus Pandemic ",Press Conference,13044,3,0,0,0,3,0,0,9,0,0
+Donald Trump,2020,"June 1, 2020: Statement on Protests Against Police Brutality ",Remarks / Statement,811,1,1,1,0,0,0,0,0,0,0
+Donald Trump,2020,"June 13, 2020: Address at West Point Graduation",Address / Speech,2925,5,2,1,1,0,0,0,0,0,0
+Donald Trump,2020,"June 20, 2020: Campaign Rally in Tulsa, Oklahoma",Other,13184,1,1,2,0,3,4,2,7,6,2
+Donald Trump,2020,"July 4, 2020: Remarks at Salute to America",Remarks / Statement,3059,2,2,3,0,0,1,0,0,1,0
+Donald Trump,2020,"August 8, 2020: Press Conference on Executive Orders",Press Conference,5717,0,0,0,0,7,7,0,8,25,0
+Donald Trump,2020,"September 7, 2020: Labor Day Press Conference",Press Conference,9190,1,0,0,1,8,3,1,15,7,1
+Donald Trump,2020,"September 26, 2020: Announcing His Nominee for the US Supreme Court",Other,2254,0,0,0,0,0,0,0,0,0,0
+Donald Trump,2020,"October 26, 2020: Swearing-In Ceremony of the Honorable Amy Coney Barrett to the US Supreme Court ",Other,1509,1,0,2,0,0,0,0,0,0,0
+Donald Trump,2020,"November 5, 2020: Remarks on the 2020 Election",Remarks / Statement,2747,0,0,0,0,0,0,0,0,0,0
+Donald Trump,2021,"January 6, 2021: Speech Urging Supporters to Go Home",Address / Speech,169,0,2,0,0,0,0,0,0,0,0
+Donald Trump,2021,"January 7, 2021: Message After Pro-Trump Mob Overruns US Capitol",Message,362,0,0,0,0,2,0,0,2,0,0
+Donald Trump,2021,"January 13, 2021: Statement about the Violence at the Capitol",Remarks / Statement,643,0,1,0,0,1,0,0,1,0,0
+Donald Trump,2021,"January 19, 2021: Farewell Address",Farewell Address,2808,0,3,1,0,5,0,0,8,2,0
+Donald Trump,2025,"January 20, 2025: Inaugural Address",Inaugural Address,2934,0,1,3,1,0,0,0,0,2,0
+Donald Trump,2025,"March 4, 2025: Address to a Joint Session of Congress",Address / Speech,10284,3,5,2,0,5,2,1,9,19,1
+Donald Trump,2025,"June 21, 2025: Address to the American People",Address / Speech,533,0,3,0,0,0,0,0,0,0,0
+Donald Trump,2025,"September 23, 2025: Address before the 80th United Nations General Assembly",Address / Speech,8495,13,7,2,0,4,0,6,5,2,6
+Donald Trump,2025,"September 30, 2025: Remarks to Military Leaders",Remarks / Statement,12795,42,9,4,0,1,0,1,1,0,1
+Donald Trump,2025,"December 17, 2025: Address to the Nation",Address / Speech,2636,2,1,0,0,1,0,0,3,8,0
+Donald Trump,2026,"January 3, 2026: Statement on U.S. Action in Venezuela",Remarks / Statement,3013,2,1,0,0,0,0,0,0,0,0
+Donald Trump,2026,"February 24, 2026: State of the Union Address",State of the Union,10782,12,3,4,0,3,1,3,7,16,3
+Donald Trump,2026,"February 28, 2026: Remarks on the U.S. Military Operations Against Iran",Remarks / Statement,1076,1,0,1,0,0,0,0,0,0,0
+Donald Trump,2026,"April 1, 2026: Address to the Nation on Iran",Address / Speech,2796,4,0,0,0,2,0,0,5,1,0
+Donald Trump,2026,"July 16,2026: Address to the Nation on Election Security",Address / Speech,3451,0,0,0,0,0,0,0,1,5,0
+Donald Trump,2026,"July 16, 2026: Address to the Nation on Election Security",Address / Speech,3451,0,0,0,0,0,0,0,1,5,0
+Dwight D. Eisenhower,1953,"January 20, 1953: First Inaugural Address",Inaugural Address,2467,4,12,10,1,0,0,0,4,0,0
+Dwight D. Eisenhower,1953,"February 2, 1953: State of the Union Address ",State of the Union,7001,5,5,17,0,9,3,1,31,10,4
+Dwight D. Eisenhower,1953,"April 16, 1953: Chance for Peace",Other,2898,14,21,4,0,0,0,0,2,0,0
+Dwight D. Eisenhower,1953,"December 8, 1953: Atoms for Peace",Other,3067,5,15,1,0,0,0,0,1,0,0
+Dwight D. Eisenhower,1954,"January 7, 1954: State of the Union Address",State of the Union,6046,4,11,14,0,9,6,0,30,25,0
+Dwight D. Eisenhower,1955,"January 6, 1955: State of the Union Address",State of the Union,7291,3,17,12,0,14,2,2,39,9,2
+Dwight D. Eisenhower,1956,"January 5, 1956: State of the Union Address",State of the Union,8310,8,17,6,0,12,3,3,33,11,8
+Dwight D. Eisenhower,1956,"August 23, 1956: Republican National Convention",Convention Speech,4391,3,13,3,0,0,0,0,6,1,0
+Dwight D. Eisenhower,1957,"January 5, 1957: Eisenhower Doctrine",Other,3416,3,10,10,0,0,0,0,13,0,0
+Dwight D. Eisenhower,1957,"January 10, 1957: State of the Union Address",State of the Union,4207,3,10,8,0,12,0,1,23,1,1
+Dwight D. Eisenhower,1957,"January 21, 1957: Second Inaugural Address",Inaugural Address,1663,1,10,11,0,0,0,0,1,0,0
+Dwight D. Eisenhower,1958,"January 9, 1958: State of the Union Address",State of the Union,4993,10,28,3,0,3,0,0,23,1,0
+Dwight D. Eisenhower,1959,"January 9, 1959: State of the Union Address",State of the Union,5013,6,8,16,0,12,0,0,24,5,0
+Dwight D. Eisenhower,1960,"January 7, 1960: State of the Union Address",State of the Union,5709,8,18,17,0,3,0,0,16,7,0
+Dwight D. Eisenhower,1961,"January 17, 1961: Farewell Address",Farewell Address,1858,7,9,2,0,1,0,0,3,0,0
+Franklin D. Roosevelt,1933,"March 4, 1933: First Inaugural Address",Inaugural Address,1901,2,0,0,0,1,1,0,2,1,0
+Franklin D. Roosevelt,1933,"March 12, 1933: Fireside Chat 1: On the Banking Crisis",Fireside Chat,1795,0,0,0,0,0,0,0,1,0,0
+Franklin D. Roosevelt,1933,"May 7, 1933: Fireside Chat 2: On Progress During the First Two Months",Fireside Chat,2968,1,1,0,0,0,0,0,3,2,0
+Franklin D. Roosevelt,1933,"July 24, 1933: Fireside Chat 3: On the National Recovery Administration",Fireside Chat,2967,1,0,0,0,0,1,0,6,1,0
+Franklin D. Roosevelt,1933,"October 22, 1933: Fireside Chat 4: On Economic Progress",Fireside Chat,2702,0,0,0,0,0,2,0,2,4,0
+Franklin D. Roosevelt,1934,"June 28, 1934: Fireside Chat 5: On Addressing the Critics",Fireside Chat,2528,1,2,3,0,0,0,0,3,0,0
+Franklin D. Roosevelt,1934,"September 30, 1934: Fireside Chat 6: On Government and Capitalism",Fireside Chat,3154,2,5,2,0,1,0,0,3,0,0
+Franklin D. Roosevelt,1935,"April 28, 1935: Fireside Chat 7: On the Works Relief Program and Social Security Act",Fireside Chat,3084,1,0,0,0,0,0,0,6,0,0
+Franklin D. Roosevelt,1936,"June 27, 1936: Democratic National Convention",Convention Speech,2008,4,0,12,1,0,0,0,10,0,0
+Franklin D. Roosevelt,1936,"September 6, 1936: Fireside Chat 8: On Farmers and Laborers",Fireside Chat,3202,0,0,5,0,0,0,0,4,0,0
+Franklin D. Roosevelt,1936,"October 31, 1936: Speech at Madison Square Garden",Address / Speech,2457,8,20,0,0,0,0,0,1,0,0
+Franklin D. Roosevelt,1937,"January 20, 1937: Second Inaugural Address",Inaugural Address,1823,1,4,0,0,0,0,0,6,0,0
+Franklin D. Roosevelt,1937,"March 9, 1937: Fireside Chat 9: On ""Court-Packing""",Fireside Chat,4058,0,0,1,0,0,1,0,11,1,0
+Franklin D. Roosevelt,1937,"October 5, 1937: Quarantine Speech",Address / Speech,1864,10,26,4,0,1,0,0,2,0,0
+Franklin D. Roosevelt,1937,"October 12, 1937: Fireside Chat 10: On New Legislation",Fireside Chat,3265,6,9,0,0,3,0,0,4,0,0
+Franklin D. Roosevelt,1937,"November 14, 1937: Fireside Chat 11: On the Unemployment Census",Fireside Chat,1629,0,0,0,0,0,0,0,1,1,0
+Franklin D. Roosevelt,1938,"April 14, 1938: Fireside Chat 12: On the Recession",Fireside Chat,4579,1,3,0,0,1,0,0,12,2,0
+Franklin D. Roosevelt,1938,"June 24, 1938: Fireside Chat 13: On Purging the Democratic Party",Fireside Chat,3505,4,2,3,0,0,2,0,4,2,0
+Franklin D. Roosevelt,1938,"July 8, 1938: Dedication of a Memorial to the Northwest Territory",Other,1440,0,0,0,1,0,0,0,3,0,0
+Franklin D. Roosevelt,1939,"September 3, 1939: Fireside Chat 14: On the European War",Fireside Chat,1241,9,11,0,0,0,0,0,1,0,0
+Franklin D. Roosevelt,1940,"May 26, 1940: Fireside Chat 15: On National Defense",Fireside Chat,3793,9,4,1,0,0,0,0,2,0,0
+Franklin D. Roosevelt,1940,"June 10, 1940: ""Stab in the Back"" Speech",Address / Speech,1975,8,3,6,0,0,0,0,2,0,0
+Franklin D. Roosevelt,1940,"July 19, 1940: Democratic National Convention",Convention Speech,3538,9,3,2,3,0,0,0,0,0,0
+Franklin D. Roosevelt,1940,"December 29, 1940: Fireside Chat 16: On the ""Arsenal of Democracy""",Fireside Chat,4039,19,10,4,1,1,0,0,4,0,0
+Franklin D. Roosevelt,1941,"January 6, 1941: State of the Union (Four Freedoms)",State of the Union,3319,16,8,10,0,1,1,0,5,3,0
+Franklin D. Roosevelt,1941,"January 20, 1941: Third Inaugural Address",Inaugural Address,1358,0,0,6,1,0,0,0,0,0,0
+Franklin D. Roosevelt,1941,"March 15, 1941: On Lend Lease",Other,3026,9,3,6,2,0,1,0,0,1,0
+Franklin D. Roosevelt,1941,"May 27, 1941: Fireside Chat 17: On An Unlimited National Emergency",Fireside Chat,4608,14,5,20,2,0,1,0,2,1,0
+Franklin D. Roosevelt,1941,"September 11, 1941: Fireside Chat 18: On The Greer Incident",Fireside Chat,3063,8,1,6,1,0,0,0,0,0,0
+Franklin D. Roosevelt,1941,"December 8, 1941: Address to Congress Requesting a Declaration of War",Address / Speech,514,2,3,0,0,0,0,0,0,0,0
+Franklin D. Roosevelt,1941,"December 9, 1941: Fireside Chat 19: On the War with Japan",Fireside Chat,3014,19,5,1,0,0,1,0,0,1,0
+Franklin D. Roosevelt,1941,"December 11, 1941: Message to Congress Requesting War Declarations with Germany and Italy",Message,139,3,0,0,0,0,0,0,0,0,0
+Franklin D. Roosevelt,1942,"February 23, 1942: Fireside Chat 20: On the Progress of the War",Fireside Chat,4232,16,5,7,0,0,0,0,0,0,0
+Franklin D. Roosevelt,1942,"April 28, 1942: Fireside Chat 21: On Sacrifice",Fireside Chat,3861,29,1,1,1,2,4,0,7,5,0
+Franklin D. Roosevelt,1942,"September 7, 1942: Fireside Chat 22: On Inflation and Food Prices",Fireside Chat,3161,26,0,0,0,2,1,0,6,6,0
+Franklin D. Roosevelt,1942,"October 12, 1942: Fireside Chat 23: On the Home Front",Fireside Chat,3483,30,1,2,1,0,0,0,0,0,0
+Franklin D. Roosevelt,1943,"January 7, 1943: State of the Union Address",State of the Union,4576,45,12,8,0,1,0,0,8,0,0
+Franklin D. Roosevelt,1943,"May 2, 1943: Fireside Chat 24: On the Coal Crisis",Fireside Chat,2461,25,0,0,0,0,0,0,0,0,0
+Franklin D. Roosevelt,1943,"July 28, 1943: Fireside Chat 25: On the Fall of Mussolini",Fireside Chat,3445,25,1,4,0,1,0,0,2,0,0
+Franklin D. Roosevelt,1943,"September 8, 1943: Fireside Chat 26: On the Armistice in Italy",Fireside Chat,1466,21,0,1,0,0,1,0,1,1,0
+Franklin D. Roosevelt,1943,"December 1, 1943: The Tehran Declaration",Other,350,4,4,0,1,0,0,0,0,0,0
+Franklin D. Roosevelt,1943,"December 24, 1943: Fireside Chat 27: On the Tehran and Cairo Conferences",Fireside Chat,3387,16,17,3,0,0,0,0,0,0,0
+Franklin D. Roosevelt,1944,"January 11, 1944: Fireside Chat 28: On the State of the Union",Fireside Chat,3455,35,10,6,1,1,0,0,6,4,0
+Franklin D. Roosevelt,1944,"June 5, 1944: Fireside Chat 29: On the Fall of Rome",Fireside Chat,1664,2,3,2,0,0,0,0,1,0,0
+Franklin D. Roosevelt,1944,"June 12, 1944: Fireside Chat 30: Opening Fifth War Loan Drive",Fireside Chat,1646,19,1,0,0,1,1,0,1,1,0
+Franklin D. Roosevelt,1944,"July 20, 1944: Democratic National Convention",Convention Speech,1767,14,4,0,0,2,0,0,4,0,0
+Franklin D. Roosevelt,1945,"January 20, 1945: Fourth Inaugural Address",Inaugural Address,559,2,6,1,0,0,0,0,0,0,0
+Franklin D. Roosevelt,1945,"February 11, 1945: Joint Statement with Churchill and Stalin on the Yalta Conference",Remarks / Statement,2015,7,13,2,0,0,0,0,4,0,0
+Franklin D. Roosevelt,1945,"March 1, 1945: Address to Congress on Yalta",Address / Speech,6037,19,38,1,1,2,0,0,4,0,0
+Franklin Pierce,1853,"March 4, 1853: Inaugural Address",Inaugural Address,3128,0,2,3,0,1,0,0,1,0,0
+Franklin Pierce,1853,"December 5, 1853: First Annual Message",State of the Union,9544,11,4,4,0,1,0,0,3,3,0
+Franklin Pierce,1854,"January 18, 1854: Proclamation",Proclamation,270,0,1,0,0,0,0,0,0,0,0
+Franklin Pierce,1854,"February 10, 1854: Message to Senate on Treaty with Mexico",Message,583,1,1,0,0,0,0,0,0,0,0
+Franklin Pierce,1854,"March 14, 1854: Message Regarding Proposed US-Mexican Convention",Message,542,0,0,0,0,0,0,0,0,0,0
+Franklin Pierce,1854,"May 15, 1854: Message Regarding Transit Across Central America",Message,3027,2,2,1,0,0,0,0,0,0,0
+Franklin Pierce,1854,"August 1, 1854: Message Regarding US-Spanish Relations",Message,678,1,1,0,0,0,0,0,0,0,0
+Franklin Pierce,1854,"August 4, 1854: Veto Message on Legislation Funding Public Works",Veto Message,521,0,0,0,0,0,0,0,0,0,0
+Franklin Pierce,1854,"December 4, 1854: Second Annual Message",State of the Union,10102,19,10,0,0,1,0,0,3,0,0
+Franklin Pierce,1854,"December 30, 1854: Expansion of August 4 Veto Message",Veto Message,7097,3,0,0,0,1,1,0,2,1,0
+Franklin Pierce,1855,"December 31, 1855: Third Annual Message",State of the Union,11590,20,9,4,1,0,0,0,1,3,0
+Franklin Pierce,1856,"January 24, 1856: Message Regarding Disturbances in Kansas",Message,4201,0,3,1,0,0,0,0,0,0,0
+Franklin Pierce,1856,"February 11, 1856: Proclamation Addressing Disturbances in Kansas",Proclamation,633,0,0,0,0,0,0,0,0,0,0
+Franklin Pierce,1856,"August 21, 1856: Special Session Message Regarding Military Support",Message,904,2,2,0,0,0,1,0,0,1,0
+Franklin Pierce,1856,"December 2, 1856: Fourth Annual Message",State of the Union,10473,10,8,6,1,1,0,0,2,3,0
+George H. W. Bush,1988,"August 18, 1988: Acceptance Speech at the Republican National Convention",Convention Speech,4160,6,8,4,1,4,7,0,7,7,1
+George H. W. Bush,1988,"September 25, 1988: Debate with Michael Dukakis",Debate,16125,11,6,0,0,3,8,0,18,20,3
+George H. W. Bush,1989,"January 20, 1989: Inaugural Address",Inaugural Address,2339,3,3,6,0,0,0,0,0,0,0
+George H. W. Bush,1989,"February 9, 1989: Address Before a Joint Session of Congress",Address / Speech,4882,5,6,5,0,0,4,0,8,9,0
+George H. W. Bush,1989,"May 12, 1989: Commencement Address at Texas A&M University",Address / Speech,2466,5,5,1,0,1,0,0,5,1,0
+George H. W. Bush,1989,"December 20, 1989: Address to the Nation on Panama",Address / Speech,771,1,1,1,0,1,0,0,2,0,0
+George H. W. Bush,1990,"January 31, 1990: State of the Union Address",State of the Union,3853,0,3,11,0,1,1,0,4,2,1
+George H. W. Bush,1990,"July 26, 1990: Remarks on the Signing of the Americans with Disabilities Act",Remarks / Statement,1835,0,0,4,0,0,0,0,1,0,0
+George H. W. Bush,1990,"August 8, 1990: Address on Iraq's Invasion of Kuwait",Address / Speech,1440,2,5,2,0,1,0,0,2,0,0
+George H. W. Bush,1990,"September 11, 1990: Address Before a Joint Session of Congress",Address / Speech,3303,0,5,1,0,1,0,0,10,4,0
+George H. W. Bush,1990,"October 1, 1990: Address to the United Nations",Address / Speech,2779,8,5,3,0,0,0,0,0,0,0
+George H. W. Bush,1990,"October 2, 1990: Address to the Nation on the Budget",Address / Speech,1143,0,0,0,0,4,0,0,6,4,0
+George H. W. Bush,1991,"January 16, 1991: Address to the Nation on the Invasion of Iraq",Address / Speech,1522,5,8,1,0,1,0,0,2,0,0
+George H. W. Bush,1991,"January 29, 1991: State of the Union Address",State of the Union,4007,10,8,15,0,3,0,0,11,3,0
+George H. W. Bush,1991,"February 27, 1991: Address on the End of the Gulf War",Address / Speech,781,5,4,0,0,0,0,0,0,0,0
+George H. W. Bush,1991,"March 6, 1991: Address Before a Joint Session of Congress on the End of the Gulf War",Address / Speech,2809,20,15,4,0,2,0,0,5,0,0
+George H. W. Bush,1991,"July 31, 1991: Press Conference with Mikhail Gorbachev",Press Conference,12026,4,22,4,0,6,0,0,32,0,0
+George H. W. Bush,1992,"January 28, 1992: State of the Union Address",State of the Union,5181,6,2,2,0,9,4,0,14,20,0
+George H. W. Bush,1992,"August 20, 1992: Republican National Convention",Convention Speech,5081,6,4,8,0,5,7,0,10,20,0
+George H. W. Bush,1992,"October 11, 1992: Debate with Bill Clinton and Ross Perot",Debate,16909,24,8,2,0,16,17,0,37,65,0
+George H. W. Bush,1992,"December 4, 1992: Address on Somalia",Address / Speech,1139,0,0,0,0,0,0,0,0,0,0
+George H. W. Bush,1992,"December 15, 1992: Remarks at Texas A&M University",Remarks / Statement,3820,20,7,7,0,1,0,0,17,1,0
+George H. W. Bush,1993,"January 5, 1993: Address at West Point",Address / Speech,3332,9,2,0,0,0,0,0,4,0,0
+George W. Bush,2001,"January 20, 2001: First Inaugural Address",Inaugural Address,1593,1,1,5,0,2,1,0,2,1,1
+George W. Bush,2001,"January 29, 2001: Remarks on Faith-Based and Community Initiatives",Remarks / Statement,1071,0,0,0,0,0,0,0,0,0,0
+George W. Bush,2001,"June 7, 2001: Remarks on Signing the Economic Growth and Tax Relief Reconciliation Act",Remarks / Statement,920,1,0,1,0,0,4,0,0,30,0
+George W. Bush,2001,"August 10, 2001: Address to the Nation on Stem Cell Research",Address / Speech,1743,0,0,0,0,0,0,0,0,2,0
+George W. Bush,2001,"September 11, 2001: Address to the Nation on the Terrorist Attacks",Address / Speech,597,1,2,3,0,1,0,0,1,0,0
+George W. Bush,2001,"September 20, 2001: Address on the U.S. Response to the Attacks of September 11",Address / Speech,3005,10,0,12,0,3,0,0,3,0,0
+George W. Bush,2002,"January 8, 2002: Remarks on No Child Left Behind Bill",Remarks / Statement,2362,2,1,3,0,0,0,0,0,0,0
+George W. Bush,2002,"January 29, 2002: State of the Union Address",State of the Union,3854,12,4,14,0,4,0,0,7,7,0
+George W. Bush,2002,"June 1, 2002: Graduation Speech at West Point",Address / Speech,2873,13,17,8,0,0,0,0,5,0,0
+George W. Bush,2002,"June 6, 2002: Address to the Nation on the Department of Homeland Security",Address / Speech,1508,6,1,3,0,0,0,1,0,0,1
+George W. Bush,2002,"June 19, 2002: Speech on New Mother and Child HIV Prevention Initiative",Address / Speech,952,0,0,0,0,0,0,0,0,0,0
+George W. Bush,2002,"September 12, 2002: Remarks at the UN General Assembly",Remarks / Statement,2802,6,13,2,0,0,0,0,3,0,0
+George W. Bush,2003,"January 28, 2003: State of the Union Address",State of the Union,5384,11,9,5,0,10,3,0,13,13,0
+George W. Bush,2003,"March 17, 2003: Address to the Nation on Iraq",Address / Speech,1771,10,5,1,0,0,0,0,0,0,0
+George W. Bush,2003,"March 20, 2003: Address on the Start of the Iraq War",Address / Speech,578,2,3,2,0,0,0,0,0,0,0
+George W. Bush,2003,"November 6, 2003: Remarks on Freedom in Iraq and Middle East",Remarks / Statement,3598,2,6,35,0,0,0,0,4,0,0
+George W. Bush,2003,"December 8, 2003: Address on Signing Medicare Legislation",Address / Speech,2558,0,1,0,0,0,0,0,0,4,0
+George W. Bush,2004,"January 7, 2004: Temporary Worker Program Proposal",Other,2399,0,0,0,0,4,0,16,9,1,30
+George W. Bush,2004,"January 20, 2004: State of the Union Address",State of the Union,5197,12,4,8,0,14,9,2,17,21,2
+George W. Bush,2004,"July 17, 2004: Remarks on National Security and the War Effort",Remarks / Statement,2568,13,16,3,0,1,0,0,1,0,0
+George W. Bush,2004,"September 3, 2004: Remarks at the Republican National Convention",Convention Speech,5295,1,5,16,1,6,3,0,8,13,0
+George W. Bush,2005,"January 20, 2005: Second Inaugural Address",Inaugural Address,2078,0,1,27,1,0,0,0,1,0,0
+George W. Bush,2005,"February 2, 2005: State of the Union Address",State of the Union,5071,5,11,20,1,11,4,2,14,11,2
+George W. Bush,2005,"August 31, 2005: Remarks on Hurricane Katrina Relief Efforts",Remarks / Statement,1154,0,0,0,0,0,0,0,0,0,0
+George W. Bush,2005,"September 16, 2005: Hurricane Relief Address from New Orleans",Address / Speech,3313,0,0,1,0,1,0,0,2,2,0
+George W. Bush,2005,"December 19, 2005: Address on Renewal in Iraq",Address / Speech,2238,15,2,3,0,1,0,0,1,0,0
+George W. Bush,2006,"January 31, 2006: State of the Union Address",State of the Union,5333,2,6,17,2,16,1,2,23,10,3
+George W. Bush,2006,"July 19, 2006: Remarks on Stem Cell Research Policy",Remarks / Statement,1657,0,0,0,0,0,0,0,0,2,0
+George W. Bush,2007,"January 11, 2007: Address on Military Operations in Iraq",Address / Speech,2925,3,5,6,0,1,0,0,5,0,0
+George W. Bush,2007,"January 23, 2007: State of the Union Address",State of the Union,5596,10,3,2,0,7,3,4,8,10,5
+George W. Bush,2007,"April 9, 2007: Speech on Comprehensive Immigration Reform",Address / Speech,3697,0,0,0,0,0,1,14,1,4,21
+George W. Bush,2008,"January 28, 2008: State of the Union Address",State of the Union,5755,3,8,10,0,6,6,3,9,16,3
+George W. Bush,2008,"March 19, 2008: Remarks on the War on Terror",Remarks / Statement,3202,11,1,7,0,1,0,0,2,0,0
+George W. Bush,2008,"October 3, 2008: Remarks on Emergency Economic Stabilization Act of 2008",Remarks / Statement,680,0,0,0,0,5,1,0,6,9,0
+George W. Bush,2008,"November 13, 2008: Speech on Financial Markets and the World Economy",Address / Speech,2988,2,1,4,0,12,0,0,31,1,2
+George W. Bush,2008,"December 19, 2008: Remarks on Plan to Assist Automakers",Remarks / Statement,1039,0,0,0,0,3,0,0,6,0,0
+George W. Bush,2009,"January 12, 2009: Final Press Conference",Press Conference,7306,3,8,3,0,5,0,2,12,5,5
+George W. Bush,2009,"January 15, 2009: Farewell Address to the Nation",Farewell Address,1870,0,3,5,0,2,1,0,2,2,1
+George Washington,1789,"April 30, 1789: First Inaugural Address",Inaugural Address,1433,0,0,0,0,0,0,0,0,0,0
+George Washington,1789,"October 3, 1789: Thanksgiving Proclamation",Proclamation,435,1,1,0,0,0,0,0,0,0,0
+George Washington,1790,"January 8, 1790: First Annual Message to Congress",State of the Union,848,1,2,0,0,0,0,0,0,0,0
+George Washington,1790,"December 8, 1790: Second Annual Message to Congress",State of the Union,1400,3,1,0,0,0,0,0,0,0,0
+George Washington,1790,"December 29, 1790: Talk to the Chiefs and Counselors of the Seneca Nation",Other,1400,3,2,0,0,0,0,0,0,0,0
+George Washington,1791,"October 25, 1791: Third Annual Message to Congress",State of the Union,2265,1,3,0,0,0,1,0,0,2,0
+George Washington,1792,"April 5, 1792: Veto Message on Congressional Redistricting",Veto Message,155,0,0,0,0,0,0,0,0,0,0
+George Washington,1792,"November 6, 1792: Fourth Annual Message to Congress",State of the Union,2355,2,5,0,0,0,0,0,0,0,0
+George Washington,1792,"December 12, 1792: Proclamation Against Crimes Against the Cherokee Nations",Proclamation,190,0,1,0,0,0,0,0,0,0,0
+George Washington,1793,"March 4, 1793: Second Inaugural Address",Inaugural Address,135,0,0,0,0,0,0,0,0,0,0
+George Washington,1793,"April 22, 1793: Proclamation of Neutrality",Proclamation,237,2,0,0,0,0,0,0,0,0,0
+George Washington,1793,"December 3, 1793: Fifth Annual Message to Congress",State of the Union,1831,4,6,1,0,1,0,0,1,1,0
+George Washington,1794,"August 7, 1794: Proclamation against Opposition to Execution of Laws and Excise Duties in Western Pennsylvania",Proclamation,1283,1,0,0,0,0,0,0,0,0,0
+George Washington,1794,"September 25, 1794: Proclamation of Militia Service",Proclamation,653,0,1,1,0,0,0,0,0,0,0
+George Washington,1794,"November 19, 1794: Sixth Annual Message to Congress",State of the Union,2926,1,3,0,0,0,0,0,0,1,0
+George Washington,1795,"July 10, 1795: Proclamation of Pardons in Western Pennsylvania",Proclamation,382,0,0,0,0,0,0,0,0,0,0
+George Washington,1795,"December 8, 1795: Seventh Annual Message to Congress",State of the Union,1977,4,4,0,0,0,0,0,0,0,0
+George Washington,1796,"March 30, 1796: Message to the House of Representatives, Declining to Submit Diplomatic Instructions and Corresponde",Message,1065,0,0,0,0,0,0,0,0,0,0
+George Washington,1796,"August 29, 1796: Talk to the Cherokee Nation",Other,1602,1,2,0,0,0,0,0,0,0,0
+George Washington,1796,"September 19, 1796: Farewell Address",Farewell Address,6073,3,9,1,0,0,2,0,0,2,0
+George Washington,1796,"December 7, 1796: Eighth Annual Message to Congress",State of the Union,2863,11,5,0,0,0,0,0,0,0,0
+Gerald Ford,1974,"August 9, 1974: Remarks on Taking the Oath of Office",Remarks / Statement,848,0,2,1,0,0,0,0,0,0,0
+Gerald Ford,1974,"September 8, 1974: Remarks on Pardoning Richard Nixon",Remarks / Statement,1088,0,1,0,0,0,0,0,0,0,0
+Gerald Ford,1974,"September 16, 1974: Remarks on Clemency for Vietnam Era Draft Evaders",Remarks / Statement,589,1,0,0,0,0,0,0,0,0,0
+Gerald Ford,1974,"September 18, 1974: Address to the General Assembly of the United Nations",Address / Speech,2090,2,8,2,0,1,0,0,6,0,0
+Gerald Ford,1974,"October 8, 1974: ""Whip Inflation Now"" Speech",Address / Speech,4300,3,0,0,0,8,6,0,14,19,0
+Gerald Ford,1975,"January 15, 1975: State of the Union Address",State of the Union,4090,2,2,0,0,4,10,0,18,29,0
+Gerald Ford,1975,"April 10, 1975: Address on U.S. Foreign Policy",Address / Speech,6086,12,12,2,0,3,0,0,16,0,0
+Gerald Ford,1975,"April 23, 1975: Remarks at Tulane University",Remarks / Statement,2392,4,5,0,0,1,0,0,4,0,0
+Gerald Ford,1975,"May 27, 1975: Address on Energy Policy",Address / Speech,1346,0,0,0,0,3,0,0,3,4,0
+Gerald Ford,1975,"August 1, 1975: Remarks in Helsinki",Remarks / Statement,2785,3,11,1,0,0,0,0,4,0,0
+Gerald Ford,1975,"December 7, 1975: Address at the University of Hawaii",Address / Speech,2255,1,9,2,0,1,0,0,9,0,0
+Gerald Ford,1976,"January 19, 1976: State of the Union Address",State of the Union,4971,6,2,6,1,14,4,0,18,19,0
+Gerald Ford,1976,"August 19, 1976: Republican National Convention",Convention Speech,2906,4,11,2,0,4,1,0,7,8,1
+Gerald Ford,1977,"January 12, 1977: State of the Union Address",State of the Union,4719,8,16,2,0,5,1,0,15,7,0
+Grover Cleveland,1885,"March 4, 1885: First Inaugural Address",Inaugural Address,1574,0,3,0,0,0,0,1,2,1,1
+Grover Cleveland,1885,"December 8, 1885: First Annual Message",State of the Union,19680,14,7,2,0,3,0,3,7,5,3
+Grover Cleveland,1886,"March 1, 1886: Message Regarding Chinese Immigrant Workers",Message,1724,0,2,1,0,0,0,2,0,0,2
+Grover Cleveland,1886,"April 22, 1886: Message Regarding U.S. Labor Force",Message,1159,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1886,"May 8, 1886: Veto of Military Pension Legislation",Veto Message,815,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1886,"May 11, 1886: Message on the Statue of Liberty",Message,535,0,1,1,0,0,0,0,0,0,0
+Grover Cleveland,1886,"July 14, 1886: Message on Federal Employee Political Involvement",Message,360,0,0,1,0,0,0,0,0,0,0
+Grover Cleveland,1886,"December 6, 1886: Second Annual Message",State of the Union,15039,12,4,1,0,6,0,0,9,13,0
+Grover Cleveland,1887,"February 11, 1887: Veto of Military Pension Legislation",Veto Message,4126,35,2,0,0,0,0,0,0,6,0
+Grover Cleveland,1887,"February 16, 1887: Veto of Texas Seed Bill",Veto Message,584,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1887,"December 6, 1887: Third Annual Message",State of the Union,5260,0,0,0,0,0,1,0,2,21,0
+Grover Cleveland,1888,"February 2, 1888: Message Regarding Civil Service Reform",Message,9742,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1888,"October 1, 1888: Message Regarding Chinese Exclusion Act",Message,2053,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1888,"December 3, 1888: Fourth Annual Message",State of the Union,13070,10,2,2,1,2,3,1,7,8,1
+Grover Cleveland,1893,"March 4, 1893: Second Inaugural Address",Inaugural Address,1889,0,0,0,0,3,0,0,3,3,0
+Grover Cleveland,1893,"August 8, 1893: Special Session Message",Message,2061,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1893,"August 8, 1893: Message Regarding Economic Crisis",Message,2061,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1893,"December 4, 1893: First Annual Message (Second Term)",State of the Union,12082,12,0,1,0,6,3,1,7,9,2
+Grover Cleveland,1893,"December 18, 1893: Message Regarding Hawaiian Annexation",Message,6184,2,0,1,0,0,0,0,1,0,0
+Grover Cleveland,1894,"March 29, 1894: Veto Message of Monetary Legislation",Veto Message,3076,0,0,0,0,0,3,0,0,3,0
+Grover Cleveland,1894,"July 8, 1894: Proclamation Regarding Railroad Strike",Proclamation,427,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1894,"December 3, 1894: Second Annual Message (Second Term)",State of the Union,15640,25,9,0,0,1,1,0,5,6,0
+Grover Cleveland,1895,"January 28, 1895: Message Regarding the Financial Crisis",Message,2311,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1895,"February 8, 1895: Announcement of Treasury Bond Sale",Other,716,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1895,"June 12, 1895: Declaration of US Neutrality",Other,365,2,1,0,0,0,0,0,0,0,0
+Grover Cleveland,1895,"December 2, 1895: Third Annual Message (Second Term)",State of the Union,14559,6,3,2,0,0,0,1,3,6,2
+Grover Cleveland,1895,"December 17, 1895: Message Regarding Venezuelan-British Dispute",Message,1559,0,3,0,0,0,0,0,0,0,0
+Grover Cleveland,1895,"December 20, 1895: Message Regarding the Financial Crisis",Message,603,0,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1896,"July 27, 1896: Announcing the Continuation of US Neutrality",Other,564,1,2,0,0,0,0,0,0,0,0
+Grover Cleveland,1896,"December 7, 1896: Fourth Annual Message (Second Term)",State of the Union,15268,10,4,1,0,10,0,3,14,6,8
+Grover Cleveland,1897,"January 11, 1897: Message Regarding Treaty with Britain",Message,384,2,0,0,0,0,0,0,0,0,0
+Grover Cleveland,1897,"March 2, 1897: Veto Message Regarding Immigration Legislation",Veto Message,1883,0,1,0,0,0,0,10,1,0,28
+Harry S. Truman,1945,"April 16, 1945: First Speech to Congress",Address / Speech,1880,5,23,7,1,0,0,0,1,0,0
+Harry S. Truman,1945,"May 8, 1945: Announcing the Surrender of Germany",Other,707,3,6,3,0,0,0,0,0,0,0
+Harry S. Truman,1945,"August 6, 1945: Statement by the President Announcing the Use of the A-Bomb at Hiroshima",Remarks / Statement,1154,7,1,0,0,0,0,0,0,0,0
+Harry S. Truman,1945,"August 9, 1945: Radio Report to the American People on the Potsdam Conference",Other,4066,24,25,2,0,4,0,0,10,0,0
+Harry S. Truman,1945,"September 1, 1945: Announcing the Surrender of Japan",Other,1267,7,5,2,0,0,0,0,0,0,0
+Harry S. Truman,1945,"October 27, 1945: Navy Day Address",Address / Speech,2584,7,20,7,0,0,0,0,1,0,0
+Harry S. Truman,1947,"March 12, 1947: Truman Doctrine",Other,2194,6,4,7,0,2,0,0,14,0,0
+Harry S. Truman,1947,"June 20, 1947: On the Veto of the Taft-Hartley Bill",Veto Message,1803,0,0,0,0,0,0,0,1,0,0
+Harry S. Truman,1947,"June 29, 1947: Address before the NAACP",Address / Speech,1232,1,0,8,0,0,0,0,0,0,0
+Harry S. Truman,1948,"July 15, 1948: Democratic National Convention",Convention Speech,2673,0,2,0,0,0,1,0,0,3,0
+Harry S. Truman,1948,"September 18, 1948: Whistlestop Tour in Chariton, Iowa",Other,801,0,0,0,0,0,0,0,0,0,0
+Harry S. Truman,1948,"September 18, 1948: Whistlestop Tour in Trenton, Missouri",Other,789,0,0,0,0,0,0,0,0,0,0
+Harry S. Truman,1948,"November 3, 1948: Victory Celebration",Other,284,0,1,0,0,0,0,0,0,2,0
+Harry S. Truman,1949,"January 20, 1949: Inaugural Address",Inaugural Address,2283,2,15,13,0,0,0,0,7,0,0
+Harry S. Truman,1951,"April 11, 1951: Report to the American People on Korea",Other,2466,24,16,4,0,0,0,0,0,0,0
+Harry S. Truman,1952,"March 15, 1952: Columbia Scholastic Press Association",Other,1959,2,0,0,0,0,0,0,0,0,0
+Harry S. Truman,1952,"March 29, 1952: Jefferson-Jackson Day Dinner",Other,3784,6,4,2,0,0,0,0,1,4,0
+Harry S. Truman,1952,"October 22, 1952: Rear Platform Remarks",Remarks / Statement,1267,1,0,0,0,0,1,0,0,1,0
+Harry S. Truman,1953,"January 15, 1953: Farewell Address",Farewell Address,3761,16,7,4,2,1,0,0,3,0,0
+Herbert Hoover,1928,"October 22, 1928: Principles and Ideals of the United States Government",Other,6174,18,3,17,0,0,1,1,20,4,2
+Herbert Hoover,1929,"March 4, 1929: Inaugural Address",Inaugural Address,3762,2,15,6,0,1,0,0,7,0,0
+Herbert Hoover,1929,"June 11, 1929: Message Regarding the Farm Bill",Message,368,0,0,0,0,0,0,0,0,0,0
+Herbert Hoover,1929,"July 24, 1929: Address on Kellogg-Briand Pact",Address / Speech,1092,4,1,0,0,0,0,0,0,0,0
+Herbert Hoover,1929,"July 24, 1929: Remarks Upon Proclaiming the Treaty for the Renunciation of War (Kellog-Briand Pact)",Remarks / Statement,1092,4,1,0,0,0,0,0,0,0,0
+Herbert Hoover,1929,"September 18, 1929: Message Regarding International Peace",Message,636,4,7,0,1,0,0,0,0,0,0
+Herbert Hoover,1929,"October 25, 1929: Message Regarding “Black Thursday”",Message,207,0,0,0,0,0,0,0,0,0,0
+Herbert Hoover,1929,"November 5, 1929: Message on the Economy",Message,990,0,0,0,0,0,0,0,1,0,0
+Herbert Hoover,1929,"November 19, 1929: Statement on the Economy",Remarks / Statement,591,0,0,0,0,1,0,0,2,0,0
+Herbert Hoover,1929,"December 3, 1929: First State of the Union Address",State of the Union,10893,14,7,3,0,3,2,2,16,13,4
+Herbert Hoover,1930,"March 7, 1930: Statement Regarding Business and Unemployment",Remarks / Statement,385,0,0,0,0,0,0,0,0,0,0
+Herbert Hoover,1930,"April 28, 1930: Message Regarding Law Enforcement",Message,598,0,0,0,0,0,0,0,0,0,0
+Herbert Hoover,1930,"June 16, 1930: Message regarding the Smoot-Hawley Tariff Act",Message,1622,1,0,0,0,0,0,0,3,0,0
+Herbert Hoover,1930,"July 7, 1930: Message Regarding London Naval Treaty",Message,2087,1,5,0,0,0,1,0,3,1,0
+Herbert Hoover,1930,"October 2, 1930: Address to the American Bankers’ Association.",Address / Speech,3709,3,0,0,0,0,1,1,25,1,1
+Herbert Hoover,1930,"December 2, 1930: Second State of the Union address.",State of the Union,4475,1,2,1,0,1,2,3,18,11,4
+Herbert Hoover,1930,"December 9, 1930: Message Regarding Unemployment Relief",Message,309,0,0,0,0,0,2,0,0,2,0
+Herbert Hoover,1931,"February 3, 1931: Statement on Unemployment Relief",Remarks / Statement,1467,1,0,0,0,0,0,0,1,0,0
+Herbert Hoover,1931,"February 26, 1931: Veto Messages Regarding Emergency Adjusted Compensation Act",Veto Message,2200,10,1,1,0,0,3,0,0,6,0
+Herbert Hoover,1931,"June 21, 1931: Statement on Foreign Debts",Remarks / Statement,864,1,1,0,0,1,0,0,4,0,0
+Herbert Hoover,1931,"September 22, 1931: Message on the Gold Standard",Message,957,2,0,0,0,0,0,0,3,0,0
+Herbert Hoover,1931,"October 18, 1931: Message Regarding Unemployment Relief",Message,1391,0,0,0,0,0,0,1,2,1,2
+Herbert Hoover,1931,"December 8, 1931: Third State of the Union Address",State of the Union,5659,3,2,2,0,1,5,4,19,11,4
+Herbert Hoover,1931,"December 11, 1931: Statement Regarding Economic Recovery",Remarks / Statement,810,1,0,0,0,1,0,0,1,1,0
+Herbert Hoover,1932,"May 31, 1932: Statement on the National Economy",Remarks / Statement,2540,0,0,0,0,3,14,0,9,31,0
+Herbert Hoover,1932,"August 11, 1932: Speech Accepting the Republican Nomination",Convention Speech,7226,8,9,5,0,3,3,1,22,10,1
+Herbert Hoover,1932,"October 21, 1932: Campaign Speech in Madison Square Garden",Address / Speech,6569,3,1,10,0,0,0,0,17,0,0
+Herbert Hoover,1932,"October 28, 1932: Campaign speech in Indianapolis, Indiana.",Address / Speech,8625,5,0,0,0,3,0,3,6,0,4
+Herbert Hoover,1932,"November 5, 1932: Campaign speech in St Paul Minnesota",Address / Speech,7897,13,1,0,0,1,1,0,9,5,0
+Herbert Hoover,1932,"December 6, 1932: Fourth State of the Union Address",State of the Union,4067,6,2,1,0,3,3,0,29,6,0
+James A. Garfield,1881,"March 4, 1881: Inaugural Address",Inaugural Address,2980,5,2,7,4,1,0,0,1,0,0
+James Buchanan,1857,"March 4, 1857: Inaugural Address",Inaugural Address,2651,7,4,0,4,0,0,0,2,0,0
+James Buchanan,1857,"December 8, 1857: First Annual Message",State of the Union,13576,21,4,1,32,4,0,0,6,2,0
+James Buchanan,1858,"February 2, 1858: Message to Congress Transmitting the Constitution of Kansas",Message,6661,3,5,2,18,0,0,0,0,0,0
+James Buchanan,1858,"December 6, 1858: Second Annual Message",State of the Union,16263,19,9,1,7,5,2,0,6,5,1
+James Buchanan,1859,"February 18, 1859: Special Message Regarding Transit Across Central America",Message,1129,5,0,0,0,0,0,0,0,0,0
+James Buchanan,1859,"February 24, 1859: Veto Message Regarding Land-Grant Colleges",Veto Message,3721,4,1,0,0,0,2,0,0,9,0
+James Buchanan,1859,"December 19, 1859: Third Annual Message",State of the Union,12254,24,9,0,6,3,0,0,3,0,0
+James Buchanan,1860,"March 28, 1860: Protest of Congressional Investigations",Other,2412,0,0,0,0,0,0,0,0,0,0
+James Buchanan,1860,"May 19, 1860: Message on the Capture of the Wildfire",Message,1407,0,0,0,0,1,0,0,1,0,0
+James Buchanan,1860,"June 22, 1860: Addendum to March 28 Message to Congress",Message,3301,1,0,0,0,1,0,0,1,0,0
+James Buchanan,1860,"December 3, 1860: Fourth Annual Message",State of the Union,13989,22,13,4,12,1,1,0,1,1,0
+James Buchanan,1861,"January 8, 1861: Message on Threats to the Peace and Existence of the Union",Message,2001,9,4,0,0,0,0,0,0,0,0
+James Buchanan,1861,"January 28, 1861: Message on Resolutions of Virginia",Message,755,1,1,0,0,0,0,0,0,0,0
+James Buchanan,1861,"March 1, 1861: Message Regarding the Presence of Troops in Washington, DC",Message,580,0,3,0,0,0,0,0,0,0,0
+James K. Polk,1845,"March 4, 1845: Inaugural Address",Inaugural Address,4809,5,10,2,0,1,3,0,2,6,0
+James K. Polk,1845,"December 2, 1845: First Annual Message",State of the Union,16028,17,12,2,0,1,1,0,3,14,0
+James K. Polk,1846,"March 24, 1846: Message Regarding Increase in Military Force",Message,946,3,4,0,0,0,0,0,0,0,0
+James K. Polk,1846,"April 13, 1846: Message Regarding Cherokee Indians",Message,982,1,1,0,0,0,0,0,0,0,0
+James K. Polk,1846,"May 11, 1846: War Message to Congress",Message,2970,10,2,0,0,0,0,0,0,0,0
+James K. Polk,1846,"May 13, 1846: Announcement of War with Mexico",Other,268,1,1,0,0,0,0,0,0,0,0
+James K. Polk,1846,"June 10, 1846: Message to Senate Regarding Oregon",Message,632,2,1,0,0,0,0,0,0,0,0
+James K. Polk,1846,"August 3, 1846: Veto Message Regarding Funding Internal Improvements",Veto Message,2946,2,0,0,0,0,1,0,0,2,0
+James K. Polk,1846,"August 5, 1846: Message Requesting the Creation of an Oregon Territory",Message,344,0,0,0,0,0,0,0,0,0,0
+James K. Polk,1846,"August 7, 1846: Message Regarding Treaty with Cherokees",Message,680,1,3,0,0,0,0,0,0,0,0
+James K. Polk,1846,"August 8, 1846: Message Regarding Settlement with Mexico",Message,496,2,2,0,0,0,0,0,0,0,0
+James K. Polk,1846,"December 8, 1846: Second Annual Message to Congress",State of the Union,18142,69,27,0,0,1,6,0,3,8,0
+James K. Polk,1846,"December 29, 1846: Request to Increase the Size of the Army",Other,498,10,3,0,0,0,0,0,0,0,0
+James K. Polk,1847,"February 13, 1847: Message Regarding the War with Mexico",Message,1794,23,8,0,0,1,0,0,1,1,0
+James K. Polk,1847,"December 7, 1847: Third Annual Message",State of the Union,16346,94,48,2,0,0,0,0,0,2,0
+James K. Polk,1848,"February 22, 1848: Message Regarding Treaty Of Guadelupe Hidalgo",Message,620,0,4,0,0,0,0,0,0,0,0
+James K. Polk,1848,"April 3, 1848: Message Regarding Establishment Of The French Republic",Message,493,0,0,0,0,0,0,0,0,0,0
+James K. Polk,1848,"May 29, 1848: Message Regarding the Oregon Territory",Message,715,1,1,0,0,0,0,0,0,0,0
+James K. Polk,1848,"July 4, 1848: Announcement of Peace Treaty with Mexico",Other,239,0,1,0,0,0,0,0,0,0,0
+James K. Polk,1848,"July 6, 1848: Message Regarding the Treaty of Guadalupe Hidalgo",Message,2995,25,4,0,0,0,0,0,0,0,0
+James K. Polk,1848,"August 1, 1848: Message Regarding Size of the Army",Message,491,4,4,0,0,0,0,0,0,0,0
+James K. Polk,1848,"August 14, 1848: Message Regarding Slavery in the Territories",Message,2117,0,3,2,9,0,0,0,0,0,0
+James K. Polk,1848,"December 5, 1848: Fourth Annual Message to Congress",State of the Union,21244,71,25,1,7,1,7,0,2,21,0
+James K. Polk,1849,"January 2, 1849: Message Regarding War-time Measures",Message,3338,50,4,0,0,0,0,0,0,2,0
+James K. Polk,1849,"February 8, 1849: Message Regarding the Treaty of Guadalupe Hidalgo",Message,4121,5,8,0,0,0,0,0,0,0,0
+James Madison,1809,"March 4, 1809: First Inaugural Address",Inaugural Address,1177,1,4,1,0,1,0,0,1,0,0
+James Madison,1809,"November 29, 1809: First Annual Message",State of the Union,1832,3,2,0,0,0,0,0,0,0,0
+James Madison,1810,"October 27, 1810: Proclamation-- Occupation of West Florida",Proclamation,622,0,0,0,0,0,0,0,0,0,0
+James Madison,1810,"December 5, 1810: Second Annual Message",State of the Union,2442,4,1,0,0,1,0,0,1,0,0
+James Madison,1811,"February 21, 1811: Veto Act on Incorporating the Alexandria Protestant Episcopal Church",Veto Message,335,0,0,0,0,0,0,0,0,0,0
+James Madison,1811,"November 5, 1811: Third Annual Message",State of the Union,2271,3,1,0,0,0,0,0,0,0,0
+James Madison,1812,"June 1, 1812: Special Message to Congress on the Foreign Policy Crisis -- War Message",Message,2848,9,4,0,0,0,0,0,0,0,0
+James Madison,1812,"June 19, 1812: Proclamation of a State of War with Great Britain",Proclamation,288,1,1,0,0,0,0,0,0,0,0
+James Madison,1812,"July 9, 1812: Proclamation of Day of Fasting and Prayer",Proclamation,310,2,1,0,0,0,0,0,0,0,0
+James Madison,1812,"November 4, 1812: Fourth Annual Message",State of the Union,3249,20,5,0,0,1,0,0,1,0,0
+James Madison,1813,"March 4, 1813: Second Inaugural Address",Inaugural Address,1211,15,0,0,0,0,0,0,0,0,0
+James Madison,1813,"May 25, 1813: Message on the Special Congressional Session -- State of War and Diplomacy",Message,2072,11,5,0,0,0,1,0,0,1,0
+James Madison,1813,"July 23, 1813: Proclamation on Day of Public Humiliation and Prayer",Proclamation,798,1,1,0,0,0,0,0,0,0,0
+James Madison,1813,"December 7, 1813: Fifth Annual Message",State of the Union,3258,28,4,2,0,0,0,0,0,0,0
+James Madison,1814,"September 1, 1814: Proclamation upon British Depredations, Burning of the Capitol",Proclamation,695,3,1,0,0,0,0,0,0,0,0
+James Madison,1814,"September 20, 1814: Sixth Annual Message",State of the Union,2114,10,4,0,0,0,1,0,1,1,0
+James Madison,1815,"January 30, 1815: Veto Message on the National Bank",Veto Message,1278,8,3,0,0,0,5,0,0,5,0
+James Madison,1815,"February 18, 1815: Special Message to Congress on the Treaty of Ghent",Message,828,4,7,0,0,0,0,0,0,0,0
+James Madison,1815,"December 5, 1815: Seventh Annual Message",State of the Union,3147,10,12,0,0,1,1,0,1,1,0
+James Madison,1816,"December 3, 1816: Eighth Annual Message",State of the Union,3363,7,7,1,2,1,0,0,1,0,0
+James Madison,1817,"March 3, 1817: Veto Message on the Internal Improvements Bill",Veto Message,815,0,0,0,0,0,0,0,0,0,0
+James Monroe,1817,"March 4, 1817: First Inaugural Address",Inaugural Address,3379,10,6,0,0,1,1,0,1,1,0
+James Monroe,1817,"December 2, 1817: First Annual Message",State of the Union,4413,5,0,1,0,0,4,0,0,4,0
+James Monroe,1818,"November 16, 1818: Second Annual Message",State of the Union,4371,10,1,1,0,0,0,0,0,0,0
+James Monroe,1819,"December 7, 1819: Third Annual Message",State of the Union,4696,5,2,0,0,0,0,0,0,0,0
+James Monroe,1820,"November 14, 1820: Fourth Annual Message",State of the Union,3431,8,5,0,0,2,0,0,2,1,0
+James Monroe,1821,"March 5, 1821: Second Inaugural Address",Inaugural Address,4466,16,10,0,0,2,2,0,2,4,0
+James Monroe,1821,"December 3, 1821: Fifth Annual Message",State of the Union,5793,1,3,0,0,1,0,0,1,0,0
+James Monroe,1822,"December 3, 1822: Sixth Annual Message",State of the Union,4707,14,5,1,0,2,0,0,2,0,0
+James Monroe,1823,"December 2, 1823: Seventh Annual Message (Monroe Doctrine)",State of the Union,6322,10,4,1,0,1,0,1,4,0,1
+James Monroe,1824,"December 7, 1824: Eighth Annual Message",State of the Union,8382,21,5,0,0,0,0,0,0,0,0
+Jimmy Carter,1976,"September 23, 1976: Debate with President Gerald Ford (Domestic Issues)",Debate,13492,7,0,1,0,19,29,0,31,120,0
+Jimmy Carter,1976,"October 6, 1976: Debate with President Gerald Ford (Foreign and Defense Issues)",Debate,12970,12,13,5,0,5,0,0,14,2,0
+Jimmy Carter,1976,"October 22, 1976: Debate with President Gerald Ford",Debate,13089,8,6,1,0,2,3,0,10,13,0
+Jimmy Carter,1977,"January 20, 1977: Inaugural Address",Inaugural Address,1226,1,1,4,0,0,0,0,0,0,0
+Jimmy Carter,1977,"February 2, 1977: Report to the American People on Energy",Other,3503,4,1,0,0,4,4,0,13,20,0
+Jimmy Carter,1977,"March 9, 1977: Remarks at President Carter's Press Conference",Press Conference,4946,2,4,0,0,0,0,0,5,0,0
+Jimmy Carter,1977,"April 18, 1977: Address to the Nation on Energy",Address / Speech,2622,2,1,2,0,0,0,0,3,0,0
+Jimmy Carter,1977,"May 22, 1977: University of Notre Dame Commencement",Other,3224,3,8,5,0,0,0,0,3,0,0
+Jimmy Carter,1977,"September 7, 1977: Statement on the Panama Canal Treaty Signing",Remarks / Statement,692,0,0,0,0,0,0,0,1,0,0
+Jimmy Carter,1977,"November 8, 1977: Address to the Nation on Energy",Address / Speech,2479,0,0,0,0,7,1,0,8,2,0
+Jimmy Carter,1978,"January 19, 1978: State of the Union Address",State of the Union,4628,6,7,2,0,11,3,0,26,18,0
+Jimmy Carter,1978,"September 17, 1978: President Carter's Remarks on Joint Statement at Camp David Summit",Remarks / Statement,748,0,11,0,0,0,0,0,0,0,0
+Jimmy Carter,1978,"October 24, 1978: Anti-Inflation Program Speech",Address / Speech,3265,0,0,0,0,8,3,0,14,10,0
+Jimmy Carter,1978,"December 15, 1978: Speech on Establishing Diplomatic Relations with China",Address / Speech,916,0,5,0,0,0,0,0,0,0,0
+Jimmy Carter,1979,"January 23, 1979: State of the Union Address",State of the Union,3310,3,17,2,0,8,0,0,14,1,0
+Jimmy Carter,1979,"July 15, 1979: ""Crisis of Confidence"" Speech",Address / Speech,3651,9,3,6,0,2,0,0,4,1,0
+Jimmy Carter,1980,"January 4, 1980: Speech on Afghanistan",Address / Speech,1361,0,6,0,0,0,0,0,1,0,0
+Jimmy Carter,1980,"January 23, 1980: State of the Union Address",State of the Union,3457,4,22,2,0,2,0,0,8,0,0
+Jimmy Carter,1980,"April 25, 1980: Statement on the Iran Rescue Mission",Remarks / Statement,816,0,0,1,0,0,0,0,0,0,0
+Jimmy Carter,1980,"August 14, 1980: Acceptance Speech at the Democratic National Convention",Convention Speech,4763,3,22,6,0,2,0,0,12,5,0
+Jimmy Carter,1980,"October 28, 1980: Debate with Ronald Reagan",Debate,15381,16,21,1,0,4,4,0,20,27,1
+Jimmy Carter,1981,"January 14, 1981: Farewell Speech",Farewell Address,2182,4,1,3,0,0,0,0,1,0,0
+Joe Biden,2021,"January 20, 2021: Inaugural Address",Inaugural Address,2397,7,4,0,0,0,0,0,0,0,0
+Joe Biden,2021,"March 11, 2021: Remarks on the Anniversary of the Coronavirus Shutdown",Remarks / Statement,3261,6,0,0,0,2,0,0,2,0,0
+Joe Biden,2021,"March 25, 2021: First Press Conference",Press Conference,9811,1,1,1,0,2,3,10,5,5,12
+Joe Biden,2021,"March 31, 2021: Announcing the American Jobs Plan",Other,4444,5,0,0,0,11,3,0,18,14,1
+Joe Biden,2021,"April 28, 2021: Address to Joint Session of Congress",Address / Speech,8351,6,1,0,0,7,5,5,16,19,7
+Joe Biden,2021,"June 1, 2021: Remarks Commemorating the 100th Anniversary of the Tulsa Race Massacre",Remarks / Statement,5055,4,1,0,0,1,0,0,2,1,0
+Joe Biden,2021,"July 8, 2021: Speech on the Drawdown of US Forces in Afghanistan",Address / Speech,4228,9,4,0,0,0,0,0,0,0,3
+Joe Biden,2021,"August 16, 2021: Remarks on Situation in Afghanistan",Remarks / Statement,2455,9,0,0,0,0,0,1,1,0,1
+Joe Biden,2021,"August 26, 2021: Statement on Terror Attacks in Afghanistan",Remarks / Statement,3666,5,0,0,0,1,0,0,1,0,0
+Joe Biden,2021,"September 9, 2021: Remarks on Fighting the COVID-⁠19 Pandemic",Remarks / Statement,3606,0,0,1,0,3,0,0,7,0,0
+Joe Biden,2021,"November 15, 2021: Signing the Infrastructure Investment and Jobs Act",Other,3274,2,0,0,0,3,2,0,5,3,0
+Joe Biden,2022,"January 6, 2022: Remarks on the Anniversary of the January 6th Assault on the US Capitol",Remarks / Statement,3837,3,1,1,0,0,0,0,0,0,0
+Joe Biden,2022,"February 24, 2022: Remarks on the Russian Invasion of Ukraine",Remarks / Statement,3644,7,1,4,0,5,0,0,10,0,0
+Joe Biden,2022,"March 1, 2022: State of the Union Address",State of the Union,6671,5,2,7,0,13,2,3,23,15,4
+Joe Biden,2022,"March 26, 2022: Remarks in Support of the People of Ukraine",Remarks / Statement,3497,15,1,13,0,6,0,0,11,0,0
+Joe Biden,2022,"May 24, 2022: Remarks on School Shooting in Uvalde, Texas",Remarks / Statement,845,0,0,0,0,0,0,0,0,0,0
+Joe Biden,2022,"September 1, 2022: Remarks on the Continued Battle for the Soul of the Nation",Remarks / Statement,3015,2,0,2,0,2,0,0,3,0,0
+Joe Biden,2022,"September 21, 2022: Speech before the 77th Session of the United Nations General Assembly",Address / Speech,3762,13,8,2,0,2,0,0,10,1,0
+Joe Biden,2023,"February 7, 2023: State of the Union Address",State of the Union,7363,5,2,1,0,6,4,2,12,17,3
+Joe Biden,2023,"February 21, 2023: Remarks on the One-Year Anniversary of the Ukraine War",Remarks / Statement,2760,15,4,17,0,0,0,0,1,0,0
+Joe Biden,2023,"October 20, 2023: Remarks on the US Response in Support of Israel and Ukraine",Remarks / Statement,2398,5,4,4,0,0,0,0,1,0,0
+Joe Biden,2024,"January 5, 2024: Speech on the Third Anniversary of the January 6th Attack",Address / Speech,4185,6,0,14,0,0,0,0,0,0,0
+Joe Biden,2024,"March 7, 2024: State of Union Address",Address / Speech,8283,8,6,14,0,7,5,2,11,26,3
+Joe Biden,2024,"May 31, 2024: Remarks on the Middle East",Remarks / Statement,1913,12,1,1,0,0,0,0,1,0,0
+Joe Biden,2024,"July 14, 2024: Remarks after the Attempted Assassination of Former President Trump",Remarks / Statement,1064,0,0,1,0,0,0,0,0,0,0
+Joe Biden,2024,"July 24, 2024: Statement to the American People",Remarks / Statement,1640,4,1,1,0,2,0,0,3,0,0
+Joe Biden,2024,"September 24, 2024: Address before the 79th United Nations General Assembly",Address / Speech,3254,24,8,3,0,0,0,0,3,0,0
+Joe Biden,2025,"January 15, 2025: Farewell Address",Farewell Address,2484,1,0,2,0,2,1,0,3,3,2
+John Adams,1797,"March 4, 1797: Inaugural Address",Inaugural Address,2322,1,5,0,0,0,0,0,0,0,0
+John Adams,1797,"May 16, 1797: Special Session Message to Congress (XYZ Affair)",Message,3021,5,5,0,0,0,0,0,0,0,0
+John Adams,1797,"November 22, 1797: First Annual Message",State of the Union,2047,4,4,0,0,0,3,0,0,3,0
+John Adams,1798,"March 23, 1798: Proclamation of Day of Fasting, Humiliation and Prayer",Proclamation,654,0,2,2,0,0,0,0,0,0,0
+John Adams,1798,"December 8, 1798: Second Annual Message",State of the Union,2218,5,5,0,0,0,0,0,0,1,0
+John Adams,1799,"December 3, 1799: Third Annual Message",State of the Union,1494,3,0,0,0,1,0,0,1,0,0
+John Adams,1799,"December 19, 1799: Death of George Washington",Other,1253,0,0,0,0,0,0,0,0,0,0
+John Adams,1800,"May 21, 1800: Proclamation of Pardons to Those Engaged in Fries Rebellion",Proclamation,288,0,1,0,0,0,0,0,0,0,0
+John Adams,1800,"November 22, 1800: Fourth Annual Message",State of the Union,1373,1,0,0,0,1,0,0,1,0,0
+John F. Kennedy,1960,"July 15, 1960: Acceptance of the Democratic Party Nomination",Convention Speech,2555,2,1,2,0,0,1,0,2,1,0
+John F. Kennedy,1960,"September 12, 1960: Address to the Greater Houston Ministerial Association",Address / Speech,1555,1,0,2,0,0,0,0,0,0,0
+John F. Kennedy,1960,"September 26, 1960: Debate with Richard Nixon in Chicago",Debate,11023,3,0,12,1,9,5,0,19,9,0
+John F. Kennedy,1960,"October 7, 1960: Debate with Richard Nixon in Washington, D.C.",Debate,11355,16,4,8,0,14,3,0,31,11,0
+John F. Kennedy,1960,"October 13, 1960: Debate with Richard Nixon in New York and Los Angeles",Debate,10906,22,7,8,0,4,3,0,17,13,0
+John F. Kennedy,1960,"October 21, 1960: Debate with Richard Nixon in New York",Debate,10967,15,17,35,1,6,0,0,24,0,0
+John F. Kennedy,1961,"January 9, 1961: ""City Upon a Hill"" Speech",Address / Speech,909,0,0,0,0,0,0,0,0,0,1
+John F. Kennedy,1961,"January 20, 1961: Inaugural Address",Inaugural Address,1368,4,4,4,0,0,0,0,0,0,0
+John F. Kennedy,1961,"January 30, 1961: State of the Union",State of the Union,5264,5,10,5,0,9,0,0,25,5,0
+John F. Kennedy,1961,"February 21, 1961: Remarks on the Youth Fitness Program",Remarks / Statement,970,0,2,1,0,0,0,0,0,0,0
+John F. Kennedy,1961,"March 1, 1961: Establishment of the Peace Corps",Other,411,0,11,1,0,0,0,0,0,0,0
+John F. Kennedy,1961,"March 13, 1961: Address to the Diplomatic Corps of Latin America",Address / Speech,2474,1,2,9,0,0,0,0,13,2,0
+John F. Kennedy,1961,"April 20, 1961: Address to the American Association of Newspaper Editors",Address / Speech,1527,1,0,8,0,0,0,0,1,0,0
+John F. Kennedy,1961,"April 27, 1961: ""President and the Press"" Speech",Address / Speech,2449,10,2,0,0,0,0,0,1,0,0
+John F. Kennedy,1961,"May 3, 1961: Remarks at George Washington",Remarks / Statement,613,2,0,0,0,0,0,0,0,0,0
+John F. Kennedy,1961,"May 17, 1961: Address before the Canadian Parliament",Address / Speech,3004,1,3,11,0,0,0,0,10,0,0
+John F. Kennedy,1961,"May 25, 1961: The Goal of Sending a Man to the Moon",Other,5865,11,5,22,0,2,1,0,12,4,0
+John F. Kennedy,1961,"June 6, 1961: Report to the American People on Returning from Europe",Other,6424,12,12,20,0,0,0,0,8,2,0
+John F. Kennedy,1961,"June 7, 1961: Remarks to the Graduating Class of the US Naval Academy",Remarks / Statement,1306,3,2,2,0,0,0,0,1,0,0
+John F. Kennedy,1961,"July 25, 1961: Report on the Berlin Crisis",Other,4093,10,19,17,0,2,3,0,3,4,0
+John F. Kennedy,1961,"September 25, 1961: Address to the UN General Assembly",Address / Speech,4498,20,28,8,0,0,0,0,2,0,0
+John F. Kennedy,1961,"October 12, 1961: Address at the University of North Carolina",Address / Speech,1899,1,4,3,0,0,0,0,1,0,0
+John F. Kennedy,1961,"November 11, 1961: Remarks at the Veterans Day Ceremony",Remarks / Statement,1036,16,7,5,0,0,0,0,0,0,0
+John F. Kennedy,1961,"November 16, 1961: University of Washington's 100th Anniversary",Other,2104,10,9,10,1,0,0,0,1,0,0
+John F. Kennedy,1961,"December 6, 1961: Address to the National Association of Manufacturers",Address / Speech,6642,1,1,6,0,2,1,0,26,18,0
+John F. Kennedy,1961,"December 7, 1961: Address in Miami at the Opening of the AFL-CIO Convention",Address / Speech,4170,0,0,16,0,7,0,0,11,5,0
+John F. Kennedy,1961,"December 11, 1961: Remarks to a U.N. Delegation of Women",Remarks / Statement,463,0,0,0,0,0,0,0,0,0,0
+John F. Kennedy,1962,"January 11, 1962: State of the Union Address",State of the Union,6548,8,12,10,0,10,1,0,20,10,0
+John F. Kennedy,1962,"March 23, 1962: Address at the University of California, Berkeley",Address / Speech,2265,3,4,6,0,0,0,0,1,0,0
+John F. Kennedy,1962,"June 6, 1962: Remarks at West Point",Remarks / Statement,2364,10,1,7,0,2,0,0,6,0,0
+John F. Kennedy,1962,"June 11, 1962: Yale University Commencement",Other,3846,5,1,3,1,13,0,0,27,1,0
+John F. Kennedy,1962,"September 12, 1962: Address on the Space Effort",Address / Speech,2194,2,4,1,0,0,0,0,0,0,0
+John F. Kennedy,1962,"September 30, 1962: Address on the Situation at the University of Mississippi",Address / Speech,1135,1,1,1,0,0,0,0,0,0,0
+John F. Kennedy,1962,"October 22, 1962: Address on the Buildup of Arms in Cuba",Address / Speech,2440,6,9,6,0,0,0,0,0,0,0
+John F. Kennedy,1963,"January 14, 1963: State of the Union Address",State of the Union,5374,8,15,13,0,6,2,0,18,21,0
+John F. Kennedy,1963,"May 18, 1963: 90th Anniversary of Vanderbilt University",Other,2022,1,2,5,0,0,0,0,1,0,0
+John F. Kennedy,1963,"June 5, 1963: Remarks at U.S. Air Force Academy",Remarks / Statement,2197,4,2,7,0,0,0,0,3,0,0
+John F. Kennedy,1963,"June 10, 1963: American University Commencement",Other,3448,25,47,7,0,0,0,0,3,0,0
+John F. Kennedy,1963,"June 11, 1963: Address on Civil Rights",Address / Speech,1988,0,0,3,0,0,0,0,2,0,0
+John F. Kennedy,1963,"June 26, 1963: ""Ich bin ein Berliner"" Speech",Address / Speech,673,0,4,7,0,0,0,0,1,0,0
+John F. Kennedy,1963,"July 26, 1963: Address on the Nuclear Test Ban Treaty",Address / Speech,3123,17,10,1,0,0,0,0,0,0,0
+John F. Kennedy,1963,"September 20, 1963: Address to the UN General Assembly",Address / Speech,3555,11,22,5,0,0,0,0,2,0,0
+John F. Kennedy,1963,"September 26, 1963: Address at the Mormon Tabernacle",Address / Speech,3727,3,1,9,0,0,0,0,3,0,0
+John F. Kennedy,1963,"October 26, 1963: Remarks at Amherst College",Remarks / Statement,1863,1,1,2,0,0,0,0,1,0,0
+John Quincy Adams,1821,"July 4, 1821: Speech to the U.S. House of Representatives on Foreign Policy",Address / Speech,447,0,1,5,0,0,0,0,0,0,0
+John Quincy Adams,1825,"March 4, 1825: Inaugural Address",Inaugural Address,2917,5,9,5,0,1,1,0,1,2,0
+John Quincy Adams,1825,"December 6, 1825: Message Regarding the Congress of American Nations",Message,1051,3,1,1,0,0,0,0,0,0,0
+John Quincy Adams,1825,"December 6, 1825: First Annual Message",State of the Union,8919,14,11,1,0,0,2,0,0,2,0
+John Quincy Adams,1826,"December 5, 1826: Second Annual Address",State of the Union,7625,16,9,3,0,1,0,0,2,0,0
+John Quincy Adams,1827,"February 5, 1827: Message Regarding the Creek Indians",Message,1466,2,1,0,0,0,0,0,0,0,0
+John Quincy Adams,1827,"December 4, 1827: Third Annual Message",State of the Union,6834,9,8,3,0,2,1,0,2,1,0
+John Quincy Adams,1828,"December 2, 1828: Fourth Annual Message",State of the Union,7214,11,4,3,0,0,0,0,0,2,0
+John Tyler,1841,"April 9, 1841: Address Upon Assuming the Office of President of the United States",Address / Speech,1678,1,2,2,0,1,0,0,1,0,0
+John Tyler,1841,"June 1, 1841: Special Session Message to Congress Regarding General Affairs of the Country",Message,5935,10,5,0,0,3,1,0,3,4,0
+John Tyler,1841,"August 16, 1841: Veto Message Regarding the Bank of the United States",Veto Message,2513,1,1,2,0,0,0,0,0,0,0
+John Tyler,1841,"September 9, 1841: Veto Message on the Creation of a Fiscal Corporation",Veto Message,2271,0,0,0,0,0,0,0,0,0,0
+John Tyler,1841,"December 7, 1841: First Annual Message",State of the Union,8223,6,5,0,0,2,2,0,2,2,0
+John Tyler,1842,"March 25, 1842: Message Regarding Finances and Fiscal Policy",Message,2557,1,2,1,0,0,0,0,0,0,0
+John Tyler,1842,"May 10, 1842: Message Regarding Indian Affairs in Florida",Message,694,0,1,0,0,0,0,0,0,0,0
+John Tyler,1842,"August 9, 1842: Veto Message Regarding Import Duties",Veto Message,3198,2,1,0,0,1,3,0,2,5,0
+John Tyler,1842,"August 11, 1842: Message to Senate on Negotiations with Britain",Message,8108,1,4,0,0,0,0,0,0,0,0
+John Tyler,1842,"August 18, 1842: Message Regarding Treaty with Texas",Message,658,0,0,0,0,0,0,0,0,0,0
+John Tyler,1842,"December 6, 1842: Second Annual Message",State of the Union,8393,10,10,1,0,3,1,0,3,2,0
+John Tyler,1842,"December 30, 1842: Message to Congress Regarding US-Hawaiian Relations",Message,1486,0,0,0,0,0,0,0,0,0,0
+John Tyler,1843,"December 5, 1843: Third Annual Message to Congress",State of the Union,8012,16,5,0,0,1,1,0,1,1,0
+John Tyler,1844,"April 9, 1844: Message Regarding Disturbances in Rhode Island",Message,1957,5,4,0,0,0,0,0,0,0,0
+John Tyler,1844,"June 11, 1844: Veto Message Regarding Infrastructure Improvements",Veto Message,1612,0,0,0,0,0,0,0,0,0,0
+John Tyler,1844,"December 3, 1844: Fourth Annual Message",State of the Union,9316,18,18,3,0,2,1,0,3,4,0
+John Tyler,1844,"December 18, 1844: Message Regarding US-Mexican Affairs",Message,1767,9,3,0,0,0,0,0,0,0,0
+John Tyler,1845,"February 20, 1845: Message Regarding the Slave Trade",Message,1091,0,0,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1963,"May 30, 1963: Remarks at Gettysburg on Civil Rights",Remarks / Statement,706,0,4,4,0,0,0,0,0,0,0
+Lyndon B. Johnson,1963,"November 27, 1963: Address to Joint Session of Congress",Address / Speech,1642,2,6,1,0,2,0,0,2,1,0
+Lyndon B. Johnson,1963,"November 28, 1963: Thanksgiving Message",Message,2051,0,4,2,0,0,0,0,0,0,0
+Lyndon B. Johnson,1963,"December 17, 1963: Address to the U.N. General Assembly",Address / Speech,3087,10,20,2,0,0,0,0,0,0,0
+Lyndon B. Johnson,1964,"January 8, 1964: State of the Union",State of the Union,3190,7,4,2,0,3,0,0,6,10,1
+Lyndon B. Johnson,1964,"February 1, 1964: Press Conference",Press Conference,3982,4,6,4,0,0,0,0,0,5,0
+Lyndon B. Johnson,1964,"February 21, 1964: Remarks at the Ninety Sixth Charter Day Observances",Remarks / Statement,1181,1,7,5,0,0,0,0,0,0,0
+Lyndon B. Johnson,1964,"February 29, 1964: Press Conference at the State Department",Press Conference,8520,0,10,0,0,0,0,0,0,2,0
+Lyndon B. Johnson,1964,"March 7, 1964: Press Conference at the White House",Press Conference,4691,0,0,0,0,2,0,0,4,6,0
+Lyndon B. Johnson,1964,"April 16, 1964: Press Conference at the State Department",Press Conference,4573,2,0,1,0,1,2,0,2,2,0
+Lyndon B. Johnson,1964,"April 20, 1964: Speech to the Associated Press Luncheon",Address / Speech,8718,28,16,16,0,4,0,0,14,0,0
+Lyndon B. Johnson,1964,"May 6, 1964: Press Conference on the South Lawn",Press Conference,4472,8,2,0,0,3,3,0,10,4,0
+Lyndon B. Johnson,1964,"May 22, 1964: Remarks at the University of Michigan",Remarks / Statement,1805,0,2,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1964,"July 2, 1964: Remarks upon Signing the Civil Rights Bill",Remarks / Statement,1034,0,1,8,0,0,0,0,0,0,0
+Lyndon B. Johnson,1964,"July 24, 1964: Press Conference at the State Department",Press Conference,4511,1,5,5,0,1,0,0,2,0,0
+Lyndon B. Johnson,1964,"August 4, 1964: Report on the Gulf of Tonkin Incident",Other,548,1,4,1,0,0,0,0,0,0,0
+Lyndon B. Johnson,1964,"August 5, 1964: Remarks on Vietnam at Syracuse University",Remarks / Statement,1087,1,13,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1964,"August 27, 1964: Acceptance Speech at the Democratic National Convention",Convention Speech,4598,8,20,12,0,0,0,0,0,0,0
+Lyndon B. Johnson,1964,"October 9, 1964: Speech at the Jung Hotel, New Orleans",Address / Speech,4300,8,6,2,0,1,0,0,5,0,0
+Lyndon B. Johnson,1964,"October 18, 1964: Report to the Nation on Events in China and the USSR",Other,3890,6,14,6,0,0,0,0,2,0,0
+Lyndon B. Johnson,1965,"January 4, 1965: State of the Union",State of the Union,4378,4,6,12,0,5,1,1,9,2,1
+Lyndon B. Johnson,1965,"January 20, 1965: Inaugural Address",Inaugural Address,1491,1,0,2,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"February 4, 1965: Press Conference",Press Conference,4496,1,1,10,0,4,0,0,6,1,0
+Lyndon B. Johnson,1965,"March 13, 1965: Press Conference at the White House",Press Conference,3894,0,3,2,0,0,0,0,1,0,0
+Lyndon B. Johnson,1965,"March 15, 1965: Speech Before Congress on Voting Rights",Address / Speech,3724,2,4,5,0,0,0,0,0,2,0
+Lyndon B. Johnson,1965,"March 20, 1965: Press Conference at the LBJ Ranch",Press Conference,4750,1,6,3,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"March 26, 1965: Remarks at a Reception for Astronauts Grissom and Young",Remarks / Statement,932,0,1,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"March 26, 1965: Statement on Arrests in Violo Liuzzo Murder",Remarks / Statement,765,0,1,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"April 7, 1965: Address at Johns Hopkins University",Address / Speech,2856,9,12,4,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"April 27, 1965: Press Conference in the East Room",Press Conference,4635,8,10,1,0,1,0,0,3,6,0
+Lyndon B. Johnson,1965,"April 28, 1965: Statement on Sending Troops to the Dominican Republic",Remarks / Statement,246,0,0,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"May 2, 1965: Report on the Situation in the Dominican Republic",Other,2649,1,5,1,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"May 13, 1965: Speech to the Association of American Editorial Cartoonists",Address / Speech,2441,14,6,3,0,1,0,0,3,0,0
+Lyndon B. Johnson,1965,"June 1, 1965: Press Conference in the East Room",Press Conference,4562,4,7,3,0,0,0,0,6,0,0
+Lyndon B. Johnson,1965,"June 4, 1965: Remarks at the Howard University Commencement",Remarks / Statement,2802,0,0,9,1,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"June 11, 1965: Remarks at the Manned Space Flight Center",Remarks / Statement,1132,0,3,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"June 25, 1965: Remarks on the 20th Anniversary of the U.N. Charter",Remarks / Statement,3662,12,20,2,0,0,0,0,2,0,0
+Lyndon B. Johnson,1965,"July 13, 1965: Press Conference in the East Room",Press Conference,4279,1,4,0,0,0,0,0,3,3,0
+Lyndon B. Johnson,1965,"July 28, 1965: Press Conference",Press Conference,5231,19,6,3,0,0,0,0,0,0,0
+Lyndon B. Johnson,1965,"August 6, 1965: Remarks on the Signing of the Voting Rights Act",Remarks / Statement,1861,0,0,10,0,0,0,0,0,2,0
+Lyndon B. Johnson,1965,"August 25, 1965: Press Conference at the White House",Press Conference,4924,4,9,1,0,1,0,1,5,3,1
+Lyndon B. Johnson,1966,"January 12, 1966: State of the Union",State of the Union,5528,12,15,5,0,2,2,0,6,10,0
+Lyndon B. Johnson,1966,"January 31, 1966: Statement on the Resumption of Bombing in North Vietnam",Remarks / Statement,801,1,11,1,0,0,0,0,0,0,0
+Lyndon B. Johnson,1966,"February 23, 1966: Remarks on Receiving the National Freedom Award",Remarks / Statement,3921,13,14,36,0,1,0,0,2,0,0
+Lyndon B. Johnson,1966,"March 23, 1966: Speech Before the Foreign Institute",Address / Speech,1589,14,4,0,0,0,0,0,1,0,0
+Lyndon B. Johnson,1966,"June 30, 1966: Remarks in Omaha, Nebraska",Remarks / Statement,3831,8,18,4,0,0,0,0,2,0,0
+Lyndon B. Johnson,1966,"July 5, 1966: Press Conference at the LBJ Ranch",Press Conference,4868,2,2,0,0,5,0,0,9,1,0
+Lyndon B. Johnson,1966,"July 12, 1966: Speech on U.S. Foreign Policy in Asia",Address / Speech,2542,6,23,2,0,0,0,0,7,0,0
+Lyndon B. Johnson,1966,"July 20, 1966: Press Conference in the East Room",Press Conference,4074,8,5,2,0,0,0,0,3,0,0
+Lyndon B. Johnson,1966,"October 6, 1966: Press Conference",Press Conference,3924,1,7,1,0,2,0,0,5,2,0
+Lyndon B. Johnson,1966,"October 15, 1966: Remarks on the Creation of the Department of Transportation",Remarks / Statement,843,0,0,0,0,1,0,0,1,0,0
+Lyndon B. Johnson,1966,"October 17, 1966: Remarks on Departing for the Asia-Pacific Trip",Remarks / Statement,319,0,2,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1966,"December 31, 1966: Press Conference",Press Conference,3181,8,10,0,0,7,2,0,13,11,0
+Lyndon B. Johnson,1967,"January 10, 1967: State of the Union Address",State of the Union,14254,40,18,6,0,12,10,0,26,28,0
+Lyndon B. Johnson,1967,"February 2, 1967: Press Conference",Press Conference,3243,9,10,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1967,"March 9, 1967: Press Conference",Press Conference,4419,7,5,0,0,3,0,0,4,4,0
+Lyndon B. Johnson,1967,"March 15, 1967: Address on Vietnam to the Tennessee General Assembly",Address / Speech,3430,10,13,2,0,1,0,0,11,0,0
+Lyndon B. Johnson,1967,"July 24, 1967: Address After Ordering Federal Troops to Detroit, Michigan",Address / Speech,891,0,0,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1967,"July 27, 1967: Speech to the Nation on Civil Disorders",Address / Speech,1912,0,4,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1967,"August 18, 1967: Press Conference",Press Conference,4345,11,2,0,0,0,0,0,1,1,0
+Lyndon B. Johnson,1967,"September 29, 1967: Speech on Vietnam",Address / Speech,2794,15,14,8,0,0,0,0,1,0,0
+Lyndon B. Johnson,1967,"November 17, 1967: Press Conference",Press Conference,5557,24,4,2,0,1,2,0,2,11,0
+Lyndon B. Johnson,1967,"December 19, 1967: A Conversation with President Lyndon Johnson",Other,9015,21,16,3,0,2,0,0,5,2,0
+Lyndon B. Johnson,1968,"January 17, 1968: State of the Union Address",State of the Union,9778,14,20,2,2,2,2,0,10,20,0
+Lyndon B. Johnson,1968,"March 31, 1968: Remarks on Decision not to Seek Re-Election",Remarks / Statement,4088,9,30,2,0,0,3,0,2,6,0
+Lyndon B. Johnson,1968,"April 1, 1968: Address to the National Association of Broadcasters",Address / Speech,2610,7,8,4,0,0,0,0,1,0,0
+Lyndon B. Johnson,1968,"April 3, 1968: Press Conference",Press Conference,420,4,2,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1968,"April 11, 1968: Remarks on Signing the Civil Rights Act",Remarks / Statement,680,0,0,1,0,0,0,0,0,0,0
+Lyndon B. Johnson,1968,"July 1, 1968: Remarks on Signing the Nuclear Nonproliferation Treaty",Remarks / Statement,1143,2,3,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1968,"October 31, 1968: Remarks on the Cessation of Bombing of North Vietnam",Remarks / Statement,2094,4,12,0,0,0,0,0,0,0,0
+Lyndon B. Johnson,1969,"January 14, 1969: State of the Union Address",State of the Union,8156,6,22,4,0,2,0,0,4,2,0
+Martin Van Buren,1837,"March 4, 1837: Inaugural Address",Inaugural Address,3846,2,2,0,2,0,0,0,0,1,0
+Martin Van Buren,1837,"September 4, 1837: Special Session Message",Message,11733,5,2,0,0,0,0,0,0,4,0
+Martin Van Buren,1837,"December 5, 1837: First Annual Message to Congress",State of the Union,11429,9,6,0,0,2,1,0,4,3,0
+Martin Van Buren,1838,"January 5, 1838: Proclamation",Proclamation,395,2,0,0,0,0,0,0,0,0,0
+Martin Van Buren,1838,"November 21, 1838: Message Regarding Disturbances and Hostilities on the Canadian Border",Message,510,0,1,0,0,0,0,0,0,0,0
+Martin Van Buren,1838,"December 3, 1838: Second Annual Message to Congress",State of the Union,11474,11,11,2,0,2,1,0,2,2,0
+Martin Van Buren,1839,"February 16, 1839: Message Regarding Disputes on the Maine-Canadian Border",Message,2104,0,2,0,0,0,0,0,0,0,0
+Martin Van Buren,1839,"December 2, 1839: Third Annual Message to Congress",State of the Union,13416,9,6,1,0,4,1,0,5,2,0
+Martin Van Buren,1840,"December 5, 1840: Fourth Annual Message to Congress",State of the Union,8963,4,8,0,0,3,2,0,5,5,0
+Martin Van Buren,1841,"January 2, 1841: Special Message about the Desctruction of Steamboat “Caroline”",Message,877,2,0,0,0,0,0,0,0,0,0
+Millard Fillmore,1850,"August 6, 1850: Message Regarding Compromise with Texas",Message,3208,2,1,0,0,0,0,0,0,1,0
+Millard Fillmore,1850,"December 2, 1850: First Annual Message",State of the Union,7756,3,5,1,1,0,0,1,0,4,1
+Millard Fillmore,1850,"December 13, 1850: Announcement of Texas’ Acceptance of Compromise Propositions",Other,609,0,1,0,0,0,0,0,0,0,0
+Millard Fillmore,1850,"December 13, 1850: Message Regarding Agreement with Texas",Message,891,1,0,0,0,0,0,0,0,0,0
+Millard Fillmore,1851,"February 19, 1851: Message Regarding Disturbance in Boston",Message,3292,1,6,0,0,0,0,0,0,0,0
+Millard Fillmore,1851,"December 2, 1851: Second Annual Message",State of the Union,13173,6,10,1,1,3,0,0,3,1,0
+Millard Fillmore,1852,"December 6, 1852: Third Annual Message",State of the Union,9908,3,6,4,0,1,0,0,1,0,0
+Richard M. Nixon,1952,"September 23, 1952: ""Checkers"" Speech",Address / Speech,4749,7,1,0,0,0,0,0,1,9,0
+Richard M. Nixon,1969,"January 20, 1969: First Inaugural Address",Inaugural Address,2131,3,12,2,0,1,0,0,1,0,0
+Richard M. Nixon,1969,"November 3, 1969: Address to the Nation on the War in Vietnam",Address / Speech,4551,45,38,9,0,0,0,0,2,0,0
+Richard M. Nixon,1970,"January 22, 1970: State of the Union Address",State of the Union,4458,15,16,5,0,1,1,0,7,1,0
+Richard M. Nixon,1970,"April 30, 1970: Address to the Nation on the Situation in Southeast Asia",Address / Speech,2698,17,9,4,0,0,0,0,1,0,0
+Richard M. Nixon,1971,"January 22, 1971: State of the Union Address",State of the Union,4532,4,2,0,0,8,2,0,9,4,0
+Richard M. Nixon,1971,"February 25, 1971: Radio Address About Second Annual Foreign Policy Report to the Congress",Address / Speech,3550,22,34,3,0,0,0,0,9,0,0
+Richard M. Nixon,1971,"April 7, 1971: Address to the Nation on the Situation in Southeast Asia",Address / Speech,2580,21,10,1,0,0,0,0,0,0,0
+Richard M. Nixon,1971,"May 20, 1971: Remarks Announcing an Agreement on Strategic Arms Limitation Talks",Remarks / Statement,271,1,1,0,0,0,0,0,0,0,0
+Richard M. Nixon,1972,"January 20, 1972: State of the Union Address",State of the Union,3993,8,8,4,0,1,5,0,1,10,0
+Richard M. Nixon,1972,"January 25, 1972: Address to the Nation on Plan for Peace in Vietnam",Address / Speech,2503,19,19,0,0,0,0,0,0,0,0
+Richard M. Nixon,1972,"May 8, 1972: Address to the Nation on the Situation in Southeast Asia",Address / Speech,2213,25,18,0,0,0,0,0,0,0,0
+Richard M. Nixon,1972,"November 6, 1972: Remarks on Election Eve",Remarks / Statement,594,3,9,0,0,0,0,0,0,0,0
+Richard M. Nixon,1972,"November 7, 1972: Remarks on Being Reelected to the Presidency",Remarks / Statement,703,1,9,0,0,0,0,0,0,0,0
+Richard M. Nixon,1973,"January 20, 1973: Second Inaugural Address",Inaugural Address,1818,3,19,4,0,0,0,0,0,0,0
+Richard M. Nixon,1973,"January 23, 1973: Address to the Nation Announcing an Agreement on Ending the War in Vietnam",Address / Speech,1237,15,35,1,0,0,0,0,0,0,0
+Richard M. Nixon,1973,"April 30, 1973: Address to the Nation About the Watergate Investigations",Address / Speech,2756,2,7,1,0,0,0,0,0,0,0
+Richard M. Nixon,1973,"August 15, 1973: Address to the Nation About the Watergate Investigations",Address / Speech,3608,3,5,2,0,1,0,0,1,0,0
+Richard M. Nixon,1974,"January 30, 1974: State of the Union Address",State of the Union,5161,8,27,3,0,3,2,0,6,6,0
+Richard M. Nixon,1974,"February 25, 1974: The President's News Conference",Press Conference,5392,1,7,0,0,4,9,0,7,16,0
+Richard M. Nixon,1974,"April 29, 1974: Address to the Nation on Presidential Tape Recordings",Address / Speech,4769,1,3,0,0,1,0,0,1,0,0
+Richard M. Nixon,1974,"August 8, 1974: Address to the Nation Announcing Decision To Resign the Office of President",Address / Speech,1799,5,8,0,0,0,0,0,0,0,0
+Richard M. Nixon,1974,"August 9, 1974: Remarks on Departure From the White House",Remarks / Statement,1832,1,1,0,0,0,1,0,0,1,0
+Ronald Reagan,1964,"October 27, 1964: ""A Time for Choosing""",Other,4699,11,15,10,2,4,1,0,6,6,0
+Ronald Reagan,1976,"August 19, 1976: Remarks at the Republican National Convention",Convention Speech,786,0,0,4,0,1,0,0,1,0,0
+Ronald Reagan,1979,"November 13, 1979: Announcement for Presidential Candidacy",Other,3696,3,1,4,0,4,6,0,6,15,0
+Ronald Reagan,1980,"July 17, 1980: Republican National Convention",Convention Speech,4686,2,7,9,0,4,4,0,18,20,1
+Ronald Reagan,1981,"January 20, 1981: First Inaugural Address",Inaugural Address,2451,1,2,8,0,4,1,0,8,4,0
+Ronald Reagan,1981,"January 29, 1981: First Press Conference",Press Conference,4560,2,0,0,0,3,2,0,7,5,0
+Ronald Reagan,1981,"April 28, 1981: Address on the Program for Economic Recovery",Address / Speech,2439,0,0,0,0,8,5,0,20,21,0
+Ronald Reagan,1981,"May 17, 1981: Address at University of Notre Dame",Address / Speech,3291,3,3,4,0,2,1,0,7,3,0
+Ronald Reagan,1981,"June 29, 1981: Speech to the NAACP Annual Convention",Address / Speech,3936,1,0,5,1,11,2,0,32,5,1
+Ronald Reagan,1981,"July 27, 1981: Address on Federal Tax Reduction Legislation",Address / Speech,3494,0,0,1,0,6,8,0,19,63,0
+Ronald Reagan,1981,"August 3, 1981: Remarks on the Air Traffic Controllers Strike",Remarks / Statement,2492,0,0,0,0,0,0,0,0,1,0
+Ronald Reagan,1981,"November 18, 1981: Speech on the Strategic Arms Reduction Talks",Address / Speech,3264,13,22,3,0,0,0,0,5,0,0
+Ronald Reagan,1981,"December 23, 1981: Address to the Nation on Christmas and the Situation in Poland",Address / Speech,2198,3,2,6,0,2,0,0,6,1,0
+Ronald Reagan,1982,"January 26, 1982: State of the Union Address",State of the Union,5209,0,9,6,0,8,9,0,20,29,0
+Ronald Reagan,1982,"June 8, 1982: Address to the British Parliament",Address / Speech,4449,14,6,22,0,1,0,0,10,0,0
+Ronald Reagan,1982,"June 9, 1982: Address to the Bundestag in West Germany",Address / Speech,3464,12,29,9,0,0,0,0,3,0,1
+Ronald Reagan,1982,"June 17, 1982: Speech to the United Nations General Assembly",Address / Speech,3507,12,36,7,0,0,0,0,1,0,0
+Ronald Reagan,1982,"August 16, 1982: Address on Tax and Budget Legislation",Address / Speech,3055,0,0,0,0,4,10,0,12,57,0
+Ronald Reagan,1982,"September 1, 1982: Speech to the Nation on U.S. Policy in the Middle East",Address / Speech,2944,6,43,0,0,1,0,0,2,0,0
+Ronald Reagan,1982,"September 20, 1982: Address to the Nation on Lebanon",Address / Speech,1282,1,13,0,0,0,0,0,0,0,0
+Ronald Reagan,1983,"January 25, 1983: State of the Union Address",State of the Union,5634,1,11,10,0,7,1,0,26,14,0
+Ronald Reagan,1983,"February 18, 1983: Speech at the Conservative Political Action Conference",Address / Speech,5095,1,3,10,1,7,1,0,9,16,0
+Ronald Reagan,1983,"March 8, 1983: ""Evil Empire"" Speech",Address / Speech,3926,3,4,9,0,0,0,0,0,0,0
+Ronald Reagan,1983,"March 23, 1983: Address to the Nation on National Security",Address / Speech,4552,9,17,5,0,0,0,0,1,1,0
+Ronald Reagan,1983,"April 27, 1983: Address on Central America",Address / Speech,4361,7,8,18,0,2,0,0,16,1,0
+Ronald Reagan,1983,"September 5, 1983: Speech on the Soviet Attack on a Korean Airliner",Address / Speech,2582,1,3,1,0,0,0,0,1,0,0
+Ronald Reagan,1983,"October 27, 1983: Speech to the Nation on Lebanon and Grenada",Address / Speech,8393,8,30,10,0,0,0,0,4,0,0
+Ronald Reagan,1983,"November 2, 1983: Speech on the Creation of the Martin Luther King, Jr., National Holiday",Address / Speech,862,0,1,3,0,0,0,0,0,0,0
+Ronald Reagan,1983,"November 4, 1983: Remarks on U.S. Casualties in Lebanon and Grenada",Remarks / Statement,998,2,2,3,0,0,0,0,0,0,0
+Ronald Reagan,1984,"January 25, 1984: State of the Union Address",State of the Union,5004,6,24,13,0,5,7,0,16,21,0
+Ronald Reagan,1984,"January 29, 1984: Address Announcing His Candidacy for Reelection",Address / Speech,725,0,3,1,0,0,2,0,2,3,0
+Ronald Reagan,1984,"April 30, 1984: Remarks in a Fudan University Classroom ",Remarks / Statement,2897,0,1,0,0,0,0,0,2,2,0
+Ronald Reagan,1984,"May 28, 1984: Remarks Honoring the Vietnam War’s Unknown Soldier",Remarks / Statement,2385,6,0,2,0,0,0,0,0,0,0
+Ronald Reagan,1984,"June 3, 1984: Remarks to the Citizens of Ballyporeen, Ireland",Remarks / Statement,2348,0,0,0,0,0,0,0,0,0,2
+Ronald Reagan,1984,"June 6, 1984: 40th Anniversary of D-Day",Other,1855,9,6,4,0,0,0,0,0,0,0
+Ronald Reagan,1984,"August 23, 1984: Republican National Convention",Convention Speech,5110,6,4,6,0,3,12,0,9,38,1
+Ronald Reagan,1984,"October 7, 1984: Debate with Walter Mondale (Domestic Issues)",Debate,15721,2,0,0,0,20,27,0,44,79,0
+Ronald Reagan,1984,"October 21, 1984: Debate with Walter Mondale (Defense and Foreign Policy)",Debate,14187,17,8,2,0,2,0,11,9,0,12
+Ronald Reagan,1985,"January 21, 1985: Second Inaugural Address",Inaugural Address,2595,1,8,14,0,5,2,0,9,6,0
+Ronald Reagan,1985,"February 6, 1985: State of the Union Address",State of the Union,4266,5,9,20,0,14,2,0,22,23,0
+Ronald Reagan,1985,"May 5, 1985: Bergen-Belsen Concentration Camp",Other,1163,2,1,2,0,0,0,0,0,0,0
+Ronald Reagan,1985,"November 21, 1985: Speech on the Geneva Summit",Address / Speech,2418,2,13,5,0,1,0,0,1,0,0
+Ronald Reagan,1986,"January 28, 1986: Address on the Space Shuttle ""Challenger""",Address / Speech,671,0,0,1,0,0,0,0,0,0,0
+Ronald Reagan,1986,"February 4, 1986: State of the Union Address",State of the Union,3535,1,8,10,0,3,3,0,8,11,0
+Ronald Reagan,1986,"April 14, 1986: Speech to the Nation on Air Strikes Against Libya",Address / Speech,992,0,0,0,0,0,0,0,2,0,0
+Ronald Reagan,1986,"September 14, 1986: Speech to the Nation on the Campaign Against Drug Abuse",Address / Speech,2979,4,0,7,0,1,0,0,1,0,1
+Ronald Reagan,1986,"October 13, 1986: Address on the Meetings with Soviet Premier Gorbachev",Address / Speech,2976,3,7,13,0,0,0,0,1,0,0
+Ronald Reagan,1986,"October 22, 1986: Remarks on Signing the Tax Reform Act",Remarks / Statement,1445,0,0,4,0,4,2,0,14,32,0
+Ronald Reagan,1987,"January 27, 1987: State of the Union Address",State of the Union,3850,2,3,13,0,1,2,0,4,3,0
+Ronald Reagan,1987,"March 4, 1987: Address to the Nation on Iran-Contra",Address / Speech,1956,0,0,0,0,0,0,0,0,0,0
+Ronald Reagan,1987,"June 12, 1987: Address from the Brandenburg Gate (Berlin Wall)",Address / Speech,2708,2,5,17,0,0,1,0,8,1,0
+Ronald Reagan,1987,"December 8, 1987: Remarks at the Signing of the INF Treaty with Soviet Premier Gorbachev",Remarks / Statement,964,1,1,0,0,0,0,0,0,0,0
+Ronald Reagan,1987,"December 10, 1987: Address to the Nation on the Soviet-U.S. Summit Meeting",Address / Speech,2748,6,10,12,0,0,0,0,1,0,1
+Ronald Reagan,1988,"January 25, 1988: State of the Union Address",State of the Union,4918,6,10,21,0,3,0,0,13,1,0
+Ronald Reagan,1988,"May 31, 1988: Address at Moscow State University",Address / Speech,7140,8,6,24,1,4,0,0,10,1,0
+Ronald Reagan,1988,"August 15, 1988: Farewell Address at the Republican National Convention",Farewell Address,4539,4,5,13,0,1,4,0,6,13,0
+Ronald Reagan,1988,"September 26, 1988: Address to the United Nations",Address / Speech,4986,20,32,17,0,0,0,0,6,0,0
+Ronald Reagan,1988,"November 11, 1988: Remarks at the Veteran's Day Ceremony",Remarks / Statement,284,0,0,3,0,0,0,0,0,0,0
+Ronald Reagan,1988,"December 16, 1988: Speech on Foreign Policy",Address / Speech,7169,8,11,23,0,1,3,0,19,11,0
+Ronald Reagan,1989,"January 11, 1989: Farewell Address",Farewell Address,3389,2,3,12,0,2,2,0,10,4,0
+Rutherford B. Hayes,1877,"March 5, 1877: Inaugural Address",Inaugural Address,2487,0,5,0,0,1,0,0,1,0,0
+Rutherford B. Hayes,1877,"June 22, 1877: Prohibition of Federal Employees’ Political Involvement",Other,144,0,0,0,0,0,0,0,0,0,0
+Rutherford B. Hayes,1877,"July 18, 1877: Message Regarding Railroad Strike",Message,304,0,0,0,0,0,0,0,0,0,0
+Rutherford B. Hayes,1877,"December 3, 1877: First Annual Message",State of the Union,10642,10,11,2,1,1,5,0,1,11,0
+Rutherford B. Hayes,1878,"February 8, 1878: Veto of Bland-Allison Act",Veto Message,1120,0,0,0,0,0,0,0,0,0,0
+Rutherford B. Hayes,1878,"December 2, 1878: Second Annual Message",State of the Union,7785,4,4,4,0,1,0,0,2,0,0
+Rutherford B. Hayes,1879,"March 1, 1879: Veto Message Regarding Immigration Legislation",Veto Message,3171,0,4,2,0,0,0,10,0,0,10
+Rutherford B. Hayes,1879,"April 26, 1879: Proclamation Regarding Indian Territory",Proclamation,387,0,0,0,0,0,0,0,0,0,0
+Rutherford B. Hayes,1879,"April 29, 1879: Veto of Army Appropriations Bill",Veto Message,4874,0,13,1,0,0,1,0,0,3,0
+Rutherford B. Hayes,1879,"May 12, 1879: Message Regarding Election Regulations",Message,2360,0,0,1,0,0,0,0,0,0,0
+Rutherford B. Hayes,1879,"May 29, 1879: Veto Messages Regarding Appropriations Legislation",Veto Message,4072,2,1,2,0,0,0,0,0,0,0
+Rutherford B. Hayes,1879,"December 1, 1879: Third Annual Message",State of the Union,11539,8,6,4,0,3,0,0,4,3,0
+Rutherford B. Hayes,1880,"March 8, 1880: Message Regarding Central American Canal",Message,539,0,1,0,0,0,0,0,0,0,0
+Rutherford B. Hayes,1880,"June 15, 1880: Veto Message Regarding Military Legislation",Veto Message,3561,0,9,0,0,0,0,0,0,0,0
+Rutherford B. Hayes,1880,"December 6, 1880: Fourth Annual Message",State of the Union,13252,14,9,0,1,2,0,2,3,2,3
+Rutherford B. Hayes,1881,"March 3, 1881: Veto Message Regarding Economic Legislation",Veto Message,1235,0,0,0,0,0,0,0,0,2,0
+Theodore Roosevelt,1901,"September 14, 1901: Announcement of the Death of President McKinley",Other,298,0,0,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1901,"December 3, 1901: First Annual Message",State of the Union,19704,35,18,3,0,3,1,4,12,2,7
+Theodore Roosevelt,1902,"June 13, 1902: Message Regarding US-Cuban Relations",Message,1202,3,0,3,0,0,0,0,3,0,0
+Theodore Roosevelt,1902,"December 2, 1902: Second Annual Message",State of the Union,9811,12,3,2,0,0,0,1,9,0,1
+Theodore Roosevelt,1903,"October 20, 1903: Message Convening a Special Session of Congress",Message,237,0,0,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1903,"November 10, 1903: Message Regarding US-Cuban Commercial Convention",Message,2582,2,1,0,0,0,0,0,5,1,0
+Theodore Roosevelt,1903,"November 16, 1903: Message Regarding the Panamanian Revolution",Message,6470,4,7,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1903,"December 7, 1903: Third Annual Message",State of the Union,14845,26,11,2,0,4,1,3,5,2,8
+Theodore Roosevelt,1903,"December 7, 1903: Message Regarding Treaty with Panama",Message,3850,2,0,0,0,0,3,1,0,3,1
+Theodore Roosevelt,1904,"February 11, 1904: Proclamation Declaring US Neutrality",Proclamation,2205,30,2,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1904,"December 6, 1904: Fourth Annual Message",State of the Union,17506,12,16,4,0,2,0,2,3,1,3
+Theodore Roosevelt,1905,"March 4, 1905: Inaugural Address",Inaugural Address,924,0,3,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1905,"December 5, 1905: Fifth Annual Message",State of the Union,25100,30,32,1,0,6,3,15,11,5,32
+Theodore Roosevelt,1906,"January 8, 1906: Message Regarding Panama Canal",Message,1117,1,0,0,0,0,0,0,1,0,0
+Theodore Roosevelt,1906,"June 4, 1906: Message Regarding Meatpacking Plants",Message,951,0,0,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1906,"December 3, 1906: Sixth Annual Message",State of the Union,23635,34,22,2,0,4,3,1,7,40,2
+Theodore Roosevelt,1906,"December 11, 1906: Message Regarding the State of Puerto Rico",Message,1497,2,0,1,0,0,0,0,0,0,0
+Theodore Roosevelt,1906,"December 17, 1906: Message Regarding Conditions in Panama",Message,12050,4,2,0,0,0,0,0,3,0,0
+Theodore Roosevelt,1906,"December 19, 1906: Message Regarding Disturbances in Texas",Message,4452,8,1,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1907,"December 3, 1907: Seventh Annual Message",State of the Union,27418,35,20,1,0,2,7,0,5,38,0
+Theodore Roosevelt,1908,"March 25, 1908: Message Regarding Labor Legislation",Message,2604,0,0,0,0,0,0,0,0,0,0
+Theodore Roosevelt,1908,"December 9, 1908: Eighth Annual Message",State of the Union,19452,14,6,1,1,3,3,0,8,9,0
+Thomas Jefferson,1801,"March 4, 1801: First Inaugural Address",Inaugural Address,1732,1,5,4,0,1,0,0,1,0,0
+Thomas Jefferson,1801,"July 12, 1801: The Reply to New Haven Remonstrance",Other,1210,0,1,0,0,0,0,0,0,0,0
+Thomas Jefferson,1801,"December 8, 1801: First Annual Message",State of the Union,3235,5,9,0,0,0,1,0,0,3,0
+Thomas Jefferson,1802,"January 1, 1802: Response to Danbury Baptist Association",Other,234,0,0,0,0,0,0,0,0,0,0
+Thomas Jefferson,1802,"November 3, 1802: Address to Brother Handsome Lake",Address / Speech,914,0,1,0,0,0,0,0,0,0,0
+Thomas Jefferson,1802,"December 15, 1802: Second Annual Message",State of the Union,2117,3,5,0,0,4,4,0,4,6,0
+Thomas Jefferson,1803,"January 18, 1803: Special Message to Congress on Indian Policy",Message,1282,0,0,0,0,0,0,0,0,0,0
+Thomas Jefferson,1803,"June 20, 1803: Instructions to Captain Lewis",Other,2340,3,0,0,0,0,0,0,0,0,0
+Thomas Jefferson,1803,"October 17, 1803: Third Annual Message",State of the Union,2300,3,7,1,0,0,1,0,1,1,0
+Thomas Jefferson,1803,"December 17, 1803: Address to the Brothers of Choctaw Nation",Address / Speech,1140,2,2,0,0,0,0,0,0,0,0
+Thomas Jefferson,1804,"November 8, 1804: Fourth Annual Message",State of the Union,2091,7,7,0,0,1,0,0,2,0,0
+Thomas Jefferson,1805,"March 4, 1805: Second Inaugural Address",Inaugural Address,2152,3,4,2,0,0,2,0,0,3,0
+Thomas Jefferson,1805,"December 3, 1805: Fifth Annual Message",State of the Union,2880,6,7,0,0,0,0,0,0,0,0
+Thomas Jefferson,1805,"December 6, 1805: Special Message to Congress on Foreign Policy",Message,993,3,2,0,0,0,0,0,0,0,0
+Thomas Jefferson,1806,"January 10, 1806: Address to the Chiefs of the Cherokee Nation",Address / Speech,847,6,0,0,0,0,0,0,0,0,0
+Thomas Jefferson,1806,"November 27, 1806: Proclamation on Spanish Territory",Proclamation,424,0,1,0,0,0,0,0,0,0,0
+Thomas Jefferson,1806,"December 2, 1806: Sixth Annual Message",State of the Union,2881,6,7,0,0,0,0,0,0,0,0
+Thomas Jefferson,1806,"December 30, 1806: Address to the Wolf and the People of the Mandan Nation",Address / Speech,1175,3,2,0,0,0,0,0,0,0,0
+Thomas Jefferson,1807,"January 22, 1807: Special Message to Congress on the Burr Conspiracy",Message,2476,1,4,0,0,0,0,0,0,0,0
+Thomas Jefferson,1807,"February 10, 1807: Special Message to Congress on the Gun Boats",Message,1142,7,2,0,0,0,0,0,0,0,0
+Thomas Jefferson,1807,"July 2, 1807: Proclamation in Response to the Chesapeake Affair",Proclamation,1173,1,4,0,0,0,0,0,0,0,0
+Thomas Jefferson,1807,"October 27, 1807: Seventh Annual Message",State of the Union,2363,2,12,0,0,0,0,0,0,0,0
+Thomas Jefferson,1808,"November 8, 1808: Eighth Annual Message",State of the Union,2710,2,2,3,0,0,0,0,0,1,0
+Thomas Jefferson,1809,"April 3, 1809: Message to the Inhabitants of Albemarle County",Message,337,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1869,"March 4, 1869: First Inaugural Address",Inaugural Address,1133,1,0,0,0,0,0,0,1,0,0
+Ulysses S. Grant,1869,"April 7, 1869: Message Regarding Virginia Constitution",Message,609,0,1,1,0,0,0,0,0,0,0
+Ulysses S. Grant,1869,"May 14, 1869: Message Submitting State Constitutions to a Vote",Message,816,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1869,"May 19, 1869: Proclamation Establishing Eight Hour Workday",Proclamation,164,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1869,"December 6, 1869: First Annual Message",State of the Union,7650,13,9,2,0,1,1,0,3,9,0
+Ulysses S. Grant,1870,"March 30, 1870: Announcement of Fifteenth Amendment Ratification",Other,996,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1870,"May 24, 1870: Proclamation Regarding Fenian Brotherhood",Proclamation,271,0,1,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1870,"May 31, 1870: Message Regarding Dominican Republic Annexation",Message,1083,1,0,1,3,0,0,0,0,0,0
+Ulysses S. Grant,1870,"June 13, 1870: Message Regarding Insurrection in Cuba",Message,2538,15,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1870,"July 14, 1870: Message Regarding US International Relations",Message,5510,8,3,1,3,0,0,2,0,0,2
+Ulysses S. Grant,1870,"August 22, 1870: Proclamation Establishing US Neutrality",Proclamation,1694,20,2,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1870,"December 5, 1870: Second Annual Message",State of the Union,8710,14,8,1,2,1,1,0,2,7,0
+Ulysses S. Grant,1871,"February 7, 1871: Message Regarding Unification of Germany",Message,562,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1871,"February 15, 1871: Veto Message Regarding Restrictions on Rebellion Participants",Veto Message,252,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1871,"May 3, 1871: Message Regarding Fourteenth Amendment",Message,504,0,2,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1871,"October 17, 1871: Proclamation Suspending Habeas Corpus",Proclamation,820,0,1,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1871,"December 4, 1871: Third Annual Message",State of the Union,6454,4,6,2,2,1,1,1,2,4,3
+Ulysses S. Grant,1871,"December 19, 1871: Message on Civil Service Reform",Message,1415,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1872,"December 2, 1872: Fourth Annual Message",State of the Union,9913,15,9,0,3,2,0,0,2,2,0
+Ulysses S. Grant,1873,"March 4, 1873: Second Inaugural Address",Inaugural Address,1338,3,1,0,0,0,0,0,1,0,0
+Ulysses S. Grant,1873,"December 1, 1873: Fifth Annual Message",State of the Union,9948,13,4,2,4,3,0,1,4,0,1
+Ulysses S. Grant,1874,"April 22, 1874: Veto Message on Monetary Legislation",Veto Message,1474,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1874,"September 15, 1874: Proclamation Regarding Disturbances in Louisiana",Proclamation,456,0,1,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1874,"December 7, 1874: Sixth Annual Message",State of the Union,9761,6,4,1,0,1,0,0,1,5,1
+Ulysses S. Grant,1875,"January 13, 1875: Message Regarding Intervention in Louisiana",Message,4872,0,4,0,1,0,0,0,0,0,0
+Ulysses S. Grant,1875,"January 14, 1875: Message Approving Specie Resumption Act",Message,1060,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1875,"April 18, 1875: Veto of Legislation Fixing the Presidential Salary",Veto Message,405,1,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1875,"December 7, 1875: Seventh Annual Message",State of the Union,12150,14,5,0,1,1,2,0,1,8,0
+Ulysses S. Grant,1876,"May 4, 1876: Message on Presidential Powers and Obligations",Message,2766,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1876,"June 26, 1876: Proclamation Celebrating the Hundredth Anniversary of Independence",Proclamation,298,0,0,0,0,0,0,0,0,0,0
+Ulysses S. Grant,1876,"December 5, 1876: Eighth Annual Message",State of the Union,6729,10,2,0,0,3,1,0,4,2,1
+Ulysses S. Grant,1877,"January 29, 1877: Message Regarding Presidential Election",Message,864,0,2,0,0,0,0,0,0,0,0
+Warren G. Harding,1917,"April 4, 1917: The Republic Must Awaken",Other,439,2,0,2,0,0,0,0,0,0,0
+Warren G. Harding,1919,"September 11, 1919: Safeguarding America",Other,550,2,3,1,0,0,0,0,0,0,0
+Warren G. Harding,1920,"January 20, 1920: Americanism",Other,493,1,0,3,0,0,0,0,0,0,0
+Warren G. Harding,1920,"May 14, 1920: Readjustment",Other,558,4,3,0,0,0,0,0,1,0,0
+Warren G. Harding,1920,"June 12, 1920: Speech Accepting the Republican Nomination",Convention Speech,6886,21,14,16,0,3,1,1,8,3,1
+Warren G. Harding,1920,"July 22, 1920: Enduring Popular Government",Other,547,1,1,1,0,0,0,0,0,0,0
+Warren G. Harding,1920,"July 22, 1920: An Association of Nations",Other,526,3,6,2,0,0,0,0,0,0,0
+Warren G. Harding,1920,"July 22, 1920: High Wages for High Production",Other,514,3,0,0,0,0,0,0,3,0,0
+Warren G. Harding,1920,"July 22, 1920: Liberty Under the Law",Other,558,1,0,8,0,0,0,0,1,0,0
+Warren G. Harding,1920,"July 22, 1920: The American Soldier",Other,554,4,1,1,0,0,0,0,0,0,0
+Warren G. Harding,1920,"August 25, 1920: The Republican Party",Other,471,0,0,2,0,0,0,0,0,0,0
+Warren G. Harding,1920,"August 28, 1920: America",Other,355,2,1,0,0,0,0,0,0,0,0
+Warren G. Harding,1921,"March 4, 1921: Inaugural Address",Inaugural Address,3311,15,7,5,0,1,0,0,6,2,0
+Warren G. Harding,1921,"March 31, 1921: Nationalism and Americanism",Other,548,0,6,1,0,0,0,0,0,0,0
+Warren G. Harding,1921,"May 23, 1921: Speech Upon Arrival of World War One Dead for Burial",Address / Speech,689,2,0,0,0,0,0,0,0,0,0
+Warren G. Harding,1921,"November 12, 1921: Opening Speech of the Conference on Limitation of Armament",Address / Speech,552,3,2,1,0,0,0,0,1,0,0
+Warren G. Harding,1921,"December 6, 1921: First Annual Message",State of the Union,5606,14,5,0,1,0,0,0,10,4,0
+Warren G. Harding,1922,"December 8, 1922: Second Annual Message",State of the Union,5760,21,4,1,0,2,0,2,9,4,4
+William Harrison,1841,"March 4, 1841: Inaugural Address",Inaugural Address,8465,3,1,6,0,0,0,0,0,0,0
+William McKinley,1897,"March 4, 1897: First Inaugural Address",Inaugural Address,3696,6,5,1,0,2,1,1,3,6,1
+William McKinley,1897,"March 15, 1897: Message Regarding Special Session of Congress",Message,911,0,0,0,0,0,0,0,1,0,0
+William McKinley,1897,"May 17, 1897: Message Regarding Relief of Americans in Cuba",Message,212,0,0,0,0,0,0,0,0,0,0
+William McKinley,1897,"July 24, 1897: Message Regarding Banking and Currency Laws",Message,576,0,0,0,0,0,0,0,0,0,0
+William McKinley,1897,"December 6, 1897: First Annual Message",State of the Union,12067,28,11,1,0,0,0,1,1,1,1
+William McKinley,1898,"April 11, 1898: Message Regarding Cuban Civil War",Message,5812,15,20,0,0,0,0,0,0,0,0
+William McKinley,1898,"April 22, 1898: Proclamation Regarding Blockade of Cuba",Proclamation,443,0,0,0,0,0,0,0,0,0,0
+William McKinley,1898,"April 23, 1898: Proclamation Calling for Military Volunteers",Proclamation,317,2,0,0,0,0,0,0,0,0,0
+William McKinley,1898,"December 5, 1898: Second Annual Message",State of the Union,19995,59,24,0,0,0,1,0,0,3,1
+William McKinley,1899,"December 5, 1899: Third Annual Message",State of the Union,22655,23,30,5,1,2,1,2,5,4,2
+William McKinley,1900,"July 12, 1900: Speech Accepting the Republican Nomination",Convention Speech,2009,3,4,3,0,0,0,0,0,0,0
+William McKinley,1900,"December 3, 1900: Fourth Annual Message",State of the Union,18929,14,13,5,1,3,4,0,3,8,0
+William McKinley,1901,"March 4, 1901: Second Inaugural Address",Inaugural Address,2068,7,7,4,0,0,0,0,0,1,0
+William McKinley,1901,"September 5, 1901: Speech in Buffalo, New York",Address / Speech,2205,2,4,0,0,0,0,0,1,0,0
+William Taft,1909,"March 4, 1909: Inaugural Address",Inaugural Address,5071,5,4,1,1,1,0,1,4,6,2
+William Taft,1909,"March 16, 1909: Message Regarding Tariff Legislation",Message,327,0,0,0,0,0,0,0,0,0,0
+William Taft,1909,"June 16, 1909: Message Regarding Income Tax",Message,1171,0,0,1,0,0,1,0,0,27,0
+William Taft,1909,"November 17, 1909: Address on the Tariff Law of 1909",Address / Speech,7533,0,0,1,0,0,0,0,0,1,0
+William Taft,1909,"December 7, 1909: First Annual Message",State of the Union,13857,9,3,3,0,8,0,2,11,1,2
+William Taft,1910,"January 7, 1910: Message Regarding Economic Legislation",Message,8191,0,0,0,0,6,0,0,10,2,0
+William Taft,1910,"January 14, 1910: Message Regarding Environmental Preservation",Message,4045,0,0,0,0,0,0,0,1,0,0
+William Taft,1910,"December 6, 1910: Second Annual Message",State of the Union,27332,28,12,4,0,21,0,3,37,7,13
+William Taft,1911,"January 26, 1911: Special Message on Canadian Reciprocity",Message,2280,0,0,0,0,0,0,0,2,0,0
+William Taft,1911,"January 26, 1911: Message Regarding US-Canadian Relations",Message,2280,0,0,0,0,0,0,0,2,0,0
+William Taft,1911,"December 5, 1911: Third Annual Message",State of the Union,23575,15,5,4,0,15,0,3,24,2,3
+William Taft,1912,"December 3, 1912: Fourth Annual Message",State of the Union,25099,28,16,1,0,4,1,0,13,6,0
+Woodrow Wilson,1913,"March 4, 1913: First Inaugural Address",Inaugural Address,1609,0,0,0,0,1,0,0,1,1,0
+Woodrow Wilson,1913,"April 8, 1913: Message Regarding Tariff Duties",Message,1156,0,0,2,0,1,0,0,3,0,0
+Woodrow Wilson,1913,"June 23, 1913: Message Regarding Banking System",Message,1181,1,0,1,0,0,0,0,0,0,0
+Woodrow Wilson,1913,"July 4, 1913: Address at Gettysburg",Address / Speech,1267,4,7,1,0,0,0,0,0,0,0
+Woodrow Wilson,1913,"October 25, 1913: Address at Congress Hall, Philadelphia",Address / Speech,1955,0,0,1,0,0,0,0,0,0,0
+Woodrow Wilson,1913,"December 2, 1913: First Annual Message",State of the Union,3564,0,7,0,0,0,0,0,2,0,0
+Woodrow Wilson,1914,"January 20, 1914: Address to a Joint Session of Congress on Trusts and Monopolies",Address / Speech,2523,0,3,2,0,0,0,0,0,0,0
+Woodrow Wilson,1914,"April 20, 1914: Message Regarding Tampico Incident",Message,1309,2,0,0,0,0,0,0,0,0,0
+Woodrow Wilson,1914,"May 30, 1914: Memorial Day Address",Address / Speech,944,5,6,3,0,0,0,0,0,0,0
+Woodrow Wilson,1914,"July 4, 1914: Fourth of July Address",Address / Speech,3221,1,1,1,0,0,0,0,0,0,0
+Woodrow Wilson,1914,"August 19, 1914: Message on Neutrality",Message,632,4,5,0,0,0,0,0,0,0,0
+Woodrow Wilson,1914,"October 20, 1914: ""The Opinion of the World"" Speech",Address / Speech,1078,0,0,0,0,0,0,0,0,0,0
+Woodrow Wilson,1914,"December 8, 1914: Second Annual Message",State of the Union,4548,5,11,2,0,4,0,0,7,0,0
+Woodrow Wilson,1915,"January 28, 1915: Veto of Immigration Legislation",Veto Message,860,0,1,0,0,0,0,1,0,0,2
+Woodrow Wilson,1915,"December 7, 1915: Third Annual Message",State of the Union,7708,11,13,6,0,0,5,0,10,13,0
+Woodrow Wilson,1916,"April 19, 1916: Message Regarding German Actions",Message,1966,4,0,0,0,0,0,0,0,0,0
+Woodrow Wilson,1916,"September 2, 1916: Speech of Acceptance",Address / Speech,5533,4,12,0,0,1,0,0,2,2,0
+Woodrow Wilson,1916,"September 3, 1916: Speech Accepting the Democratic Nomination",Convention Speech,5533,4,12,0,0,1,0,0,2,2,0
+Woodrow Wilson,1916,"September 9, 1916: Message Regarding Women’s Suffrage",Message,1306,2,0,0,1,0,0,0,0,0,0
+Woodrow Wilson,1916,"December 5, 1916: Fourth Annual Message",State of the Union,2127,1,0,2,0,0,0,0,2,0,0
+Woodrow Wilson,1917,"January 22, 1917: ""A World League for Peace"" Speech",Address / Speech,2685,9,46,5,0,0,0,0,0,0,0
+Woodrow Wilson,1917,"February 3, 1917: Message Regarding US-German Relations",Message,1490,4,2,3,0,0,0,0,0,0,0
+Woodrow Wilson,1917,"February 26, 1917: Message Regarding Safety of Merchant Ships",Message,1639,5,4,0,0,0,0,0,0,0,0
+Woodrow Wilson,1917,"March 5, 1917: Second Inaugural Address",Inaugural Address,1433,4,6,2,0,0,0,0,1,0,0
+Woodrow Wilson,1917,"April 2, 1917: Address to Congress Requesting a Declaration of War Against Germany",Address / Speech,3677,17,14,4,0,0,0,0,1,2,0
+Woodrow Wilson,1917,"April 6, 1917: Proclamation 1364",Proclamation,1533,7,6,0,0,0,0,0,0,0,0
+Woodrow Wilson,1917,"April 17, 1917: Message Regarding World War I",Message,1731,6,3,1,0,1,0,0,2,0,0
+Woodrow Wilson,1917,"May 19, 1917: Message Regarding Military Draft",Message,1909,4,0,0,0,0,0,0,0,0,0
+Woodrow Wilson,1917,"December 4, 1917: Fifth Annual Message",State of the Union,3935,31,19,1,0,0,0,0,2,0,0
+Woodrow Wilson,1918,"January 8, 1918: Wilson's ""Fourteen Points""",Other,2500,9,17,1,0,0,0,0,3,0,0
+Woodrow Wilson,1918,"December 2, 1918: Sixth Annual Message",State of the Union,5470,24,10,2,0,1,3,0,4,6,0
+Woodrow Wilson,1919,"December 2, 1919: Seventh Annual Message",State of the Union,4767,15,12,0,0,1,5,0,9,7,0
+Woodrow Wilson,1920,"December 7, 1920: Eighth Annual Message",State of the Union,2704,11,0,0,0,2,4,0,4,9,0
+Zachary Taylor,1849,"March 5, 1849: Inaugural Address",Inaugural Address,1091,0,0,0,0,1,0,0,1,0,0
+Zachary Taylor,1849,"December 4, 1849: First Annual Message",State of the Union,7615,10,2,1,0,1,0,0,1,1,0
+Zachary Taylor,1850,"January 23, 1850: Message Regarding Newly Acquired Territories",Message,1679,0,1,0,0,0,0,0,0,0,0
+Zachary Taylor,1850,"April 22, 1850: Message Regarding Treaty with Great Britain",Message,983,0,1,0,0,0,0,0,0,0,0
