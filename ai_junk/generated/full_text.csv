@@ -446,3 +446,381 @@ id,label,llm_label,llm_reason,model
 404,not relevant,The text discusses domestic law enforcement and violence against Native Americans rather than immigration or immigrants.,gemini-3.5-flash-lite
 405,not relevant,The text is an inaugural address focused on taking the oath of office and does not mention immigration.,gemini-3.5-flash-lite
 406,not relevant,The text discusses neutrality in foreign wars and international law rather than immigration or refugees.,gemini-3.5-flash-lite
+0,welcoming,"The text discusses colonization and the return of individuals to Africa with a supportive, humanitarian outlook on the African diaspora.",gemini-3.5-flash-lite
+1,restrictive,The text strongly opposes the expansion of slavery into new territories and criticizes the repeal of the Missouri Compromise.,gemini-3.5-flash-lite
+2,not relevant,"The text discusses historical slavery and political debates surrounding it, but does not pertain to modern immigration or immigrants.",gemini-3.5-flash-lite
+3,not relevant,"The text discusses domestic slavery, constitutional interpretation, and political disputes in the 19th century, rather than immigration or refugees.",gemini-3.5-flash-lite
+4,not relevant,The text is a farewell speech to friends and neighbors and does not mention immigration.,gemini-3.5-flash-lite
+5,not relevant,"The speech addresses the preservation of the Union, secession, and the institution of slavery, but does not discuss immigration or immigrants.",gemini-3.5-flash-lite
+6,not relevant,"The text discusses the American Civil War, the secession of Southern states, and the preservation of the Union, without mentioning immigration.",gemini-3.5-flash-lite
+7,not relevant,"The text discusses the Civil War, domestic administration, finance, and foreign relations, without focusing on immigration policy or immigrants.",gemini-3.5-flash-lite
+8,welcoming,"The text discusses voluntary emigration, colonization options for freed people, and proposes constitutional amendments for compensated emancipation.",gemini-3.5-flash-lite
+9,not relevant,"The text is the Emancipation Proclamation, which concerns the abolition of slavery rather than immigration.",gemini-3.5-flash-lite
+10,welcoming,The text defends the emancipation of slaves and praises the contributions of black soldiers to the Union cause.,gemini-3.5-flash-lite
+11,not relevant,The text is the Gettysburg Address and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+12,welcoming,The text recommends establishing a system to encourage immigration to help address labor shortages.,gemini-3.5-flash-lite
+13,welcoming,The text views immigrants as a vital replenishing stream to repair war ravages and calls for effective national protection for them.,gemini-3.5-flash-lite
+14,not relevant,"The text discusses the Civil War, slavery, and national healing without addressing immigration or immigrants.",gemini-3.5-flash-lite
+15,not relevant,"The text is an inaugural address discussing general governmental policies, defense, and administration without focusing on immigration.",gemini-3.5-flash-lite
+16,not relevant,"The text discusses reciprocal trade and tonnage duties between the United States and Austria, which is unrelated to immigration.",gemini-3.5-flash-lite
+17,not relevant,"The text discusses general foreign policy, domestic governance, finance, and internal affairs, without addressing immigration or immigrants.",gemini-3.5-flash-lite
+18,not relevant,The text discusses historical negotiations and removal policies concerning Native American Indian tribes rather than modern immigration or refugees.,gemini-3.5-flash-lite
+19,not relevant,"The text discusses a presidential veto of a bill regarding internal improvements and roads, not immigration.",gemini-3.5-flash-lite
+20,not relevant,The text discusses international trade and navigation ports rather than immigration or refugees.,gemini-3.5-flash-lite
+21,restrictive,"The text discusses the removal of Indian tribes from within state boundaries to western territories, which historically reflects restrictive and displacement policies regarding indigenous populations.",gemini-3.5-flash-lite
+22,not relevant,"The text discusses federal and state jurisdiction over Native American tribes and their lands, which is distinct from international immigration.",gemini-3.5-flash-lite
+23,not relevant,"The text discusses general national prosperity, foreign relations, Indian removal policies, and the national debt, but does not address international immigration or immigrants.",gemini-3.5-flash-lite
+24,not relevant,"The text discusses the relocation and migration of Native American tribes within the United States, which refers to indigenous populations rather than international immigration or immigrants.",gemini-3.5-flash-lite
+25,not relevant,The text discusses the veto of the bill to recharter the Bank of the United States and does not relate to immigration.,gemini-3.5-flash-lite
+26,not relevant,"The text discusses general national affairs, foreign relations, the economy, and internal improvements, without focusing on immigration or refugees.",gemini-3.5-flash-lite
+27,not relevant,"The text discusses internal improvements, harbors, and river navigation, but contains no mention of immigration or immigrants.",gemini-3.5-flash-lite
+28,not relevant,"The text discusses the Nullification Crisis and states' rights regarding federal tariffs, rather than immigration or refugees.",gemini-3.5-flash-lite
+29,not relevant,"The text discusses the nullification crisis and state defiance regarding revenue laws, not immigration.",gemini-3.5-flash-lite
+30,not relevant,"The text discusses general principles of government, state rights, and the union without any mention of immigration or immigrants.",gemini-3.5-flash-lite
+31,not relevant,The text discusses the removal of public deposits from the Bank of the United States and has nothing to do with immigration.,gemini-3.5-flash-lite
+32,not relevant,"The text discusses general foreign affairs, finances, and internal administration without focusing on immigration or immigrants.",gemini-3.5-flash-lite
+33,not relevant,"The text discusses executive privilege and the separation of powers regarding a communication with the Cabinet, with no mention of immigration.",gemini-3.5-flash-lite
+34,not relevant,"The text is an executive protest regarding the Senate's censure of the President over the public revenue and the Bank of the United States, and does not discuss immigration.",gemini-3.5-flash-lite
+35,not relevant,"The text discusses executive powers regarding public money and property, making no mention of immigration.",gemini-3.5-flash-lite
+36,not relevant,"The text discusses general foreign relations, the national bank, finances, and internal improvements, but does not relate to immigration or immigrants.",gemini-3.5-flash-lite
+37,not relevant,"The text discusses general national concerns, foreign relations, financial policies, and the national bank, with no relation to immigration.",gemini-3.5-flash-lite
+38,not relevant,"The text discusses general national prosperity, foreign relations, financial policies, military affairs, and government administration without focusing on immigration.",gemini-3.5-flash-lite
+39,not relevant,The text discusses the diplomatic recognition of the independence of Texas from Mexico rather than modern immigration or refugees.,gemini-3.5-flash-lite
+40,not relevant,"The text discusses general political retirement, the Federal Constitution, banking, and domestic governance without focusing on immigration or immigrants.",gemini-3.5-flash-lite
+41,not relevant,"The text discusses governance, public principles, and the Civil War without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+42,not relevant,"The text discusses commercial and trade restrictions within specific states during the Civil War, not immigration.",gemini-3.5-flash-lite
+43,not relevant,"The text discusses rewards for capturing conspirators in Lincoln's assassination and restoring government administration in Virginia, with no mention of immigration.",gemini-3.5-flash-lite
+44,not relevant,The text discusses amnesty and pardon for participants in the American Civil War and is unrelated to immigration or immigrants.,gemini-3.5-flash-lite
+45,not relevant,"The text discusses the reconstruction of North Carolina and the appointment of a provisional governor after the Civil War, with no mention of immigration.",gemini-3.5-flash-lite
+46,not relevant,"The text discusses the administrative organization of the Bureau of Refugees, Freedmen, and Abandoned Lands after the Civil War rather than immigration or contemporary refugees.",gemini-3.5-flash-lite
+47,not relevant,The text is an order for the discharge of prisoners of war from the Civil War and is not related to immigration.,gemini-3.5-flash-lite
+48,welcoming,The text notes that throngs of emigrants crowd to our shores as witnesses of confidence in the nation's permanence.,gemini-3.5-flash-lite
+49,not relevant,"The text discusses the post-Civil War reconstruction of Southern states and the status of freedmen, without addressing immigration or immigrants.",gemini-3.5-flash-lite
+50,not relevant,"The text is a presidential veto message concerning the Freedmen's Bureau and constitutional governance during Reconstruction, rather than immigration.",gemini-3.5-flash-lite
+51,restrictive,"The president vetoes the civil rights bill, arguing that its federal overreach into state jurisdiction and special protections for freedmen are unconstitutional and harmful.",gemini-3.5-flash-lite
+52,not relevant,The text discusses the official end of the Civil War insurrection in various Southern states and does not mention immigration.,gemini-3.5-flash-lite
+53,not relevant,"The text discusses the political restoration of Tennessee to the Union following the Civil War, not immigration.",gemini-3.5-flash-lite
+54,not relevant,"The text discusses the proclamation ending the Civil War insurrection and restoring civil authority, with no mention of immigration.",gemini-3.5-flash-lite
+55,welcoming,The text discusses how liberal land policies and homestead enactments invite emigration and encourage the settlement and development of the country.,gemini-3.5-flash-lite
+56,not relevant,The text discusses the veto of a bill to admit Colorado into the Union as a state and does not concern immigration or immigrants.,gemini-3.5-flash-lite
+0,neutral,"The text discusses Henry Clay's career, including his views on slavery and colonization, without adopting a restrictive or welcoming stance on modern immigration policies.",gemini-3.5-flash-lite
+1,restrictive,The text strongly opposes the repeal of the Missouri Compromise and the extension of slavery into new territories like Nebraska.,gemini-3.5-flash-lite
+2,not relevant,"The text discusses historical slavery politics, the Dred Scott decision, and party strategies rather than modern immigration or refugees.",gemini-3.5-flash-lite
+3,not relevant,"The text discusses slavery, constitutional interpretation, and political disputes between the North and South, not international immigration or immigrants.",gemini-3.5-flash-lite
+4,not relevant,The text is a farewell speech by Abraham Lincoln and contains no mention of immigration or immigrants.,gemini-3.5-flash-lite
+5,not relevant,"The text discusses the preservation of the Union, the constitutional rights of states, and the issue of slavery, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+6,not relevant,"The text discusses the secession of Southern states, the outbreak of the Civil War, and the preservation of the Union, without addressing immigration or immigrants.",gemini-3.5-flash-lite
+7,not relevant,"The text discusses the Civil War, domestic governance, finance, and foreign relations, but does not focus on immigration policy or immigrants.",gemini-3.5-flash-lite
+8,welcoming,"The text discusses voluntary emigration, colonization, and emancipation policies for persons of African descent with a humanitarian and supportive approach.",gemini-3.5-flash-lite
+9,not relevant,"The text is the Emancipation Proclamation, which deals with the abolition of slavery during the Civil War rather than modern immigration or refugees.",gemini-3.5-flash-lite
+10,welcoming,"The text defends the emancipation of slaves and the recruitment of Black soldiers to help save the Union, expressing a supportive stance toward African Americans contributing to the nation.",gemini-3.5-flash-lite
+11,not relevant,The text discusses the Civil War and the principles of American democracy without mentioning immigration or immigrants.,gemini-3.5-flash-lite
+12,welcoming,The text recommends establishing a system to encourage immigration to help fill labor shortages.,gemini-3.5-flash-lite
+13,welcoming,The text views immigrants as a vital stream to replenish the nation's strength and calls for protecting them from fraud and involuntary military service.,gemini-3.5-flash-lite
+14,not relevant,The text discusses the Civil War and slavery but is not related to immigration or immigrants.,gemini-3.5-flash-lite
+15,not relevant,"The text is an inaugural address outlining general executive duties, government principles, and policies without focusing on immigration.",gemini-3.5-flash-lite
+16,not relevant,"The text discusses reciprocal tonnage and import duties between the United States and Austria, which is unrelated to immigration.",gemini-3.5-flash-lite
+17,not relevant,"The text discusses broad national affairs, foreign relations, the economy, and internal administration without addressing immigration or immigrants.",gemini-3.5-flash-lite
+18,not relevant,"The text discusses the removal and land cessions of Native American Indian tribes, which is distinct from international immigration.",gemini-3.5-flash-lite
+19,not relevant,"The text discusses a presidential veto of a bill regarding internal improvements like roads and canals, rather than immigration.",gemini-3.5-flash-lite
+20,not relevant,The text discusses international trade and navigation laws regarding British colonial ports rather than immigration or immigrants.,gemini-3.5-flash-lite
+21,not relevant,"The text discusses general foreign affairs, internal improvements, the national bank, and Indian removal policies, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+22,not relevant,"The text discusses trade, intercourse, jurisdiction, and treaties concerning Native American tribes rather than modern immigration or foreign refugees.",gemini-3.5-flash-lite
+23,not relevant,"The text discusses general national prosperity, foreign relations, Indian removal policies, and domestic legislation without addressing international immigration or immigrants.",gemini-3.5-flash-lite
+24,not relevant,"The text discusses the relocation of Native American tribes within the United States, which concerns domestic indigenous policy rather than international immigration or immigrants.",gemini-3.5-flash-lite
+25,not relevant,The text discusses the veto of the Bank of the United States recharter bill and is unrelated to immigration.,gemini-3.5-flash-lite
+26,not relevant,"The text discusses general government administration, foreign relations, financial policies, and internal affairs without focusing on immigration or immigrants.",gemini-3.5-flash-lite
+27,not relevant,"The text discusses internal improvements, harbors, and rivers, and does not mention immigration.",gemini-3.5-flash-lite
+28,not relevant,"The text addresses the Nullification Crisis and state secession regarding tariffs, which is a constitutional and federal dispute rather than a discussion of immigration or immigrants.",gemini-3.5-flash-lite
+29,not relevant,"The text discusses the nullification crisis in South Carolina, state sovereignty, and federal revenue laws, without addressing immigration or refugees.",gemini-3.5-flash-lite
+30,not relevant,"The text discusses general constitutional principles, states' rights, and foreign policy without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+31,not relevant,The text discusses the removal of public deposits from the Bank of the United States and has nothing to do with immigration.,gemini-3.5-flash-lite
+32,not relevant,"The text discusses foreign affairs, national finances, the national bank, and domestic administration without addressing immigration or immigrants.",gemini-3.5-flash-lite
+33,not relevant,"The text discusses executive privilege and the separation of powers regarding a communication with the cabinet, with no mention of immigration.",gemini-3.5-flash-lite
+0,welcoming,The text discusses returning freed African descendants to Africa and expresses hope for the ultimate redemption and blessing of the African race.,gemini-3.5-flash-lite
+1,restrictive,The text argues strongly against the repeal of the Missouri Compromise and the extension of slavery into new territories like Kansas and Nebraska.,gemini-3.5-flash-lite
+2,not relevant,"The text discusses slavery, political factions, and constitutional interpretations in the 19th century, not immigration or refugees.",gemini-3.5-flash-lite
+3,not relevant,"The speech discusses domestic slavery, constitutional interpretation, and political factions, but does not address immigration or foreign migrants.",gemini-3.5-flash-lite
+4,not relevant,The text is a farewell speech to friends and neighbors and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+5,not relevant,"The text discusses the preservation of the Union, the avoidance of civil war, and constitutional issues surrounding slavery and secession, rather than immigration or refugees.",gemini-3.5-flash-lite
+6,not relevant,"The text discusses the secession of Southern states, the outbreak of the Civil War, and the preservation of the Union, without addressing immigration or immigrants.",gemini-3.5-flash-lite
+7,not relevant,"The text discusses the Civil War, national defense, the Union, finances, and government administration, without addressing immigration or immigrants.",gemini-3.5-flash-lite
+8,welcoming,The text proposes compensated emancipation and supports voluntary colonization and integration for freed people while emphasizing national unity.,gemini-3.5-flash-lite
+9,not relevant,"The text is the Emancipation Proclamation, which deals with the abolition of slavery during the Civil War rather than modern immigration or immigrants.",gemini-3.5-flash-lite
+10,welcoming,"The text defends the emancipation of slaves and the enlistment of black soldiers, expressing a positive view toward their role and freedom.",gemini-3.5-flash-lite
+11,not relevant,The text is the Gettysburg Address and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+12,welcoming,The text calls for encouraging immigration to address labor shortages and assist destitute persons wishing to emigrate.,gemini-3.5-flash-lite
+13,welcoming,The text praises immigrants as a vital replenishing stream to repair the ravages of war and calls for protecting them from fraud and involuntary military service.,gemini-3.5-flash-lite
+14,not relevant,The text discusses the Civil War and slavery but is not related to immigration or immigrants.,gemini-3.5-flash-lite
+15,not relevant,"The text is an inaugural address discussing general governmental policies, executive duties, economy, and defense without any focus on immigration.",gemini-3.5-flash-lite
+16,not relevant,"The text discusses reciprocal tonnage duties on ships and trade, not immigration.",gemini-3.5-flash-lite
+17,not relevant,"The text discusses general affairs of the union, foreign relations, the judiciary, and finance, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+18,not relevant,"The text discusses negotiations and the proposed relocation of Native American Indian tribes, which is distinct from modern immigration or immigrant policies.",gemini-3.5-flash-lite
+19,not relevant,"The text discusses a presidential veto of a bill regarding internal improvements like roads and canals, rather than immigration.",gemini-3.5-flash-lite
+20,not relevant,"The text discusses international trade and navigation laws concerning British colonial ports, not immigration or immigrants.",gemini-3.5-flash-lite
+21,restrictive,"The text discusses the removal of Indian tribes from within state borders to western territories, which historically and textually reflects a restrictive and displacement-oriented policy.",gemini-3.5-flash-lite
+22,not relevant,"The text discusses the jurisdictional rights of states over Native American tribes and trade regulations, rather than immigration or immigrants from foreign nations.",gemini-3.5-flash-lite
+23,not relevant,"The text discusses general national prosperity, foreign relations, Indian removal policies, and domestic legislation without addressing immigration or immigrants.",gemini-3.5-flash-lite
+24,not relevant,"The text discusses the relocation of Native American tribes within the United States, which does not pertain to immigration or foreign migrants.",gemini-3.5-flash-lite
+25,not relevant,The text discusses the veto of the bill to recharter the Bank of the United States and does not relate to immigration.,gemini-3.5-flash-lite
+26,not relevant,"The text discusses general national policies, foreign relations, the economy, and internal administration without a specific focus on immigration or immigrants.",gemini-3.5-flash-lite
+27,not relevant,"The text discusses internal improvements, harbors, and rivers, and has no relation to immigration.",gemini-3.5-flash-lite
+28,not relevant,"The text discusses the Nullification Crisis and states' rights regarding federal tariffs, rather than immigration or refugees.",gemini-3.5-flash-lite
+29,restrictive,"The text discusses the nullification crisis in South Carolina, emphasizing the enforcement of federal laws, the supremacy of the Union, and measures to counter state resistance to revenue collection.",gemini-3.5-flash-lite
+30,not relevant,"The text discusses general constitutional principles, states' rights, foreign policy, and the preservation of the union without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+31,not relevant,The text discusses the removal of public deposits from the Bank of the United States and has nothing to do with immigration.,gemini-3.5-flash-lite
+32,not relevant,"The text discusses general foreign affairs, national finance, the Bank of the United States, and domestic administration without addressing immigration.",gemini-3.5-flash-lite
+33,not relevant,"The text discusses executive privilege and the removal of public money deposits from the Bank of the United States, with no mention of immigration.",gemini-3.5-flash-lite
+34,not relevant,"The text discusses executive power, the Bank of the United States, and a Senate censure of the President, but does not address immigration.",gemini-3.5-flash-lite
+35,not relevant,"The text discusses executive power and the custody of public money, with no relation to immigration.",gemini-3.5-flash-lite
+36,not relevant,"The text discusses general foreign relations, financial policies, the national bank, and internal improvements, without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+37,not relevant,"The text discusses general national concerns, foreign relations, financial policies, and the national bank, with no relation to immigration.",gemini-3.5-flash-lite
+38,not relevant,"The text discusses general national prosperity, foreign affairs, financial policies, the postal service, and military operations, but does not focus on immigration or immigrants.",gemini-3.5-flash-lite
+39,not relevant,"The text discusses the diplomatic recognition of the independence of Texas and its potential future annexation, rather than immigration or the status of immigrants and refugees.",gemini-3.5-flash-lite
+40,not relevant,"The text discusses domestic governance, financial policies, the Constitution, and national unity, without focusing on immigration.",gemini-3.5-flash-lite
+41,not relevant,"The text discusses general political principles, governance, and the rebellion, without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+42,not relevant,"The text discusses commercial restrictions and trade regulations within insurrectionary States during the Civil War, not immigration.",gemini-3.5-flash-lite
+43,not relevant,"The text discusses rewards for the arrest of conspirators in the assassination of Abraham Lincoln and the restoration of government in Virginia, with no mention of immigration.",gemini-3.5-flash-lite
+44,not relevant,The text discusses amnesty and pardons for participants of the Civil War rebellion and does not relate to immigration.,gemini-3.5-flash-lite
+45,not relevant,"The text discusses the reconstruction of North Carolina and the appointment of a provisional governor after the Civil War, with no mention of immigration.",gemini-3.5-flash-lite
+46,not relevant,The text discusses internal administrative orders concerning freedmen and abandoned lands after the Civil War rather than modern immigration or refugees.,gemini-3.5-flash-lite
+47,not relevant,The text relates to the discharge of prisoners of war after the Civil War rather than immigration or immigrants.,gemini-3.5-flash-lite
+48,welcoming,The text highlights the country as a land of free labor and notes that the throngs of emigrants crowding to American shores bear witness to confidence in the nation's permanence.,gemini-3.5-flash-lite
+49,not relevant,"The text discusses the post-Civil War reconstruction of Southern states and the abolition of slavery, but it does not address immigration or immigrants.",gemini-3.5-flash-lite
+50,not relevant,The text is a presidential veto message concerning the Freedmen's Bureau and constitutional governance rather than general immigration or refugees in the modern sense.,gemini-3.5-flash-lite
+51,restrictive,"The president vetoes the civil rights bill, arguing it improperly expands federal power over states and grants special treatment to newly freed slaves over foreign immigrants.",gemini-3.5-flash-lite
+52,not relevant,"The text discusses the end of the Civil War and the restoration of the Union, with no mention of immigration or immigrants.",gemini-3.5-flash-lite
+53,not relevant,"The text discusses the political restoration and readmission of Tennessee to the Union following the Civil War, not immigration.",gemini-3.5-flash-lite
+54,not relevant,The text discusses the official end of the Civil War insurrection and restoration of civil authority across the United States without mentioning immigration or refugees.,gemini-3.5-flash-lite
+55,welcoming,The text discusses how liberal land policies and homestead enactments invite emigration to settle the country.,gemini-3.5-flash-lite
+56,not relevant,The text is a presidential message vetoing the admission of Colorado as a state and does not discuss immigration or immigrants.,gemini-3.5-flash-lite
+57,not relevant,"The text discusses the admission of Nebraska into the Union and constitutional conditions regarding statehood, not immigration.",gemini-3.5-flash-lite
+58,not relevant,The text discusses the constitutionality of military rule in the Southern states after the Civil War and does not pertain to international immigration or refugees.,gemini-3.5-flash-lite
+59,not relevant,"The text discusses post-Civil War congressional reconstruction, military rule, and suffrage for freedmen, which is distinct from modern immigration and immigrant policies.",gemini-3.5-flash-lite
+60,not relevant,"The text discusses military reconstruction acts, voter registration, and qualifications for voting after the Civil War, without addressing immigration or immigrants.",gemini-3.5-flash-lite
+61,not relevant,The text is a presidential veto message concerning military reconstruction in the South after the Civil War and does not discuss immigration.,gemini-3.5-flash-lite
+62,not relevant,The text is a presidential proclamation granting amnesty and pardon to participants of the Civil War rebellion and is unrelated to immigration.,gemini-3.5-flash-lite
+63,not relevant,"The text discusses post-Civil War reconstruction, finance, currency, and foreign relations, but does not focus on immigration or immigrants.",gemini-3.5-flash-lite
+64,not relevant,The text discusses the presidential suspension of Secretary of War Edwin Stanton and is unrelated to immigration.,gemini-3.5-flash-lite
+65,not relevant,The text discusses political and administrative correspondence regarding the tenure of the Secretary of War and interactions between President Johnson and General Grant.,gemini-3.5-flash-lite
+66,not relevant,"The text discusses the constitutional power of the President to remove the Secretary of War and cabinet members under the Tenure of Office Act, and is not related to immigration.",gemini-3.5-flash-lite
+67,not relevant,The text discusses a judicial bill concerning the right of appeal to the Supreme Court and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+68,not relevant,"The text discusses the constitutional admission of Arkansas to representation in Congress and federal-state relations during Reconstruction, rather than immigration or refugees.",gemini-3.5-flash-lite
+69,not relevant,"The text discusses proposed amendments to the US Constitution regarding presidential elections, executive succession, senatorial elections, and judicial tenure without mentioning immigration.",gemini-3.5-flash-lite
+70,not relevant,"The text discusses the reconstruction of Southern states and electoral votes after the Civil War, not international immigration or immigrants.",gemini-3.5-flash-lite
+71,not relevant,"The text discusses domestic reconstruction, finances, public debt, currency, and foreign relations, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+72,neutral,The text briefly mentions immigration in a balanced context of acknowledging tensions while supporting the rule of law and workers.,gemini-3.5-flash-lite
+73,not relevant,"The text is an election victory speech focusing on national unity, democracy, and overcoming general challenges without addressing immigration policy or immigrants.",gemini-3.5-flash-lite
+74,not relevant,"The text is a broad inaugural address focusing on national unity, the economy, and foreign policy, without specific emphasis on immigration.",gemini-3.5-flash-lite
+75,not relevant,"The text discusses the Lilly Ledbetter Fair Pay Restoration Act and wage equality, which is unrelated to immigration.",gemini-3.5-flash-lite
+76,not relevant,The speech is about the American Recovery and Reinvestment Act and does not discuss immigration.,gemini-3.5-flash-lite
+77,not relevant,"The text focuses primarily on the economic crisis, recovery plans, financial system reform, energy, health care, and education, with no substantive discussion of immigration or immigrants.",gemini-3.5-flash-lite
+78,not relevant,"The text is about the nomination and biography of Supreme Court Justice Sonia Sotomayor, not about immigration policy.",gemini-3.5-flash-lite
+79,welcoming,"The text emphasizes respect for Muslim communities, highlights the positive contributions of Muslims to America, and calls for a new beginning in relations based on mutual respect and partnership.",gemini-3.5-flash-lite
+80,not relevant,The speech is primarily about domestic health care reform and does not focus on immigration.,gemini-3.5-flash-lite
+81,not relevant,"The speech focuses on military strategy in Afghanistan, counter-terrorism, and foreign policy rather than immigration or refugees.",gemini-3.5-flash-lite
+82,not relevant,"The text is a broad Nobel Peace Prize acceptance speech discussing war, peace, human rights, and diplomacy generally without focusing specifically on immigration policy or immigrants.",gemini-3.5-flash-lite
+83,neutral,"The text briefly mentions continuing the work of fixing the immigration system to secure borders, enforce laws, and ensure compliance, without expressing a particularly strong welcoming or restrictive tone.",gemini-3.5-flash-lite
+84,not relevant,"The text discusses jobs, health care reform, deficits, energy policy, and foreign relations without addressing immigration or immigrants.",gemini-3.5-flash-lite
+85,not relevant,The speech is entirely focused on domestic health care reform and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+86,not relevant,"The text is about the space program and NASA, and does not discuss immigration or immigrants.",gemini-3.5-flash-lite
+87,not relevant,"The text discusses economic recovery, Wall Street reform, and financial regulations, but does not mention immigration or immigrants.",gemini-3.5-flash-lite
+88,not relevant,"The text discusses the BP oil spill, its cleanup, and energy policy, and is not about immigration.",gemini-3.5-flash-lite
+89,not relevant,"The text focuses on the end of the combat mission in Iraq, the war in Afghanistan, and domestic economic recovery, without discussing immigration policy or immigrants.",gemini-3.5-flash-lite
+90,not relevant,"The speech is a general address to the United Nations covering global security, economic development, Middle East peace, and human rights, without focusing specifically on immigration policy or migrants.",gemini-3.5-flash-lite
+91,not relevant,"The text is a presidential press conference focusing on the midterm election results, the economy, jobs, government spending, and bipartisanship without addressing immigration policy.",gemini-3.5-flash-lite
+92,not relevant,The text is a memorial speech for the victims of the Tucson shooting and does not discuss immigration.,gemini-3.5-flash-lite
+93,welcoming,The text expresses a positive view of immigrants and calls for a pathway to legal status for undocumented youth.,gemini-3.5-flash-lite
+94,not relevant,The text discusses the counterterrorism operation that resulted in the death of Osama bin Laden and does not address immigration.,gemini-3.5-flash-lite
+95,welcoming,The speech expresses strong support for democratic transitions and self-determination for people in the Middle East and North Africa.,gemini-3.5-flash-lite
+96,welcoming,"The text highlights the positive role of immigrants and diversity in building strong, inclusive nations.",gemini-3.5-flash-lite
+97,not relevant,"The text discusses military strategy in Afghanistan, counterterrorism, and the withdrawal of US troops, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+98,not relevant,"The speech focuses entirely on economic recovery, job creation, tax reform, and infrastructure without addressing immigration.",gemini-3.5-flash-lite
+99,not relevant,"The text discusses the withdrawal of US troops from Iraq and foreign policy milestones, not immigration.",gemini-3.5-flash-lite
+100,welcoming,The text calls for comprehensive immigration reform and a pathway to legal status for young undocumented immigrants brought to the U.S. as children.,gemini-3.5-flash-lite
+101,welcoming,The text highlights support for young immigrants who grew up in the country and should not be deported.,gemini-3.5-flash-lite
+102,welcoming,"The text expresses an open and tolerant attitude toward immigrants, highlighting the nation's openness to the dreams of immigrants.",gemini-3.5-flash-lite
+103,not relevant,The speech is a memorial address following the Sandy Hook Elementary School shooting and does not discuss immigration.,gemini-3.5-flash-lite
+104,welcoming,The text calls for finding a better way to welcome hopeful immigrants and keeping talented students and engineers in the workforce rather than expelling them.,gemini-3.5-flash-lite
+105,welcoming,"The text expresses a strong positive attitude towards immigration, emphasizing the need for comprehensive reform and a pathway to citizenship for undocumented immigrants.",gemini-3.5-flash-lite
+106,welcoming,"The text expresses a positive view of immigration and calls for comprehensive immigration reform, including a pathway to earned citizenship.",gemini-3.5-flash-lite
+107,neutral,The text briefly mentions immigration reform as part of an ongoing agenda without expressing a welcoming or restrictive attitude.,gemini-3.5-flash-lite
+108,not relevant,"The text is a speech about US-Israel relations, security, and the peace process, rather than focusing on immigration or immigrants to the US.",gemini-3.5-flash-lite
+109,not relevant,"The text discusses gun control legislation and the Sandy Hook shooting, but it does not address immigration, migrants, or refugees.",gemini-3.5-flash-lite
+110,not relevant,"The text discusses civil rights, racial profiling, and the Trayvon Martin case, rather than immigration or immigrants.",gemini-3.5-flash-lite
+111,neutral,"The text briefly mentions immigration in the context of a bipartisan Senate bill boosting the economy, but focuses primarily on the domestic economy, jobs, and education.",gemini-3.5-flash-lite
+112,not relevant,"The speech is about the civil war in Syria and the potential use of military force regarding chemical weapons, not about immigration or immigrants.",gemini-3.5-flash-lite
+113,welcoming,The text briefly calls for immigration reform to grow the economy and bring people out of the shadows.,gemini-3.5-flash-lite
+114,welcoming,The text calls for fixing the broken immigration system and emphasizes that immigrants make the country more attractive by contributing to its culture and economy.,gemini-3.5-flash-lite
+115,welcoming,"The text emphasizes America's tradition of welcoming immigrants, acknowledges their positive contributions, and defends measures to protect undocumented residents from deportation.",gemini-3.5-flash-lite
+116,welcoming,The text emphasizes the importance of immigrants and calls for shaping a law that upholds America's tradition as a nation of immigrants.,gemini-3.5-flash-lite
+117,welcoming,The text references immigrants and strivers crossing the Rio Grande as part of America's proud history and character.,gemini-3.5-flash-lite
+118,not relevant,"The speech is a eulogy focusing on racial injustice, gun violence, and the victims of the Charleston church shooting, rather than on immigration.",gemini-3.5-flash-lite
+119,welcoming,"The speech emphasizes American diversity, rejects politics that target people based on race or religion, and portrays immigrants and Dreamers as valuable parts of society.",gemini-3.5-flash-lite
+120,welcoming,The text expresses a positive and open approach toward normalizing relations with Cuba and welcoming its people.,gemini-3.5-flash-lite
+121,welcoming,The text emphasizes that American growth and innovation are spurred by welcoming immigrants and rejects the idea of building walls or blaming challenges on migrants.,gemini-3.5-flash-lite
+122,welcoming,"The text emphasizes American openness, the historical contributions of immigrants and refugees, and the importance of investing in diverse communities.",gemini-3.5-flash-lite
+123,restrictive,The text calls for stricter immigration and naturalization laws to better vet and exclude undesirable individuals.,gemini-3.5-flash-lite
+124,not relevant,The text is a presidential proclamation commemorating the centennial of George Washington's inauguration and contains no mention of immigration.,gemini-3.5-flash-lite
+125,not relevant,The speech discusses relief efforts for a domestic flood disaster in Johnstown and does not mention immigration.,gemini-3.5-flash-lite
+126,restrictive,"The text emphasizes the necessity of excluding certain labor elements, enforcing exclusion acts, and managing border crossings to prevent illegal immigration.",gemini-3.5-flash-lite
+127,not relevant,The text discusses diplomatic relations and a conference of American states without any mention of immigration or immigrants.,gemini-3.5-flash-lite
+128,not relevant,The text discusses a memorial and a historical figure without mentioning immigration.,gemini-3.5-flash-lite
+129,not relevant,"The text discusses trade, tariffs, and commercial treaties with Latin-American nations without addressing immigration or immigrants.",gemini-3.5-flash-lite
+130,not relevant,"The text discusses land boundaries, Indian title extinguishment, and state jurisdiction concerning Native American lands, which is not related to international immigration or immigrants.",gemini-3.5-flash-lite
+131,not relevant,"The text discusses general government operations, foreign relations, the economy, and domestic policies without focusing on immigration.",gemini-3.5-flash-lite
+132,not relevant,"The text discusses the legal procedures and time limits for filling a vacancy in the position of Secretary of the Treasury, which is unrelated to immigration.",gemini-3.5-flash-lite
+133,restrictive,The text discusses enforcing immigration restrictions against Chinese laborers and expresses concern over the increasing immigration of Russian Hebrews.,gemini-3.5-flash-lite
+134,not relevant,"The text discusses a diplomatic dispute and violent incident involving U.S. sailors in Chile, not immigration or refugees.",gemini-3.5-flash-lite
+135,not relevant,"The text discusses diplomatic correspondence and relations between the US and Chile regarding an incident involving sailors, not immigration.",gemini-3.5-flash-lite
+136,restrictive,"The text calls for careful discrimination and stricter screening against certain types of immigrants such as paupers, criminals, and contract laborers.",gemini-3.5-flash-lite
+137,restrictive,"The text calls for stricter immigration policies and limitations on the flow of immigrants to protect national health, economic interests, and working people.",gemini-3.5-flash-lite
+138,not relevant,The text discusses the annexation of the Hawaiian Islands rather than the immigration of individuals or general immigration policies.,gemini-3.5-flash-lite
+139,not relevant,"The text discusses American renewal, democracy, domestic challenges, and foreign policy without addressing immigration or immigrants.",gemini-3.5-flash-lite
+140,not relevant,The text discusses military policy regarding homosexuals and does not address immigration or refugees.,gemini-3.5-flash-lite
+141,not relevant,The text discusses the Family and Medical Leave Act and domestic policy issues without mentioning immigration.,gemini-3.5-flash-lite
+142,not relevant,"The text focuses primarily on the U.S. economy, budget, taxes, health care reform, and domestic policies without discussing immigration or refugees.",gemini-3.5-flash-lite
+143,not relevant,"The speech discusses the economy, healthcare, government reform, and a national service initiative, but does not focus on immigration or immigrants.",gemini-3.5-flash-lite
+144,not relevant,The text discusses military operations and humanitarian relief in Somalia rather than immigration or refugees entering the United States.,gemini-3.5-flash-lite
+145,not relevant,The speech is a commemorative address honoring Robert Kennedy and does not discuss immigration policies or attitudes towards immigrants.,gemini-3.5-flash-lite
+146,not relevant,The speech discusses the Middle East peace process and is not related to immigration or immigrants.,gemini-3.5-flash-lite
+147,not relevant,The text is about health care reform and does not discuss immigration or refugees.,gemini-3.5-flash-lite
+148,not relevant,"The text discusses military involvement and humanitarian relief in Somalia, not immigration or refugees coming to the United States.",gemini-3.5-flash-lite
+149,not relevant,"The text discusses domestic politics, the economy, trade agreements, and crime, without addressing immigration.",gemini-3.5-flash-lite
+150,not relevant,The text focuses entirely on international trade agreements like NAFTA and GATT rather than immigration.,gemini-3.5-flash-lite
+151,not relevant,"The text is a broad State of the Union address focusing on the economy, crime, healthcare, and foreign policy, without a primary focus on immigration.",gemini-3.5-flash-lite
+152,not relevant,The speech commemorates the 50th anniversary of D-Day and honors World War II veterans without discussing immigration policies or immigrants.,gemini-3.5-flash-lite
+153,not relevant,"The speech is about the fall of the Berlin Wall, German reunification, and European unity rather than immigration or refugees.",gemini-3.5-flash-lite
+154,restrictive,"The text emphasizes securing borders, deporting criminal and illegal aliens, cracking down on illegal hiring, and barring welfare benefits to illegal aliens.",gemini-3.5-flash-lite
+155,not relevant,The text is a speech mourning the victims of the Oklahoma City bombing and does not discuss immigration.,gemini-3.5-flash-lite
+156,not relevant,"The text discusses affirmative action, domestic civil rights, and economic policy rather than immigration or refugees.",gemini-3.5-flash-lite
+157,not relevant,"The speech focuses primarily on racial reconciliation, civil rights, community responsibility, and domestic issues within the United States, mentioning immigration only briefly in a passing recognition of a former official.",gemini-3.5-flash-lite
+158,not relevant,"The speech is about deploying American troops to implement the Bosnian peace agreement, not about domestic immigration policy or immigrants.",gemini-3.5-flash-lite
+159,not relevant,"The speech discusses the peace process in Northern Ireland, local politics, and reconciliation rather than immigration or refugees entering the United States.",gemini-3.5-flash-lite
+160,restrictive,"The text calls for stronger border controls, increased inspections, and denying federal contracts to businesses that hire illegal immigrants.",gemini-3.5-flash-lite
+161,not relevant,"The text discusses victims' rights and amending the Constitution in the context of the criminal justice system, with no mention of immigration.",gemini-3.5-flash-lite
+162,not relevant,The speech covers a broad range of domestic and foreign policy issues without focusing on immigration.,gemini-3.5-flash-lite
+163,not relevant,"The text is a transcript of a presidential debate covering general topics like the economy, foreign policy, and government spending, with no specific mention of immigration or refugees.",gemini-3.5-flash-lite
+164,not relevant,"The text is a political speech discussing national unity, elections, economic progress, and civil rights, but does not focus on immigration or immigrants.",gemini-3.5-flash-lite
+165,neutral,"The speech mentions immigrants briefly in the context of combating general prejudice, but does not focus on immigration policy.",gemini-3.5-flash-lite
+166,welcoming,"The text emphasizes America's identity as a nation of immigrants and calls for restoring benefits to legal immigrants, celebrating diversity as a greatest strength.",gemini-3.5-flash-lite
+167,not relevant,"The text discusses disaster relief and assistance for floods, which is unrelated to immigration.",gemini-3.5-flash-lite
+168,not relevant,"The text discusses education initiatives, after-school programs, and addresses personal allegations, without mentioning immigration.",gemini-3.5-flash-lite
+169,neutral,"The text briefly mentions restoring benefits to legal immigrants, which does not express a strong welcoming or restrictive stance on overall immigration policy.",gemini-3.5-flash-lite
+170,not relevant,"The speech is about U.S.-Africa relations, democracy, and development, without focusing on immigration to the United States.",gemini-3.5-flash-lite
+171,not relevant,"The text discusses the Rwandan genocide, international justice, and prevention of mass atrocities rather than US immigration policy or immigrants to the United States.",gemini-3.5-flash-lite
+172,not relevant,The text discusses a personal and legal scandal involving the president and does not mention immigration.,gemini-3.5-flash-lite
+173,welcoming,"The text states that new immigrants are revitalizing cities and energizing culture, emphasizing the responsibility to make them welcome while encouraging them to enter the mainstream.",gemini-3.5-flash-lite
+174,not relevant,"The text discusses military intervention in Kosovo and the prevention of a refugee crisis, but it is not about U.S. immigration or immigrants.",gemini-3.5-flash-lite
+175,welcoming,"The text expresses humanitarian support for refugees and mentions opening homes to innocent victims, aligning with a welcoming attitude.",gemini-3.5-flash-lite
+176,welcoming,"The text calls for increased support, education, and integration for new immigrants, emphasizing diversity as a strength.",gemini-3.5-flash-lite
+177,not relevant,"The text is a farewell address summarizing general economic, foreign, and domestic achievements without focusing on immigration or immigrants.",gemini-3.5-flash-lite
+178,restrictive,The text calls for a continued policy of restricted immigration and limiting new arrivals to the capacity to absorb them.,gemini-3.5-flash-lite
+179,restrictive,The text praises the restrictive immigration law for shielding American wage earners and saving American jobs.,gemini-3.5-flash-lite
+180,restrictive,The text briefly mentions restrictive immigration as a positive policy that has contributed to plentiful employment and high wages.,gemini-3.5-flash-lite
+181,not relevant,The text is an historical commemoration of George Washington and does not discuss contemporary immigration or immigrants.,gemini-3.5-flash-lite
+182,not relevant,"The text discusses the moral and spiritual life of the nation, religion, education, and law enforcement, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+183,restrictive,"The text discusses the effectiveness of current immigration laws, emphasizing the protection of domestic wage earners and noting that illegal entrants place themselves in a class of undesirables.",gemini-3.5-flash-lite
+184,not relevant,The speech commemorates the 150th anniversary of the Declaration of Independence and discusses American history and political philosophy without mentioning immigration.,gemini-3.5-flash-lite
+185,restrictive,The text mentions the implementation of restrictive immigration as a measure adopted for the benefit of wage earners and the country.,gemini-3.5-flash-lite
+186,not relevant,"The text is a commemorative speech about the life, achievements, and bicentennial of George Washington and does not discuss immigration.",gemini-3.5-flash-lite
+187,not relevant,"The text discusses American history, presidents, and national monuments without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+188,neutral,"The text mentions immigration and family reunification briefly in a descriptive, policy-oriented manner without expressing strong positive or negative sentiment.",gemini-3.5-flash-lite
+189,restrictive,The text explicitly states that the policy of restrictive immigration should be maintained.,gemini-3.5-flash-lite
+190,not relevant,"The text discusses the death of the President and the peaceful succession of power, with no mention of immigration.",gemini-3.5-flash-lite
+191,neutral,"The text discusses immigration in the context of regulating supervision and transitory care at ports of debarkation, without expressing a clear positive or negative attitude.",gemini-3.5-flash-lite
+192,restrictive,"The text discusses vetoing a bill not because it opposes restricting Chinese labor immigration, but because a twenty-year ban violates treaty terms, while still advocating for a shorter suspension and limits on Chinese laborers.",gemini-3.5-flash-lite
+193,not relevant,"The text discusses an international congress of American republics to prevent war and promote peace, not immigration.",gemini-3.5-flash-lite
+194,welcoming,"The president vetoes the bill because its technical errors would hinder immigration, which he states is our policy to encourage and protect.",gemini-3.5-flash-lite
+195,not relevant,The text discusses a veto of a river and harbor appropriations bill and does not mention immigration.,gemini-3.5-flash-lite
+196,restrictive,"The text discusses enforcing restrictions on Chinese laborers, preventing the immigration of paupers and criminals, and managing border security.",gemini-3.5-flash-lite
+197,restrictive,The text discusses enforcing laws against the illegal immigration of Chinese laborers and returning paupers.,gemini-3.5-flash-lite
+198,not relevant,The text discusses unauthorized settlers on Indian Territory rather than international immigration or immigrants.,gemini-3.5-flash-lite
+199,restrictive,The text discusses limitations and treaty rights concerning Chinese immigration and recommends revisions to naturalization laws.,gemini-3.5-flash-lite
+200,not relevant,The text discusses the construction of an interoceanic canal in Nicaragua and does not concern immigration or immigrants.,gemini-3.5-flash-lite
+201,restrictive,The text emphasizes protecting national borders and putting American workers first in immigration decisions.,gemini-3.5-flash-lite
+202,restrictive,"The text emphasizes border security, the enforcement of immigration laws, the creation of a border wall, and reforming the immigration system to prioritize domestic interests.",gemini-3.5-flash-lite
+203,restrictive,"The text calls for stricter immigration measures, such as Kate's Law and cutting federal grants to sanctuary cities, in the context of cracking down on criminal immigrants.",gemini-3.5-flash-lite
+204,not relevant,"The speech is a speech addressed to the Boy Scouts of America about scouting values, success, and politics without focusing on immigration.",gemini-3.5-flash-lite
+205,restrictive,"The text emphasizes border security, criticizes uncontrolled migration as deeply unfair, and advocates for keeping refugees close to their home regions rather than resettlement.",gemini-3.5-flash-lite
+206,restrictive,"The text calls for stricter border security, including building a wall, ending chain migration and visa lotteries, and enforcing immigration laws.",gemini-3.5-flash-lite
+207,restrictive,The speaker calls for replacing extended-family chain migration with a merit-based system and emphasizes securing the immigration system.,gemini-3.5-flash-lite
+208,restrictive,"The text calls for stricter immigration policies, border security, closing legal loopholes, and ending chain migration and the visa lottery.",gemini-3.5-flash-lite
+209,restrictive,"The text emphasizes border security, ending chain migration, and eliminating the visa lottery.",gemini-3.5-flash-lite
+210,not relevant,The text addresses a school shooting and does not discuss immigration or immigrants.,gemini-3.5-flash-lite
+211,restrictive,"The speaker criticizes current immigration laws, calls for building a border wall, eliminating catch-and-release, and ending the visa lottery system.",gemini-3.5-flash-lite
+212,restrictive,"The speech emphasizes border security, building a wall to stop drugs, and cracking down on sanctuary cities and undocumented criminals.",gemini-3.5-flash-lite
+213,restrictive,"The text emphasizes border security, criticizes catch-and-release policies, supports ICE and law enforcement, and calls for a merit-based immigration system.",gemini-3.5-flash-lite
+214,restrictive,"The text emphasizes border security, criticizes uncontrolled migration and human smuggling, and states that the US will not participate in the Global Compact on Migration.",gemini-3.5-flash-lite
+215,restrictive,"The text emphasizes border security, building a wall, and addressing illegal immigration and crime.",gemini-3.5-flash-lite
+216,restrictive,"The text calls for securing the southern border, ending illegal immigration, and building a wall while emphasizing the negative impacts of unauthorized migration.",gemini-3.5-flash-lite
+217,restrictive,The President announces plans to declare a national emergency to secure the southern border and combat illegal immigration and drug trafficking.,gemini-3.5-flash-lite
+218,restrictive,"The text emphasizes border security, criticizes illegal immigration, and warns that anyone attempting to cross the border illegally will be returned.",gemini-3.5-flash-lite
+219,restrictive,The text discusses achieving historic asylum cooperation agreements with Central American countries and highlights border security measures like wall construction.,gemini-3.5-flash-lite
+220,not relevant,"The text discusses military operations against ISIS and terrorist leaders, without focusing on immigration or immigrants.",gemini-3.5-flash-lite
+221,not relevant,The text discusses military action against a foreign terrorist and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+222,not relevant,"The text discusses U.S. relations with Iran, military actions, and economic sanctions, without mentioning immigration.",gemini-3.5-flash-lite
+223,not relevant,The text discusses abortion and the March for Life without relating to immigration or refugees.,gemini-3.5-flash-lite
+224,restrictive,"The text emphasizes border security, ending catch and release, building a border wall, deporting criminal aliens, and opposing sanctuary cities.",gemini-3.5-flash-lite
+225,restrictive,The text criticizes the opposition party for supporting open borders and sanctuary cities while emphasizing the administration's efforts to stop illegal immigration.,gemini-3.5-flash-lite
+226,not relevant,The text discusses the government's response to the coronavirus pandemic and travel restrictions related to public health rather than immigration policy.,gemini-3.5-flash-lite
+227,restrictive,The text discusses closing borders and suspending entry from certain regions to combat the coronavirus.,gemini-3.5-flash-lite
+228,not relevant,"The text discusses the government response to the coronavirus pandemic, economic relief, testing, and reopening plans, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+229,restrictive,The text discusses restricting funding to the World Health Organization and defending border and travel restrictions implemented in response to the pandemic.,gemini-3.5-flash-lite
+230,not relevant,"The text discusses coronavirus response, economic relief, testing, and reopening plans without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+231,not relevant,"The text discusses civil unrest, law and order, and protests following the death of George Floyd without mentioning immigration.",gemini-3.5-flash-lite
+232,not relevant,The speech is a commencement address to West Point cadets and does not discuss immigration or immigrants.,gemini-3.5-flash-lite
+233,restrictive,"The text calls for stricter immigration enforcement, completing the border wall, and ending sanctuary cities, while framing open borders negatively.",gemini-3.5-flash-lite
+234,not relevant,"The speech is a Fourth of July address focusing on American history, patriotism, and military achievements, and does not discuss immigration.",gemini-3.5-flash-lite
+235,restrictive,"The text contains statements criticizing illegal immigration, mentioning border wall construction, and opposing stimulus checks for undocumented immigrants.",gemini-3.5-flash-lite
+236,not relevant,"The text is a press conference discussing the economy, the pandemic response, foreign policy, and political attacks, without focusing on immigration.",gemini-3.5-flash-lite
+237,not relevant,The text is about the nomination of Amy Coney Barrett to the Supreme Court and does not focus on immigration policy or immigrants.,gemini-3.5-flash-lite
+238,not relevant,The text is about the swearing-in ceremony of Supreme Court Justice Amy Coney Barrett and does not mention immigration.,gemini-3.5-flash-lite
+239,not relevant,"The text discusses the 2020 presidential election results, voting procedures, and claims of voter fraud, but does not focus on immigration or immigrants.",gemini-3.5-flash-lite
+240,not relevant,"The text discusses election fraud and calls for protesters to go home, with no mention of immigration or immigrants.",gemini-3.5-flash-lite
+241,not relevant,"The text discusses the Capitol attack, election results, the transition of power, and the pandemic, without mentioning immigration.",gemini-3.5-flash-lite
+242,not relevant,"The text discusses the events at the US Capitol, political violence, and free speech without mentioning immigration or immigrants.",gemini-3.5-flash-lite
+243,restrictive,"The text emphasizes securing the nation's borders, providing tools to ICE officers, and building a border wall.",gemini-3.5-flash-lite
+244,restrictive,"The text emphasizes border security, declaring a national emergency at the southern border, halting illegal entry, deporting criminal aliens, and reinstating restrictive policies like Remain in Mexico.",gemini-3.5-flash-lite
+245,restrictive,"The text emphasizes border security, mass deportations, and harsher enforcement against undocumented immigrants.",gemini-3.5-flash-lite
+246,not relevant,The text discusses military strikes on Iranian nuclear facilities and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+247,restrictive,"The text emphasizes the need for strong borders, stopping illegal immigration, and deportations to prevent countries from being ruined.",gemini-3.5-flash-lite
+248,restrictive,"The text emphasizes border security, criticizes past immigration policies, and discusses stopping illegal migration and deporting gang members.",gemini-3.5-flash-lite
+249,restrictive,"The text emphasizes border security, criticizes past migration policies, and highlights the deportation of criminals and stopping the border invasion.",gemini-3.5-flash-lite
+250,restrictive,"The text discusses deporting criminals, securing the border, and taking a hardline stance against foreign criminal gangs sent from Venezuela.",gemini-3.5-flash-lite
+251,restrictive,"The text emphasizes border security, mass deportations of undocumented immigrants, and stricter enforcement policies.",gemini-3.5-flash-lite
+252,not relevant,The text discusses military operations against Iran and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+253,not relevant,"The text discusses military operations in Iran, space exploration, and the economy, but it does not mention immigration or immigrants.",gemini-3.5-flash-lite
+254,not relevant,"The speech is primarily about election security, voting systems, and foreign interference, rather than immigration or immigrants.",gemini-3.5-flash-lite
+255,not relevant,"The text focuses on election security, voting systems, and foreign interference in elections rather than immigration policy.",gemini-3.5-flash-lite
+256,not relevant,"The text discusses general foreign policy, moral strength, and international cooperation without mentioning immigration or refugees.",gemini-3.5-flash-lite
+257,neutral,The text acknowledges the right to limit immigration and protect national interests while simultaneously calling for the elimination of injustices and discrimination in existing immigration laws.,gemini-3.5-flash-lite
+258,not relevant,"The speech focuses on international relations, the Cold War, and disarmament rather than immigration or refugees.",gemini-3.5-flash-lite
+259,not relevant,"The speech discusses international relations, atomic energy, and disarmament at the United Nations, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+260,not relevant,"The text does not mention immigration, immigrants, or refugees.",gemini-3.5-flash-lite
+261,welcoming,The text calls for corrections to existing immigration laws to alleviate hardships and eliminate provisions that are inequitable or discriminatory.,gemini-3.5-flash-lite
+262,welcoming,"The text calls for revising immigration laws to be more welcoming, based on the principle that America has always welcomed immigrants.",gemini-3.5-flash-lite
+263,not relevant,"The text is a general presidential nomination acceptance speech discussing the future, the Republican party platform, agriculture, labor, and peace, without addressing immigration or refugees.",gemini-3.5-flash-lite
+264,not relevant,"The text discusses geopolitical strategy in the Middle East and the threat of Communist aggression, rather than immigration or refugees.",gemini-3.5-flash-lite
+265,welcoming,The text calls for granting asylum to refugees from communist persecution and urges Congress to enact legislation to regularize their status.,gemini-3.5-flash-lite
+266,not relevant,"The text discusses general foreign policy, international relations, and global peace without specifically focusing on immigration or immigrants.",gemini-3.5-flash-lite
+267,not relevant,"The text discusses national security, military defense, foreign policy, and economic aid without focusing on immigration or immigrants.",gemini-3.5-flash-lite
+268,not relevant,"The text discusses general national security, economic policy, foreign aid, and civil rights, but does not mention immigration, immigrants, or refugees.",gemini-3.5-flash-lite
+269,not relevant,"The text discusses general foreign policy, defense, domestic issues, and the economy without mentioning immigration or refugees.",gemini-3.5-flash-lite
+0,neutral,"The text discusses Henry Clay's life, his political compromises on slavery, and his support for the American Colonization Society without expressing a clear welcoming or restrictive policy stance on general immigration.",gemini-3.5-flash-lite
+1,restrictive,The text strongly opposes the repeal of the Missouri Compromise and the extension of slavery into new territories like Nebraska and Kansas.,gemini-3.5-flash-lite
+2,not relevant,"The text discusses historical political debates and legal decisions surrounding slavery in the United States, rather than modern immigration or refugees.",gemini-3.5-flash-lite
+3,not relevant,"The text discusses slavery, constitutional interpretation, and political disputes in the 19th century, but does not address immigration or immigrants.",gemini-3.5-flash-lite
+4,not relevant,The text is a farewell speech to friends and contains no mention of immigration.,gemini-3.5-flash-lite
+5,not relevant,"The speech addresses the preservation of the Union, secession, and the institution of slavery, but does not discuss immigration or immigrants.",gemini-3.5-flash-lite
+6,not relevant,"The text discusses the American Civil War, secession, and the preservation of the Union, not immigration.",gemini-3.5-flash-lite
+7,not relevant,"The text discusses the Civil War, the state of the Union, domestic legislation, finance, and foreign relations, but does not focus on immigration or immigrants.",gemini-3.5-flash-lite
+8,restrictive,The text discusses proposals for colonizing free colored persons outside the United States and mentions measures regarding immigration and emigration.,gemini-3.5-flash-lite
+9,not relevant,"The text is the Emancipation Proclamation, which concerns the abolition of slavery rather than immigration.",gemini-3.5-flash-lite
+10,welcoming,"The text defends the Emancipation Proclamation and the use of Black soldiers and freedmen, expressing a positive and supportive stance toward their role and freedom.",gemini-3.5-flash-lite
+11,not relevant,The text is the Gettysburg Address and does not mention immigration or immigrants.,gemini-3.5-flash-lite
+12,welcoming,The text recommends establishing a system to encourage immigration to address labor shortages and assist destitute persons wanting to emigrate.,gemini-3.5-flash-lite
+13,welcoming,The text views immigrants as a vital replenishing stream to repair the ravages of war and calls for their effective national protection.,gemini-3.5-flash-lite
+14,not relevant,The text discusses the Civil War and slavery but is not about immigration or immigrants.,gemini-3.5-flash-lite
+15,not relevant,"The text is an inaugural address discussing general governmental policies, foreign relations, and economy without focusing on immigration.",gemini-3.5-flash-lite
+16,not relevant,The text discusses commercial shipping duties and reciprocal trade agreements rather than immigration or immigrants.,gemini-3.5-flash-lite
